@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://liulisa421.github.io/human-signal-site/sitemap.xml
