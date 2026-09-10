@@ -73,4 +73,5 @@ function render(){const term=q.value.trim().toLowerCase();headline.textContent=m
 async function loadData(){try{const r=await fetch('./public_data.json',{cache:'no-store'});if(!r.ok)throw new Error();DATA=normalizePayload(await r.json())}catch{DATA={pain:[],emotion:[],topic:[]}}updateCountries();render()}
 document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));b.classList.add('active');current=b.dataset.type;render()});q.oninput=render;region.onchange=()=>{updateCountries();render()};country.onchange=render;age.onchange=render;period.onchange=render;document.querySelector('.clear').onclick=()=>{q.value='';region.value='亞洲';updateCountries();age.value='全部';period.value='近期';render()};loadData();
 </script>
+<script src="./facet_policy.js"></script>
 </body></html>
