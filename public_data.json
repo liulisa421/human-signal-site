@@ -1,0 +1,9 @@
+{
+  "schema": "human-signal-public-data-v1",
+  "generated_at": "2026-09-10T09:36:33.432773+00:00",
+  "publication_rule": "Explicit PUBLIC_ELIGIBLE + QA locked/completed + semantic JUDGED + judgment readback JUDGED",
+  "count": 0,
+  "items": [],
+  "rejected_after_query": [],
+  "safety_note": "Human Voice is preserved. Source context is not author country. No AI translation is performed by this exporter."
+}
