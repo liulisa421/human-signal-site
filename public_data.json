@@ -1,6 +1,6 @@
 {
   "schema": "human-signal-public-data-v1.3",
-  "generated_at": "2026-09-10T22:24:11.271486+00:00",
+  "generated_at": "2026-09-10T22:26:16.625347+00:00",
   "publication_rule": "Explicit PUBLIC_ELIGIBLE + QA locked/completed + semantic JUDGED + product-scope gate + public-noise cleaning + automated v0.20 market classification + compact source excerpt",
   "count": 752,
   "items": [
