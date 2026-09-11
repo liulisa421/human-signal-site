@@ -1,14 +1,14 @@
 {
   "schema": "human-signal-facet-policy-v1.4",
-  "source_public_records": 4153,
-  "frontend_public_records": 2168,
-  "hidden_until_mature": 1985,
+  "source_public_records": 4246,
+  "frontend_public_records": 2233,
+  "hidden_until_mature": 2013,
   "facets": {
     "region": {
       "visible": false,
       "control": "dropdown",
       "distinct_valid": 1,
-      "valid_records": 2168,
+      "valid_records": 2233,
       "values": [
         "亞洲"
       ]
@@ -17,7 +17,7 @@
       "visible": false,
       "control": "dropdown",
       "distinct_valid": 1,
-      "valid_records": 2168,
+      "valid_records": 2233,
       "values": [
         "台灣"
       ]
@@ -42,7 +42,7 @@
   },
   "market_maturity": {
     "schema": "human-signal-market-maturity-v1",
-    "total_reviewed_public_records": 4153,
+    "total_reviewed_public_records": 4246,
     "thresholds": {
       "min_records": 30,
       "min_share": 0.05,
@@ -53,8 +53,8 @@
     ],
     "markets": {
       "台灣": {
-        "records": 2168,
-        "share": 0.522,
+        "records": 2233,
+        "share": 0.5259,
         "ready": true,
         "reason": "READY"
       }
