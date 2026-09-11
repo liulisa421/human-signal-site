@@ -1,14 +1,34 @@
 (()=>{
+const TOPIC_ZH={
+  'Dating & Relationships':'感情／關係',
+  'Friendship & Social Hurt':'朋友／人際',
+  'Work & Career':'工作／職涯',
+  'Family & Parenting':'家庭／育兒',
+  'Money & Financial Stress':'金錢／財務',
+  'Housing & Living':'居住／生活',
+  'Health & Wellbeing':'健康／身心',
+  'Education & Learning':'學習／教育',
+  'Loneliness & Belonging':'孤獨／歸屬',
+  'Self Growth & Identity':'自我／成長'
+};
 const stripBoardTag=s=>String(s||'').replace(/^\s*\[[^\]]+\]\s*/,'').trim();
 const seriesBase=title=>stripBoardTag(title).replace(/\s*[-–—－]\s*\d{1,2}(?:\s+.*)?$/,'').trim().toLowerCase();
 const numbered=title=>/\s*[-–—－]\s*\d{1,2}(?:\s+|$)/.test(stripBoardTag(title));
 let busy=false;
-function cleanCards(){
+function cleanUI(){
   if(busy)return; busy=true;
   try{
-    document.querySelectorAll('.tags .tag').forEach(el=>{
-      const s=String(el.textContent||'').trim();
-      if(/^年齡\s+(未知|UNKNOWN|全部|GLOBAL)?$/i.test(s))el.remove();
+    const age=document.getElementById('age');
+    if(age){const wrap=age.closest('.f');if(wrap)wrap.style.display='none';age.value='全部';}
+    document.querySelectorAll('.tags').forEach(tags=>{
+      [...tags.querySelectorAll('.tag')].forEach((el,i)=>{
+        const s=String(el.textContent||'').trim();
+        if(/^年齡\b/i.test(s)){el.remove();return;}
+        if(/PTT_|REDDIT_|D_CARD|DCARD|FACEBOOK|INSTAGRAM|THREADS|YOUTUBE/i.test(s) || /・/.test(s)){el.remove();return;}
+        if(TOPIC_ZH[s])el.textContent=TOPIC_ZH[s];
+        else if(i===0 && /[A-Za-z]/.test(s) && !/[\u4e00-\u9fff]/.test(s))el.remove();
+      });
+      if(!tags.children.length)tags.remove();
     });
     document.querySelectorAll('.cluster').forEach(el=>{
       if(el.dataset.shortened==='1')return;
@@ -34,7 +54,7 @@ function cleanCards(){
     }
   } finally {busy=false;}
 }
-const observer=new MutationObserver(()=>cleanCards());
+const observer=new MutationObserver(()=>cleanUI());
 observer.observe(document.documentElement,{childList:true,subtree:true});
-cleanCards();
+cleanUI();
 })();
