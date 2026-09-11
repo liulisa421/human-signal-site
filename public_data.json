@@ -1,11 +1,11 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-11T11:58:30.518300+00:00",
+  "generated_at": "2026-09-11T12:49:50.860188+00:00",
   "items": [
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788783720.A.299.html",
-      "title": "有些「消費／產品體驗」的經歷，真的會讓人感到開心",
-      "human_voice": "有人正在分享一段與「消費／產品體驗」有關的經歷，其中帶著開心的感受。",
+      "title": "有些經歷看似過去了，心裡的開心卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了開心的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -18,8 +18,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788790906.A.902.html",
-      "title": "「家庭／居住／財務」讓人感到苦惱時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「家庭／居住／財務」有關的疑問，帶著苦惱，希望找到可以往前走的方向。",
+      "title": "心裡有點苦惱時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著苦惱，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -32,8 +32,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788820458.A.B4C.html",
-      "title": "有些「消費／人際互動」的經歷，真的會讓人感到不舒服",
-      "human_voice": "有人正在分享一段與「消費／人際互動」有關的經歷，其中帶著不舒服的感受。",
+      "title": "有些經歷看似過去了，心裡的不舒服卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了不舒服的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -46,8 +46,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788824142.A.998.html",
-      "title": "「學習／消費計算」讓人感到擔心時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「學習／消費計算」有關的疑問，帶著擔心，希望找到可以往前走的方向。",
+      "title": "心裡有點擔心時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著擔心，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -60,8 +60,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788835060.A.61D.html",
-      "title": "「商家／消費信任」讓人感到懷疑時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「商家／消費信任」有關的疑問，帶著懷疑，希望找到可以往前走的方向。",
+      "title": "心裡有點懷疑時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著懷疑，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -74,8 +74,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788874640.A.015.html",
-      "title": "有些「朋友／人際」的經歷，真的會讓人感到受傷",
-      "human_voice": "有人正在分享一段與「朋友／人際」有關的經歷，其中帶著受傷的感受。",
+      "title": "有些經歷看似過去了，心裡的受傷卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了受傷的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -88,8 +88,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788876402.A.606.html",
-      "title": "「能力／日常生活」讓人感到好奇時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「能力／日常生活」有關的疑問，帶著好奇，希望找到可以往前走的方向。",
+      "title": "心裡有點好奇時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著好奇，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -102,8 +102,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788755812.A.829.html",
-      "title": "「感情／界線」讓人感到困惑時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「感情／界線」有關的疑問，帶著困惑，希望找到可以往前走的方向。",
+      "title": "心裡有點困惑時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著困惑，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -116,8 +116,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788831459.A.1E1.html",
-      "title": "「感情／關係」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「感情／關係」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -129,8 +129,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788863057.A.834.html",
-      "title": "「感情／社交觀感」讓人感到不安時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「感情／社交觀感」有關的疑問，帶著不安，希望找到可以往前走的方向。",
+      "title": "心裡有點不安時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著不安，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -143,8 +143,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788885759.A.CD3.html",
-      "title": "「感情／關係」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「感情／關係」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -156,8 +156,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788932856.A.89C.html",
-      "title": "有些「朋友／人際」的經歷，真的會讓人感到受傷",
-      "human_voice": "有人正在分享一段與「朋友／人際」有關的經歷，其中帶著受傷的感受。",
+      "title": "有些經歷看似過去了，心裡的受傷卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了受傷的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -170,8 +170,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788932925.A.622.html",
-      "title": "有些「朋友／人際」的經歷，真的會讓人感到受傷",
-      "human_voice": "有人正在分享一段與「朋友／人際」有關的經歷，其中帶著受傷的感受。",
+      "title": "有些經歷看似過去了，心裡的受傷卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了受傷的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -184,8 +184,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788933061.A.8EF.html",
-      "title": "有些「朋友／人際」的經歷，真的會讓人感到受傷",
-      "human_voice": "有人正在分享一段與「朋友／人際」有關的經歷，其中帶著受傷的感受。",
+      "title": "有些經歷看似過去了，心裡的受傷卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了受傷的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -198,8 +198,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788933976.A.94E.html",
-      "title": "有些「朋友／人際」的經歷，真的會讓人感到受傷",
-      "human_voice": "有人正在分享一段與「朋友／人際」有關的經歷，其中帶著受傷的感受。",
+      "title": "有些經歷看似過去了，心裡的受傷卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了受傷的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -212,8 +212,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1724387130.A.996.html",
-      "title": "「平台／安全」帶來擔心時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「平台／安全」有關的困擾，也感到擔心。",
+      "title": "事情卡住又感到擔心時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到擔心。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -226,8 +226,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1729779081.A.485.html",
-      "title": "「詐騙／網路安全」帶來擔心時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「詐騙／網路安全」有關的困擾，也感到擔心。",
+      "title": "事情卡住又感到擔心時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到擔心。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -240,8 +240,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788933482.A.C8D.html",
-      "title": "「感情／社交觀感」讓人感到不安時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「感情／社交觀感」有關的疑問，帶著不安，希望找到可以往前走的方向。",
+      "title": "心裡有點不安時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著不安，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -254,8 +254,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788935114.A.6C5.html",
-      "title": "有些「朋友／人際」的經歷，真的會讓人感到受傷",
-      "human_voice": "有人正在分享一段與「朋友／人際」有關的經歷，其中帶著受傷的感受。",
+      "title": "有些經歷看似過去了，心裡的受傷卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了受傷的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -268,8 +268,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788936769.A.2E4.html",
-      "title": "有些「感情／關係」的經歷，真的會讓人感到苦惱",
-      "human_voice": "有人正在分享一段與「感情／關係」有關的經歷，其中帶著苦惱的感受。",
+      "title": "有些經歷看似過去了，心裡的苦惱卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了苦惱的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -282,8 +282,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788263063.A.F1A.html",
-      "title": "遇到「感情／關係」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「感情／關係」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -295,8 +295,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788270852.A.5AD.html",
-      "title": "遇到「感情／關係」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「感情／關係」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -308,8 +308,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788274465.A.F92.html",
-      "title": "遇到「感情／關係」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「感情／關係」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -321,8 +321,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788274827.A.A0A.html",
-      "title": "遇到「感情／關係」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「感情／關係」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -334,8 +334,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788345188.A.7B3.html",
-      "title": "遇到「感情／關係」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「感情／關係」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -347,8 +347,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788410075.A.813.html",
-      "title": "遇到「感情／關係」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「感情／關係」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -360,8 +360,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788446405.A.2AD.html",
-      "title": "遇到「感情／關係」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「感情／關係」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -373,8 +373,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788447723.A.D5F.html",
-      "title": "遇到「感情／關係」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「感情／關係」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -386,8 +386,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788450627.A.607.html",
-      "title": "遇到「感情／關係」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「感情／關係」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -399,8 +399,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788944245.A.766.html",
-      "title": "「生活議題」讓人感到好奇時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著好奇，希望找到可以往前走的方向。",
+      "title": "心裡有點好奇時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著好奇，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -413,8 +413,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788952777.A.DBF.html",
-      "title": "「生活議題」讓人感到擔心時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著擔心，希望找到可以往前走的方向。",
+      "title": "心裡有點擔心時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著擔心，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -427,8 +427,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788959016.A.7A6.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -440,8 +440,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788959340.A.B4D.html",
-      "title": "有些「生活議題」的經歷，真的會讓人感到受傷",
-      "human_voice": "有人正在分享一段與「生活議題」有關的經歷，其中帶著受傷的感受。",
+      "title": "有些經歷看似過去了，心裡的受傷卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了受傷的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -454,8 +454,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788358844.A.D2A.html",
-      "title": "關於「生活議題」，有人想分享自己的真實經歷",
-      "human_voice": "有人正在分享一段與「生活議題」有關的經歷。",
+      "title": "有些生活經歷，說出來才發現不只自己遇過",
+      "human_voice": "有人正在分享一段自己的經歷，也許你曾有過相似的時刻。",
       "classification_axes": [
         "pain"
       ],
@@ -467,8 +467,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788370615.A.E78.html",
-      "title": "「生活議題」讓人感到壓力時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著壓力，希望找到可以往前走的方向。",
+      "title": "心裡有點壓力時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著壓力，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -481,8 +481,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788397341.A.4B2.html",
-      "title": "「生活議題」讓人感到困惑時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著困惑，希望找到可以往前走的方向。",
+      "title": "心裡有點困惑時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著困惑，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -495,8 +495,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788400360.A.38C.html",
-      "title": "「生活議題」讓人感到好奇時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著好奇，希望找到可以往前走的方向。",
+      "title": "心裡有點好奇時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著好奇，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -509,8 +509,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788408879.A.60C.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -522,8 +522,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788446197.A.DA2.html",
-      "title": "「生活議題」讓人感到擔心時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著擔心，希望找到可以往前走的方向。",
+      "title": "心裡有點擔心時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著擔心，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -536,8 +536,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788461698.A.C20.html",
-      "title": "有些「生活議題」的經歷，真的會讓人感到覺得有趣",
-      "human_voice": "有人正在分享一段與「生活議題」有關的經歷，其中帶著覺得有趣的感受。",
+      "title": "有些經歷看似過去了，心裡的覺得有趣卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了覺得有趣的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -550,8 +550,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788489293.A.9FF.html",
-      "title": "「生活議題」讓人感到好奇時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著好奇，希望找到可以往前走的方向。",
+      "title": "心裡有點好奇時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著好奇，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -564,8 +564,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788503504.A.4DA.html",
-      "title": "有些「生活議題」的經歷，真的會讓人感到焦慮",
-      "human_voice": "有人正在分享一段與「生活議題」有關的經歷，其中帶著焦慮的感受。",
+      "title": "有些經歷看似過去了，心裡的焦慮卻還留著",
+      "human_voice": "有人正在分享一段自己的經歷，那段過程留下了焦慮的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -578,8 +578,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788509420.A.C16.html",
-      "title": "「生活議題」讓人感到好奇時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著好奇，希望找到可以往前走的方向。",
+      "title": "心裡有點好奇時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著好奇，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -592,8 +592,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787901699.A.4BE.html",
-      "title": "「生活議題」讓人感到困惑時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著困惑，希望找到可以往前走的方向。",
+      "title": "心裡有點困惑時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著困惑，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -606,8 +606,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787924051.A.792.html",
-      "title": "「生活議題」讓人感到好奇時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著好奇，希望找到可以往前走的方向。",
+      "title": "心裡有點好奇時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著好奇，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -620,8 +620,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787924552.A.D0D.html",
-      "title": "關於「生活議題」，有人想分享自己的真實經歷",
-      "human_voice": "有人正在分享一段與「生活議題」有關的經歷。",
+      "title": "有些生活經歷，說出來才發現不只自己遇過",
+      "human_voice": "有人正在分享一段自己的經歷，也許你曾有過相似的時刻。",
       "classification_axes": [
         "pain"
       ],
@@ -633,8 +633,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787413077.A.E79.html",
-      "title": "「生活議題」帶來難過時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到難過。",
+      "title": "事情卡住又感到難過時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到難過。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -647,8 +647,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787965857.A.B33.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -660,8 +660,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787987061.A.70E.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -673,8 +673,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787987112.A.57A.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -686,8 +686,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787997932.A.979.html",
-      "title": "「生活議題」讓人感到好奇時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著好奇，希望找到可以往前走的方向。",
+      "title": "心裡有點好奇時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著好奇，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -700,8 +700,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788007646.A.4E4.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -713,8 +713,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788975284.A.B29.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -726,8 +726,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1789004399.A.F4C.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -739,8 +739,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1789005323.A.C02.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -752,8 +752,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1789017818.A.54C.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -765,8 +765,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1789003574.A.3AD.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -778,8 +778,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1787927255.A.FD2.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -791,8 +791,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1788194485.A.6F4.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -804,8 +804,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1788853176.A.64B.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -817,8 +817,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1746616345.A.CBC.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -830,8 +830,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787496299.A.E72.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -843,8 +843,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787552180.A.E9E.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -856,8 +856,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787672294.A.0AE.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -869,8 +869,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787791274.A.461.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -882,8 +882,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787936716.A.13F.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -895,8 +895,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1788002107.A.D12.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -908,8 +908,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1788610956.A.A69.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -921,8 +921,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1788937044.A.6DF.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -934,8 +934,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1788971252.A.937.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -947,8 +947,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1788932531.A.AE9.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -960,8 +960,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1788961418.A.60E.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -973,8 +973,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788090097.A.226.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -986,8 +986,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788092192.A.D4C.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -999,8 +999,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788141492.A.7B1.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1012,8 +1012,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788141884.A.DF3.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1025,8 +1025,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788142183.A.094.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1038,8 +1038,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788169695.A.65A.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1051,8 +1051,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788176196.A.9DE.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1064,8 +1064,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788197616.A.1DA.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1077,8 +1077,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788229218.A.A82.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1090,8 +1090,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788253764.A.F5B.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1103,8 +1103,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787638337.A.D11.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1116,8 +1116,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787642660.A.B1C.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1129,8 +1129,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787706585.A.3FE.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1142,8 +1142,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787753343.A.57C.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1155,8 +1155,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787794929.A.3F6.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1168,8 +1168,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787838487.A.5CE.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -1181,8 +1181,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787888010.A.4E0.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1194,8 +1194,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1779670748.A.B10.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1207,8 +1207,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1780773792.A.0F0.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1220,8 +1220,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1781504303.A.07D.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1233,8 +1233,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1782031368.A.084.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1246,8 +1246,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1782057562.A.6DA.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1259,8 +1259,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1782228136.A.BE8.html",
-      "title": "「生活議題」帶來苦惱時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到苦惱。",
+      "title": "事情卡住又感到苦惱時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到苦惱。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1273,8 +1273,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1783337705.A.C72.html",
-      "title": "「生活議題」讓人感到害怕時，下一步可以怎麼想？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，帶著害怕，希望找到可以往前走的方向。",
+      "title": "心裡有點害怕時，最難的往往是想清楚下一步",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，帶著害怕，希望找到比較能往前走的方向。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1287,8 +1287,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1784114991.A.78E.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1300,8 +1300,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785420644.A.6B7.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1313,8 +1313,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785512216.A.DDE.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1326,8 +1326,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785644543.A.1F5.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1339,8 +1339,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785823067.A.F0C.html",
-      "title": "「生活議題」帶來焦慮時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到焦慮。",
+      "title": "事情卡住又感到焦慮時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1353,8 +1353,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785909558.A.F28.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -1366,8 +1366,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785955701.A.FEA.html",
-      "title": "「生活議題」帶來壓力時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到壓力。",
+      "title": "事情卡住又感到壓力時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到壓力。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1380,8 +1380,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1786022560.A.F46.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1393,8 +1393,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1786186967.A.A11.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1406,8 +1406,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1786377433.A.087.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1419,8 +1419,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1786709440.A.E99.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1432,8 +1432,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1787728789.A.AE4.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1445,8 +1445,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1788082210.A.3D2.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1458,8 +1458,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1788590411.A.F5C.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1471,8 +1471,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1788606411.A.DBD.html",
-      "title": "「生活議題」帶來困惑時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到困惑。",
+      "title": "事情卡住又感到困惑時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到困惑。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1485,8 +1485,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787720703.A.AF8.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1498,8 +1498,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787883599.A.326.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1511,8 +1511,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787884043.A.AA5.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1524,8 +1524,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787885861.A.1E3.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1537,8 +1537,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787888366.A.974.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1550,8 +1550,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787908830.A.141.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1563,8 +1563,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787929509.A.B11.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1576,8 +1576,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787931090.A.769.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1589,8 +1589,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787949626.A.766.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1602,8 +1602,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787963133.A.D2F.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1615,8 +1615,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788005516.A.9A7.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1628,8 +1628,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787304263.A.B7A.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1641,8 +1641,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787327701.A.FC5.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1654,8 +1654,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787330226.A.85E.html",
-      "title": "「生活議題」帶來不舒服時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到不舒服。",
+      "title": "事情卡住又感到不舒服時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到不舒服。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1668,8 +1668,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787415265.A.3BA.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1681,8 +1681,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787461033.A.551.html",
-      "title": "「生活議題」帶來難過時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到難過。",
+      "title": "事情卡住又感到難過時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到難過。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1695,8 +1695,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787461056.A.DF9.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1708,8 +1708,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787575352.A.B53.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1721,8 +1721,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787586573.A.69C.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1734,8 +1734,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1771704262.A.C5E.html",
-      "title": "「生活議題」帶來害怕時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到害怕。",
+      "title": "事情卡住又感到害怕時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到害怕。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1748,8 +1748,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1772200142.A.F3E.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1761,8 +1761,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1772802822.A.E72.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1774,8 +1774,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1773235073.A.760.html",
-      "title": "「生活議題」帶來壓力時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到壓力。",
+      "title": "事情卡住又感到壓力時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到壓力。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1788,8 +1788,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1773624492.A.3A5.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1801,8 +1801,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1774183968.A.A4E.html",
-      "title": "「生活議題」帶來困惑時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到困惑。",
+      "title": "事情卡住又感到困惑時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到困惑。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1815,8 +1815,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1774459619.A.17D.html",
-      "title": "「生活議題」帶來焦慮時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到焦慮。",
+      "title": "事情卡住又感到焦慮時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1829,8 +1829,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1774640403.A.544.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1842,8 +1842,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1775487767.A.78B.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1855,8 +1855,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1776852012.A.E82.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1868,8 +1868,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1782918506.A.20F.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1881,8 +1881,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1783048614.A.F17.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1894,8 +1894,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1783613477.A.DAF.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1907,8 +1907,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1783655145.A.D02.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1920,8 +1920,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1784004048.A.3B6.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1933,8 +1933,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1784091098.A.4AA.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1946,8 +1946,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1784261152.A.ECF.html",
-      "title": "「生活議題」帶來焦慮時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到焦慮。",
+      "title": "事情卡住又感到焦慮時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1960,8 +1960,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1784906073.A.E6F.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1973,8 +1973,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785075532.A.912.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1986,8 +1986,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1786717725.A.58A.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -1999,8 +1999,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1787094937.A.4D0.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2012,8 +2012,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1787104432.A.709.html",
-      "title": "「生活議題」帶來挫折時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到挫折。",
+      "title": "事情卡住又感到挫折時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到挫折。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -2026,8 +2026,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1787597529.A.37A.html",
-      "title": "「生活議題」帶來困惑時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到困惑。",
+      "title": "事情卡住又感到困惑時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到困惑。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -2040,8 +2040,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1787709233.A.22C.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2053,8 +2053,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787731673.A.19A.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2066,8 +2066,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787736546.A.965.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2079,8 +2079,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787737751.A.B5A.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2092,8 +2092,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787747731.A.1D3.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2105,8 +2105,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787781430.A.145.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2118,8 +2118,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787794152.A.539.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2131,8 +2131,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787794409.A.AC1.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2144,8 +2144,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787817106.A.687.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2157,8 +2157,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787821315.A.FE3.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2170,8 +2170,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787823157.A.89E.html",
-      "title": "「生活議題」帶來焦慮時，大家都怎麼面對？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，也感到焦慮。",
+      "title": "事情卡住又感到焦慮時，下一步該怎麼走？",
+      "human_voice": "有人正被一件生活裡的事情困住，同時也感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -2184,8 +2184,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786978953.A.A2C.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2197,8 +2197,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787005792.A.E9D.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2210,8 +2210,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787031244.A.A82.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2223,8 +2223,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787032780.A.A3C.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2236,8 +2236,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787057547.A.D53.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2249,8 +2249,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787080522.A.1A6.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2262,8 +2262,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787151649.A.579.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2275,8 +2275,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787166402.A.B9E.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2288,8 +2288,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787200068.A.407.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2301,8 +2301,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787221352.A.558.html",
-      "title": "「感情／關係」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「感情／關係」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2327,8 +2327,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1765788644.A.C8F.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2353,8 +2353,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1768202169.A.9BA.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2366,8 +2366,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1768417956.A.EF8.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2379,8 +2379,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1769149158.A.054.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2405,8 +2405,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1781177094.A.738.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2431,8 +2431,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1781247860.A.908.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2483,8 +2483,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1782042373.A.74B.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2496,8 +2496,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1782139152.A.9CD.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2509,8 +2509,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1782203025.A.A78.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2522,8 +2522,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1784941307.A.691.html",
-      "title": "「家庭財務／財產」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「家庭財務／財產」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2548,8 +2548,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1785070406.A.779.html",
-      "title": "「家庭財務／財產」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「家庭財務／財產」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2574,8 +2574,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787565604.A.9CD.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2613,8 +2613,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787579359.A.6FB.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2626,8 +2626,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787580984.A.FC0.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2639,8 +2639,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787597718.A.633.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2691,8 +2691,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787672999.A.CB7.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2704,8 +2704,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786614251.A.554.html",
-      "title": "「感情／關係」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「感情／關係」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2717,8 +2717,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786632088.A.510.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2730,8 +2730,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786755362.A.885.html",
-      "title": "「感情／關係」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「感情／關係」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2743,8 +2743,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786790002.A.E9A.html",
-      "title": "遇到「感情／關係」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「感情／關係」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2756,8 +2756,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786941668.A.C39.html",
-      "title": "「感情／關係」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「感情／關係」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2769,8 +2769,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786963454.A.5A3.html",
-      "title": "「感情／關係」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「感情／關係」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2782,8 +2782,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786970450.A.E38.html",
-      "title": "「感情／關係」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「感情／關係」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2795,8 +2795,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786971789.A.ADD.html",
-      "title": "「感情／關係」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「感情／關係」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2821,8 +2821,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1760793061.A.7A1.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2834,8 +2834,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1760972946.A.4B2.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2860,8 +2860,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1761887505.A.B37.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -2925,8 +2925,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1779766330.A.AF1.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -2964,8 +2964,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1779946684.A.FF9.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -3055,8 +3055,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787395380.A.5D9.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -3081,8 +3081,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787409847.A.374.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -3094,8 +3094,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787414977.A.9AB.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -3120,8 +3120,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787424430.A.AC2.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -3146,8 +3146,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787475595.A.35B.html",
-      "title": "遇到「生活議題」的疑問時，大家會怎麼找方向？",
-      "human_voice": "有人正在面對與「生活議題」有關的疑問，希望聽見不同角度與方向。",
+      "title": "遇到不知道怎麼選的時候，你會先從哪裡想起？",
+      "human_voice": "有人正遇到一個不太容易想清楚的問題，希望從不同角度找到方向。",
       "classification_axes": [
         "pain"
       ],
@@ -3159,8 +3159,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787484074.A.1CA.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -3185,8 +3185,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786031405.A.340.html",
-      "title": "「感情／關係」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「感情／關係」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -3198,8 +3198,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786075986.A.ADC.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -3224,8 +3224,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786207636.A.615.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -3237,8 +3237,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786257845.A.9A2.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -3276,8 +3276,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786378047.A.4C0.html",
-      "title": "「生活議題」遇到卡關時，可以從哪裡開始？",
-      "human_voice": "有人正在面對與「生活議題」有關的困擾，希望找到更合適的處理方式。",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
       "classification_axes": [
         "pain"
       ],
@@ -39209,6 +39209,1242 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2026-02-05T04:11:39+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1770286215.A.A9A.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-05T10:10:12+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777624097.A.C50.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-01T08:28:15+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777647656.A.5F4.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-01T15:00:54+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777684485.A.38A.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-02T01:14:43+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777687975.A.7B8.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-02T02:12:53+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777692388.A.C9F.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-02T03:26:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777697845.A.5A5.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-02T04:57:23+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777699380.A.B72.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-02T05:22:58+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777701305.A.6EA.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-02T05:55:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777709452.A.113.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-02T08:10:50+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777716993.A.A52.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-02T10:16:29+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762952646.A.0CE.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-12T13:04:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763005916.A.0A4.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-13T03:51:52+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763010727.A.2BE.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-13T05:12:05+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763027125.A.C60.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-13T09:45:21+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763052399.A.02D.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-13T16:46:37+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763099406.A.94A.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-14T05:50:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763131344.A.1C6.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-14T14:42:22+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644577722.A.D22.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-11T11:08:40+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644677019.A.C3C.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-12T14:43:37+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644698349.A.218.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-12T20:39:07+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644764984.A.F95.html",
+      "title": "面對財務與退休選擇，怎麼做比較安心？",
+      "human_voice": "有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-13T15:09:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644802483.A.EB1.html",
+      "title": "面對財務與退休選擇，怎麼做比較安心？",
+      "human_voice": "有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-14T01:34:41+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644844927.A.497.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-14T13:22:05+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644915352.A.CEA.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-15T08:55:50+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644938737.A.5CA.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-15T15:25:35+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644999311.A.CDD.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-16T08:15:09+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1645059064.A.8F8.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-17T00:51:02+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723277377.A.949.html",
+      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
+      "human_voice": "有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-10T08:09:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723302292.A.E6A.html",
+      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
+      "human_voice": "有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-10T15:04:50+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723311866.A.3DA.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-10T17:44:24+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723366861.A.0AA.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-11T09:00:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723437428.A.557.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-12T04:37:06+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723469838.A.BCD.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-12T13:37:16+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723538701.A.F3E.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-13T08:44:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723542508.A.B65.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-13T09:48:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723565430.A.7BB.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-13T16:10:28+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723646169.A.A0A.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-14T14:36:07+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769489776.A.BD1.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": null
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769498905.A.B94.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-27T07:28:23+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769508515.A.6A9.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-27T10:08:33+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769564811.A.8CC.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": null
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769587553.A.3E3.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-28T08:05:51+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769600390.A.46C.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-28T11:39:48+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769658829.A.057.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-29T03:53:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769669118.A.A5A.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-29T06:45:16+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769685980.A.E82.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-29T11:26:18+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769698282.A.09B.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-29T14:51:20+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777523952.A.AB9.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-30T04:39:10+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777529329.A.BAB.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-30T06:08:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777535886.A.7CA.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-30T07:58:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777539888.A.A7F.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-30T09:04:46+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777546582.A.C7B.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-30T10:56:20+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777551879.A.F8A.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-30T12:24:37+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777554003.A.BB4.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-30T13:00:01+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777557072.A.A08.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-30T13:51:10+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777558165.A.D9D.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-30T14:09:23+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762580794.A.4A5.html",
+      "title": "面對財務與退休選擇，怎麼做比較安心？",
+      "human_voice": "有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-08T05:46:32+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762581896.A.44E.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-08T06:04:54+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762588326.A.221.html",
+      "title": "兩個人在一起，錢到底怎麼分才舒服？",
+      "human_voice": "有人正在協調伴侶之間的費用分擔與期待，希望找到彼此都能接受的方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-08T07:52:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762605830.A.C25.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-08T12:43:48+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762650224.A.6C9.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-09T01:03:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762666883.A.C24.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-09T05:41:21+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762670182.A.9F3.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-09T06:36:18+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762688069.A.AFD.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-09T11:34:27+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762780233.A.59B.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-10T13:10:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762879801.A.A75.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-11T16:49:57+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1643298386.A.2A1.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-01-27T15:46:24+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1643591932.A.6DE.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-01-31T01:18:50+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1643813592.A.1C1.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-02T14:53:10+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1643839325.A.143.html",
+      "title": "面對財務與退休選擇，怎麼做比較安心？",
+      "human_voice": "有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-02T22:02:01+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1643861607.A.FF8.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-03T04:13:25+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1643866346.A.FDE.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-03T05:32:24+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1643958287.A.A3F.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-04T07:04:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644137833.A.FA4.html",
+      "title": "面對財務與退休選擇，怎麼做比較安心？",
+      "human_voice": "有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-06T08:57:11+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644232737.A.8D1.html",
+      "title": "面對財務與退休選擇，怎麼做比較安心？",
+      "human_voice": "有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-07T11:18:55+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644302780.A.1A5.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-08T06:46:18+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1722832574.A.D98.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-05T04:36:12+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1722844560.A.C19.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": null
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1722876836.A.DBE.html",
+      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
+      "human_voice": "有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-05T16:53:54+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1722936597.A.051.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-06T09:29:55+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1722960696.A.4BE.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-06T16:11:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723002434.A.36D.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-07T03:47:12+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723035356.A.ED5.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-07T12:55:54+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723100589.A.3D3.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-08T07:03:07+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723103867.A.873.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-08T07:57:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1723116986.A.5A6.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-08T11:36:24+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769048887.A.552.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-22T02:27:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769094923.A.B4A.html",
+      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
+      "human_voice": "有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-22T15:15:20+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769170233.A.471.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-23T12:10:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769181898.A.E5F.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-23T15:24:56+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769222692.A.789.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-24T02:44:50+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769228391.A.A1F.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-24T04:19:49+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1769266171.A.8A7.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-24T14:49:28+00:00"
     }
   ]
 }
