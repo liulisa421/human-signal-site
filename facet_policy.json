@@ -1,18 +1,18 @@
 {
   "schema": "human-signal-facet-policy-v1.2",
-  "public_records": 3785,
+  "public_records": 3880,
   "facets": {
     "region": {
       "visible": false,
       "control": "dropdown",
       "distinct_valid": 1,
-      "valid_records": 1894
+      "valid_records": 1959
     },
     "country": {
       "visible": false,
       "control": "dropdown",
       "distinct_valid": 1,
-      "valid_records": 1894
+      "valid_records": 1959
     },
     "age": {
       "visible": false,
