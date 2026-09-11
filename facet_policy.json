@@ -1,14 +1,14 @@
 {
   "schema": "human-signal-facet-policy-v1.4",
-  "source_public_records": 4523,
-  "frontend_public_records": 2454,
-  "hidden_until_mature": 2069,
+  "source_public_records": 2600,
+  "frontend_public_records": 2600,
+  "hidden_until_mature": 0,
   "facets": {
     "region": {
       "visible": false,
       "control": "dropdown",
       "distinct_valid": 1,
-      "valid_records": 2454,
+      "valid_records": 2600,
       "values": [
         "亞洲"
       ]
@@ -17,7 +17,7 @@
       "visible": false,
       "control": "dropdown",
       "distinct_valid": 1,
-      "valid_records": 2454,
+      "valid_records": 2600,
       "values": [
         "台灣"
       ]
@@ -42,7 +42,7 @@
   },
   "market_maturity": {
     "schema": "human-signal-market-maturity-v1",
-    "total_reviewed_public_records": 4523,
+    "total_reviewed_public_records": 2600,
     "thresholds": {
       "min_records": 30,
       "min_share": 0.05,
@@ -53,8 +53,8 @@
     ],
     "markets": {
       "台灣": {
-        "records": 2454,
-        "share": 0.5426,
+        "records": 2600,
+        "share": 1.0,
         "ready": true,
         "reason": "READY"
       }
@@ -68,7 +68,6 @@
     "EXPLICIT_AGE_ONLY",
     "UNKNOWN_NEVER_COUNTS_AS_READY",
     "NO_AGE_INFERENCE",
-    "NO_AUTHOR_COUNTRY_INFERENCE",
-    "SERIES_DISPLAY_COLLAPSE_ONLY_RAW_ROWS_PRESERVED"
+    "NO_AUTHOR_COUNTRY_INFERENCE"
   ]
 }
