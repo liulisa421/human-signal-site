@@ -6,7 +6,20 @@ function collapseSeries(items){if(!Array.isArray(items)||items.length<2)return i
 if(typeof normalizePayload==='function'){const originalNormalize=normalizePayload;normalizePayload=function(payload){const p={...(payload||{}),items:collapseSeries([...(payload?.items||[])])};return originalNormalize(p)}}
 function cleanUnknownAgeBadges(root=document){root.querySelectorAll?.('.tags .tag').forEach(el=>{const s=String(el.textContent||'').trim();if(/^年齡\s+(未知|UNKNOWN|全部|GLOBAL)?$/i.test(s))el.remove()})}
 const observer=new MutationObserver(muts=>{for(const m of muts)for(const n of m.addedNodes)if(n.nodeType===1)cleanUnknownAgeBadges(n)});observer.observe(document.documentElement,{childList:true,subtree:true});cleanUnknownAgeBadges();
-(async()=>{try{const r=await fetch('./facet_policy.json',{cache:'no-store'});if(!r.ok)return;const p=await r.json(),f=p.facets||{};for(const [id,cfg] of Object.entries(f)){const el=document.getElementById(id);if(!el)continue;const wrap=el.closest('.f');if(wrap)wrap.style.display=cfg.visible===false?'none':''}const age=document.getElementById('age');const cfg=f.age||{};if(age&&cfg.visible&&Array.isArray(cfg.values))age.innerHTML='<option>全部</option>'+cfg.values.map(v=>`<option>${v}</option>`).join('')}catch(e){console.warn('facet policy unavailable; keeping fail-safe default UI')}})();
+(async()=>{try{
+const r=await fetch('./facet_policy.json',{cache:'no-store'});if(!r.ok)return;
+const p=await r.json(),f=p.facets||{},mr=p.market_regions||{};
+for(const [id,cfg] of Object.entries(f)){const el=document.getElementById(id);if(!el)continue;const wrap=el.closest('.f');if(wrap)wrap.style.display=cfg.visible===false?'none':''}
+const regionEl=document.getElementById('region'),countryEl=document.getElementById('country'),ageEl=document.getElementById('age');
+const regionCfg=f.region||{},countryCfg=f.country||{},ageCfg=f.age||{};
+const matureRegions=Array.isArray(regionCfg.values)?regionCfg.values:[];
+const matureCountries=Array.isArray(countryCfg.values)?countryCfg.values:[];
+if(regionEl){const vals=regionCfg.visible?['全世界',...matureRegions]:(matureRegions.length===1?matureRegions:['全世界']);regionEl.innerHTML=vals.map(v=>`<option>${v}</option>`).join('')}
+if(typeof updateCountries==='function'&&countryEl){updateCountries=function(){const rv=regionEl?.value||'全世界';const vals=rv==='全世界'?matureCountries:(Array.isArray(mr[rv])?mr[rv]:[]);countryEl.innerHTML='<option>全部</option>'+vals.map(v=>`<option>${v}</option>`).join('')};updateCountries()}
+if(ageEl){ageEl.innerHTML='<option>全部</option>'+(ageCfg.visible&&Array.isArray(ageCfg.values)?ageCfg.values.map(v=>`<option>${v}</option>`).join(''):'')}
+const clear=document.querySelector('.clear');if(clear&&typeof render==='function'){clear.onclick=()=>{if(typeof q!=='undefined')q.value='';if(regionEl)regionEl.value=regionEl.options[0]?.value||'';if(typeof updateCountries==='function')updateCountries();if(ageEl)ageEl.value='全部';if(typeof period!=='undefined')period.value='近期';render()}}
+if(typeof render==='function')render();
+}catch(e){console.warn('facet policy unavailable; keeping fail-safe default UI')}})();
 })();
 ;(()=>{
 function shorten(root=document){

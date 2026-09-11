@@ -1,5 +1,5 @@
 {
-  "schema": "human-signal-facet-policy-v1.3",
+  "schema": "human-signal-facet-policy-v1.4",
   "source_public_records": 4060,
   "frontend_public_records": 2099,
   "hidden_until_mature": 1961,
@@ -35,6 +35,11 @@
       "control": "dropdown"
     }
   },
+  "market_regions": {
+    "亞洲": [
+      "台灣"
+    ]
+  },
   "market_maturity": {
     "schema": "human-signal-market-maturity-v1",
     "total_reviewed_public_records": 4060,
@@ -58,6 +63,7 @@
   "policy": [
     "USER_VALUE_FIRST",
     "MARKET_MATURITY_GATE",
+    "FACET_VALUES_FROM_MATURE_DATA_ONLY",
     "DATA_AWARE_VISIBILITY",
     "EXPLICIT_AGE_ONLY",
     "UNKNOWN_NEVER_COUNTS_AS_READY",
