@@ -34,3 +34,22 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify live Pages readback
+        env:
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          set -euo pipefail
+          test -n "${PAGE_URL:-}"
+          echo "Verifying ${PAGE_URL}"
+          for i in 1 2 3 4 5 6; do
+            code=$(curl -L -sS -o /tmp/human-signal-live.html -w '%{http_code}' "${PAGE_URL}" || true)
+            if [ "$code" = "200" ] && grep -q '痛點・心情・閒聊站' /tmp/human-signal-live.html; then
+              grep -q 'noindex,nofollow' /tmp/human-signal-live.html
+              echo "LIVE_READBACK_PASS url=${PAGE_URL} http=200 marker=PASS noindex=PASS"
+              exit 0
+            fi
+            echo "Live readback not ready yet: attempt=${i} http=${code}"
+            sleep 10
+          done
+          echo "LIVE_READBACK_FAIL url=${PAGE_URL}" >&2
+          exit 1
