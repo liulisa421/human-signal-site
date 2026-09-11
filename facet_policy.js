@@ -1,15 +1,22 @@
 (()=>{
-const TOPIC_ZH={
-'Dating & Relationships':'感情／關係','Friendship & Social Hurt':'朋友／人際','Work & Career':'工作／職涯','Family & Parenting':'家庭／育兒','Money & Financial Stress':'金錢／財務','Housing & Living':'居住／生活','Health & Wellbeing':'健康／身心','Education & Learning':'學習／教育','Loneliness & Belonging':'孤獨／歸屬','Self Growth & Identity':'自我／成長'};
 const stripBoardTag=s=>String(s||'').replace(/^\s*\[[^\]]+\]\s*/,'').trim();
-const seriesBase=title=>stripBoardTag(title).replace(/\s*[-–—－]\s*\d{1,2}(?:\s+.*)?$/,'').trim().toLowerCase();
-const numbered=title=>/\s*[-–—－]\s*\d{1,2}(?:\s+|$)/.test(stripBoardTag(title));
-let busy=false;
-function cleanUI(){if(busy)return;busy=true;try{
- const age=document.getElementById('age');if(age){const wrap=age.closest('.f');if(wrap)wrap.style.display='none';age.value='全部';}
- document.querySelectorAll('.tags').forEach(tags=>{[...tags.querySelectorAll('.tag')].forEach((el,i)=>{const s=String(el.textContent||'').trim();if(/^年齡(?:\s|$)/i.test(s)){el.remove();return;}if(/PTT_|REDDIT_|D_CARD|DCARD|FACEBOOK|INSTAGRAM|THREADS|YOUTUBE/i.test(s)||/・/.test(s)){el.remove();return;}if(TOPIC_ZH[s])el.textContent=TOPIC_ZH[s];else if(i===0&&/[A-Za-z]/.test(s)&&!/[\u4e00-\u9fff]/.test(s))el.remove();});if(!tags.children.length)tags.remove();});
- document.querySelectorAll('.cluster').forEach(el=>{if(el.dataset.shortened==='1')return;const s=String(el.textContent||'').replace(/\s+/g,' ').trim();if(s.length>110)el.textContent=s.slice(0,110).trimEnd()+'…';el.dataset.shortened='1';});
- const cards=[...document.querySelectorAll('#grid .card')],groups=new Map();for(const card of cards){const h=card.querySelector('h3');if(!h)continue;const title=String(h.textContent||'').trim(),base=seriesBase(title);if(!base)continue;if(!groups.has(base))groups.set(base,[]);groups.get(base).push({card,title});}for(const rows of groups.values()){if(rows.length<2)continue;const seriesRows=rows.filter(x=>numbered(x.title));if(seriesRows.length<2)continue;const lead=rows.find(x=>!numbered(x.title))||rows[0];for(const row of rows)if(row!==lead)row.card.remove();}
-}finally{busy=false;}}
-const observer=new MutationObserver(()=>cleanUI());observer.observe(document.documentElement,{childList:true,subtree:true});cleanUI();
+const partInfo=title=>{const t=stripBoardTag(title);const m=t.match(/^(.{4,80}?)\s*[-–—－]\s*(\d{1,2})(?:\s+|$)/);return m?{base:m[1].trim().toLowerCase(),part:Number(m[2])}:null};
+const when=x=>{const n=Date.parse(x?.created_at_source||'');return Number.isFinite(n)?n:0};
+function collapseSeries(items){if(!Array.isArray(items)||items.length<2)return items;const groups=new Map();for(const x of items){if(!String(x?.source_id||'').toUpperCase().startsWith('PTT_'))continue;const p=partInfo(x?.title);if(!p)continue;const key=String(x.source_id).toUpperCase()+'|'+p.base;if(!groups.has(key))groups.set(key,{base:p.base,parts:[]});groups.get(key).parts.push(x)}const hidden=new Set();for(const g of groups.values()){if(g.parts.length<2)continue;const source=String(g.parts[0].source_id||'').toUpperCase();const partTimes=g.parts.map(when).filter(Boolean);const anchor=partTimes.length?Math.min(...partTimes):0;const leads=items.filter(x=>{if(String(x?.source_id||'').toUpperCase()!==source||partInfo(x?.title))return false;const t=stripBoardTag(x?.title).toLowerCase();if(!t.startsWith(g.base))return false;const tm=when(x);return !anchor||!tm||Math.abs(tm-anchor)<=7*86400000});const all=[...leads,...g.parts].sort((a,b)=>(when(a)||Number.MAX_SAFE_INTEGER)-(when(b)||Number.MAX_SAFE_INTEGER));const lead=leads.sort((a,b)=>(when(a)||Number.MAX_SAFE_INTEGER)-(when(b)||Number.MAX_SAFE_INTEGER))[0]||all[0];for(const x of all)if(x!==lead)hidden.add(x)}return items.filter(x=>!hidden.has(x))}
+if(typeof normalizePayload==='function'){const originalNormalize=normalizePayload;normalizePayload=function(payload){const p={...(payload||{}),items:collapseSeries([...(payload?.items||[])])};return originalNormalize(p)}}
+function cleanUnknownAgeBadges(root=document){root.querySelectorAll?.('.tags .tag').forEach(el=>{const s=String(el.textContent||'').trim();if(/^年齡\s+(未知|UNKNOWN|全部|GLOBAL)?$/i.test(s))el.remove()})}
+const observer=new MutationObserver(muts=>{for(const m of muts)for(const n of m.addedNodes)if(n.nodeType===1)cleanUnknownAgeBadges(n)});observer.observe(document.documentElement,{childList:true,subtree:true});cleanUnknownAgeBadges();
+(async()=>{try{const r=await fetch('./facet_policy.json',{cache:'no-store'});if(!r.ok)return;const p=await r.json(),f=p.facets||{};for(const [id,cfg] of Object.entries(f)){const el=document.getElementById(id);if(!el)continue;const wrap=el.closest('.f');if(wrap)wrap.style.display=cfg.visible===false?'none':''}const age=document.getElementById('age');const cfg=f.age||{};if(age&&cfg.visible&&Array.isArray(cfg.values))age.innerHTML='<option>全部</option>'+cfg.values.map(v=>`<option>${v}</option>`).join('')}catch(e){console.warn('facet policy unavailable; keeping fail-safe default UI')}})();
+})();
+;(()=>{
+function shorten(root=document){
+  root.querySelectorAll?.('.cluster').forEach(el=>{
+    if(el.dataset.shortened==='1')return;
+    const s=String(el.textContent||'').replace(/\s+/g,' ').trim();
+    if(s.length>110)el.textContent=s.slice(0,110).trimEnd()+'…';
+    el.dataset.shortened='1';
+  });
+}
+const o=new MutationObserver(ms=>{for(const m of ms)for(const n of m.addedNodes)if(n.nodeType===1)shorten(n)});
+o.observe(document.documentElement,{childList:true,subtree:true});shorten();
 })();

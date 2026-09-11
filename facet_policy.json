@@ -1,0 +1,39 @@
+{
+  "schema": "human-signal-facet-policy-v1.2",
+  "public_records": 3785,
+  "facets": {
+    "region": {
+      "visible": false,
+      "control": "dropdown",
+      "distinct_valid": 1,
+      "valid_records": 1894
+    },
+    "country": {
+      "visible": false,
+      "control": "dropdown",
+      "distinct_valid": 1,
+      "valid_records": 1894
+    },
+    "age": {
+      "visible": false,
+      "control": "dropdown",
+      "distinct_valid": 0,
+      "valid_records": 0,
+      "valid_ratio": 0.0,
+      "values": []
+    },
+    "period": {
+      "visible": true,
+      "control": "dropdown"
+    }
+  },
+  "policy": [
+    "USER_VALUE_FIRST",
+    "DATA_AWARE_VISIBILITY",
+    "EXPLICIT_AGE_ONLY",
+    "UNKNOWN_NEVER_COUNTS_AS_READY",
+    "NO_AGE_INFERENCE",
+    "NO_AUTHOR_COUNTRY_INFERENCE",
+    "SERIES_DISPLAY_COLLAPSE_ONLY_RAW_ROWS_PRESERVED"
+  ]
+}
