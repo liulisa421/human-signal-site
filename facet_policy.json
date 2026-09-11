@@ -1,73 +1,29 @@
 {
-  "schema": "human-signal-facet-policy-v1.4",
-  "source_public_records": 2600,
-  "frontend_public_records": 2600,
-  "hidden_until_mature": 0,
+  "schema": "human-signal-public-facet-policy-v1",
   "facets": {
     "region": {
       "visible": false,
-      "control": "dropdown",
-      "distinct_valid": 1,
-      "valid_records": 2600,
       "values": [
         "亞洲"
       ]
     },
     "country": {
       "visible": false,
-      "control": "dropdown",
-      "distinct_valid": 1,
-      "valid_records": 2600,
       "values": [
         "台灣"
       ]
     },
     "age": {
       "visible": false,
-      "control": "dropdown",
-      "distinct_valid": 0,
-      "valid_records": 0,
-      "valid_ratio": 0.0,
       "values": []
     },
     "period": {
-      "visible": true,
-      "control": "dropdown"
+      "visible": true
     }
   },
   "market_regions": {
     "亞洲": [
       "台灣"
     ]
-  },
-  "market_maturity": {
-    "schema": "human-signal-market-maturity-v1",
-    "total_reviewed_public_records": 2600,
-    "thresholds": {
-      "min_records": 30,
-      "min_share": 0.05,
-      "absolute_records": 100
-    },
-    "ready_markets": [
-      "台灣"
-    ],
-    "markets": {
-      "台灣": {
-        "records": 2600,
-        "share": 1.0,
-        "ready": true,
-        "reason": "READY"
-      }
-    }
-  },
-  "policy": [
-    "USER_VALUE_FIRST",
-    "MARKET_MATURITY_GATE",
-    "FACET_VALUES_FROM_MATURE_DATA_ONLY",
-    "DATA_AWARE_VISIBILITY",
-    "EXPLICIT_AGE_ONLY",
-    "UNKNOWN_NEVER_COUNTS_AS_READY",
-    "NO_AGE_INFERENCE",
-    "NO_AUTHOR_COUNTRY_INFERENCE"
-  ]
+  }
 }
