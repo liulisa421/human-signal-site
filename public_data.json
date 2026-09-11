@@ -1,6 +1,6 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-11T16:46:29.007569+00:00",
+  "generated_at": "2026-09-11T17:02:45.608904+00:00",
   "items": [
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788783720.A.299.html",
@@ -47384,6 +47384,71 @@
       "created_at_source": "2025-11-13T15:41:25+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776141360.A.45D.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-14T04:35:57+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776151070.A.EB3.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-14T07:17:48+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776177620.A.FD8.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-14T14:40:14+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776205283.A.CC1.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-14T22:21:21+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776219379.A.9AC.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-15T02:16:17+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776221081.A.008.html",
       "title": "面對財務與退休選擇，怎麼做比較安心？",
       "human_voice": "有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
@@ -47395,6 +47460,1105 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2026-04-15T02:44:39+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776221206.A.BB1.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-15T02:46:43+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776223019.A.B75.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-15T03:16:57+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776223476.A.7BB.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-15T03:24:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776245946.A.703.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-15T09:39:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760150289.A.30E.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-11T02:38:07+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760161046.A.BDA.html",
+      "title": "兩個人在一起，錢到底怎麼分才舒服？",
+      "human_voice": "有人正在協調伴侶之間的費用分擔與期待，希望找到彼此都能接受的方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-11T05:37:21+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760184375.A.DEE.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-11T12:06:10+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760204592.A.D1B.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-11T17:43:10+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760208412.A.211.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-11T18:46:50+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760249959.A.0B1.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-12T06:19:17+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760255259.A.815.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-12T07:47:37+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760286463.A.43F.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-12T16:27:41+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760332436.A.A25.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-13T05:13:54+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632811850.A.81D.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-28T06:50:48+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632836781.A.36A.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-28T13:46:18+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632882588.A.6A1.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-29T02:29:43+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632888341.A.2BC.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-29T04:05:38+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632931747.A.730.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-29T16:09:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632991689.A.9A7.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-30T08:48:07+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1633010258.A.541.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-30T13:57:35+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1633060218.A.E55.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-10-01T03:50:15+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1633071279.A.10E.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-10-01T06:54:35+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716415349.A.6EE.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-22T22:02:27+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716527267.A.5E7.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-24T05:07:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716535986.A.753.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-24T07:33:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716543301.A.6D5.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-24T09:34:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716558101.A.BAF.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-24T13:41:39+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716577983.A.831.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-24T19:13:01+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716652733.A.D31.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-25T15:58:51+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716681521.A.1ED.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-25T23:58:39+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716735575.A.908.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-26T14:59:33+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716750224.A.0F9.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-26T19:03:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762414081.A.CC5.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-06T07:27:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762426195.A.F12.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-06T10:49:53+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762430744.A.646.html",
+      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
+      "human_voice": "有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-06T12:05:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762494061.A.A16.html",
+      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
+      "human_voice": "有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-07T05:40:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762497245.A.C13.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-07T06:34:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762500043.A.128.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-07T07:20:39+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762582773.A.64A.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-08T06:19:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762588073.A.037.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-08T07:47:51+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762595614.A.BFD.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-08T09:53:32+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762607307.A.7D6.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-08T13:08:25+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1789145517.A.E0E.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-11T16:51:55+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1775981813.A.251.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-12T08:16:51+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1775988578.A.272.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-12T10:09:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1775990104.A.440.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-12T10:34:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1775992688.A.1DF.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-12T11:18:06+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776000519.A.121.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-12T13:28:37+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776008704.A.20E.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-12T15:45:02+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776009973.A.D10.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-12T16:06:11+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776013409.A.C41.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-12T17:03:27+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776015703.A.057.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-12T17:41:41+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776039644.A.F82.html",
+      "title": "生活裡的小卡關，大家都怎麼處理？",
+      "human_voice": "有人正在分享日常生活裡遇到的困擾，也想看看不同的處理方式。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-13T00:20:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1759895509.A.B46.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-08T03:51:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1759923196.A.F7D.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-08T11:33:14+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1759976424.A.EB6.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-09T02:20:22+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760067837.A.996.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-10T03:43:55+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760070336.A.DF8.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-10T04:25:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760089781.A.85C.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-10T09:49:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760103299.A.54B.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-10T13:34:57+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760107619.A.35A.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-10T14:46:57+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760108616.A.872.html",
+      "title": "一段關係走到卡關時，下一步怎麼走？",
+      "human_voice": "有人正在整理一段關係裡的困擾，希望更看清自己接下來的方向。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-10T15:03:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632228061.A.21D.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-21T12:40:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632245276.A.397.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-21T17:27:54+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632322552.A.D2B.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-22T14:55:43+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632419900.A.01B.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-23T17:58:18+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632472995.A.C3C.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-24T08:43:11+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632478444.A.438.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-24T10:14:02+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632478607.A.EBF.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-24T10:16:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632542001.A.C7F.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-25T03:53:19+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632549938.A.658.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-25T06:05:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632584977.A.B6D.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-25T15:49:32+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716165217.A.5D0.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-20T00:33:35+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716174047.A.946.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-20T03:00:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716221673.A.305.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-20T16:14:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716263171.A.0AB.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-21T03:46:07+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716265626.A.418.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-21T04:27:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716288453.A.CCB.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-21T10:47:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1716301565.A.499.html",
+      "title": "工作走到選擇點，下一步怎麼走比較適合？",
+      "human_voice": "有人正在衡量工作或職涯方向，希望把眼前的選擇想得更清楚。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-21T14:26:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1761926372.A.70D.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-31T15:59:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1761952855.A.E76.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-31T23:20:53+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1761959886.A.243.html",
+      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
+      "human_voice": "有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-01T01:18:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1761992377.A.EFE.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-01T10:19:35+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762126518.A.B50.html",
+      "title": "生活遇到想不通的事，你會怎麼看？",
+      "human_voice": "有人正在整理一個生活上的問題，希望聽見不同角度。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-02T23:35:16+00:00"
     }
   ]
 }
