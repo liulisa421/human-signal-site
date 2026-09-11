@@ -53,3 +53,32 @@ jobs:
           done
           echo "LIVE_READBACK_FAIL url=${PAGE_URL}" >&2
           exit 1
+      - name: Record completion contract
+        env:
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          set -euo pipefail
+          cat > /tmp/completion_status.json <<JSON
+          {
+            "contract": "human-signal-pages-v1",
+            "status": "COMPLETE",
+            "site_commit": "${GITHUB_SHA}",
+            "workflow_run_id": "${GITHUB_RUN_ID}",
+            "pages_deploy": "PASS",
+            "live_http_readback": "PASS",
+            "content_marker": "PASS",
+            "noindex_guard": "PASS",
+            "page_url": "${PAGE_URL}"
+          }
+          JSON
+          cat /tmp/completion_status.json
+          {
+            echo '### Human Signal completion contract'
+            echo '- Status: **COMPLETE**'
+            echo "- Site commit: \`${GITHUB_SHA}\`"
+            echo '- Pages deploy: PASS'
+            echo '- Live HTTP readback: PASS'
+            echo '- Content marker: PASS'
+            echo '- noindex guard: PASS'
+            echo "- URL: ${PAGE_URL}"
+          } >> "$GITHUB_STEP_SUMMARY"
