@@ -1,16 +1,16 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-11T10:30:19.161692+00:00",
+  "generated_at": "2026-09-11T10:37:23.113691+00:00",
   "items": [
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788783720.A.299.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「開心」的感受。",
+      "title": "在「消費／產品體驗」裡感到開心，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「消費／產品體驗」相關的個人經歷，並明確表達出「開心」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "消費／產品體驗",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -18,13 +18,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788790906.A.902.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「家庭／居住／財務」裡感到苦惱，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「家庭／居住／財務」相關的方向，並明確表達出「苦惱」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "家庭／居住／財務",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -32,13 +32,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788820458.A.B4C.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「消費／人際互動」裡感到不舒服，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「消費／人際互動」相關的個人經歷，並明確表達出「不舒服」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "消費／人際互動",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -46,13 +46,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788824142.A.998.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「學習／消費計算」裡感到擔心，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「學習／消費計算」相關的方向，並明確表達出「擔心」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "學習／消費計算",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -60,13 +60,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788835060.A.61D.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「商家／消費信任」裡感到懷疑，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「商家／消費信任」相關的方向，並明確表達出「懷疑」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "商家／消費信任",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -74,13 +74,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788874640.A.015.html",
-      "title": "朋友／人際裡正在找解法",
-      "human_voice": "這則公開分享反映出與「朋友／人際」相關的困擾或需求。",
+      "title": "在「朋友／人際受傷」裡感到受傷，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「朋友／人際受傷」相關的個人經歷，並明確表達出「受傷」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "朋友／人際",
+      "topic_label": "朋友／人際受傷",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -88,13 +88,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788876402.A.606.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「能力／日常生活」裡感到好奇，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「能力／日常生活」相關的方向，並明確表達出「好奇」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "能力／日常生活",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -102,13 +102,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788755812.A.829.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「困惑」的感受。",
+      "title": "在「感情／界線」裡感到困惑，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／界線」相關的方向，並明確表達出「困惑」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "感情／界線",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -116,11 +116,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788831459.A.1E1.html",
-      "title": "感情／關係裡正在找解法",
+      "title": "「感情／關係」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -130,13 +129,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788863057.A.834.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「感情／社交觀感」裡感到不安，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／社交觀感」相關的方向，並明確表達出「不安」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "感情／社交觀感",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -144,11 +143,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788885759.A.CD3.html",
-      "title": "感情／關係裡正在找解法",
+      "title": "「感情／關係」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -158,13 +156,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788932856.A.89C.html",
-      "title": "朋友／人際裡正在找解法",
-      "human_voice": "這則公開分享反映出與「朋友／人際」相關的困擾或需求。",
+      "title": "在「朋友／人際受傷」裡感到受傷，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「朋友／人際受傷」相關的個人經歷，並明確表達出「受傷」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "朋友／人際",
+      "topic_label": "朋友／人際受傷",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -172,13 +170,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788932925.A.622.html",
-      "title": "朋友／人際裡正在找解法",
-      "human_voice": "這則公開分享反映出與「朋友／人際」相關的困擾或需求。",
+      "title": "在「朋友／人際受傷」裡感到受傷，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「朋友／人際受傷」相關的個人經歷，並明確表達出「受傷」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "朋友／人際",
+      "topic_label": "朋友／人際受傷",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -186,13 +184,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788933061.A.8EF.html",
-      "title": "朋友／人際裡正在找解法",
-      "human_voice": "這則公開分享反映出與「朋友／人際」相關的困擾或需求。",
+      "title": "在「朋友／人際受傷」裡感到受傷，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「朋友／人際受傷」相關的個人經歷，並明確表達出「受傷」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "朋友／人際",
+      "topic_label": "朋友／人際受傷",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -200,13 +198,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788933976.A.94E.html",
-      "title": "朋友／人際裡正在找解法",
-      "human_voice": "這則公開分享反映出與「朋友／人際」相關的困擾或需求。",
+      "title": "在「朋友／人際受傷」裡感到受傷，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「朋友／人際受傷」相關的個人經歷，並明確表達出「受傷」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "朋友／人際",
+      "topic_label": "朋友／人際受傷",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -214,13 +212,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1724387130.A.996.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "「平台／安全」帶來擔心，正在找解法",
+      "human_voice": "這則公開分享反映出與「平台／安全」相關的困擾或需求，並明確表達出「擔心」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "平台／安全",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -228,13 +226,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1729779081.A.485.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "「詐騙／網路安全」帶來擔心，正在找解法",
+      "human_voice": "這則公開分享反映出與「詐騙／網路安全」相關的困擾或需求，並明確表達出「擔心」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "詐騙／網路安全",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -242,13 +240,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788933482.A.C8D.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「感情／社交觀感」裡感到不安，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／社交觀感」相關的方向，並明確表達出「不安」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "生活議題",
+      "topic_label": "感情／社交觀感",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -256,13 +254,13 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788935114.A.6C5.html",
-      "title": "朋友／人際裡正在找解法",
-      "human_voice": "這則公開分享反映出與「朋友／人際」相關的困擾或需求。",
+      "title": "在「朋友／人際受傷」裡感到受傷，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「朋友／人際受傷」相關的個人經歷，並明確表達出「受傷」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
       ],
-      "topic_label": "朋友／人際",
+      "topic_label": "朋友／人際受傷",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
@@ -270,8 +268,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788936769.A.2E4.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "在「感情／關係」裡感到苦惱，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「感情／關係」相關的個人經歷，並明確表達出「苦惱」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -284,11 +282,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788263063.A.F1A.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "對「感情／關係」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／關係」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -298,11 +295,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788270852.A.5AD.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "對「感情／關係」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／關係」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -312,11 +308,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788274465.A.F92.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "對「感情／關係」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／關係」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -326,11 +321,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788274827.A.A0A.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "對「感情／關係」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／關係」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -340,11 +334,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788345188.A.7B3.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "對「感情／關係」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／關係」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -354,11 +347,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788410075.A.813.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "對「感情／關係」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／關係」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -368,11 +360,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788446405.A.2AD.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "對「感情／關係」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／關係」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -382,11 +373,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788447723.A.D5F.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "對「感情／關係」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／關係」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -396,11 +386,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788450627.A.607.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "對「感情／關係」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／關係」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "感情／關係",
       "age": "未知",
@@ -410,8 +399,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788944245.A.766.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「生活議題」裡感到好奇，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「好奇」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -424,8 +413,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788952777.A.DBF.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「生活議題」裡感到擔心，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「擔心」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -438,11 +427,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788959016.A.7A6.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -452,8 +440,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788959340.A.B4D.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「生活議題」裡感到受傷，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「生活議題」相關的個人經歷，並明確表達出「受傷」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -466,11 +454,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788358844.A.D2A.html",
-      "title": "生活議題裡正在找解法",
+      "title": "分享一段與「生活議題」有關的生活經歷",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -480,8 +467,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788370615.A.E78.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「壓力」的感受。",
+      "title": "在「生活議題」裡感到壓力，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「壓力」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -494,8 +481,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788397341.A.4B2.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「困惑」的感受。",
+      "title": "在「生活議題」裡感到困惑，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「困惑」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -508,8 +495,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788400360.A.38C.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「生活議題」裡感到好奇，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「好奇」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -522,11 +509,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788408879.A.60C.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -536,8 +522,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788446197.A.DA2.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「生活議題」裡感到擔心，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「擔心」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -550,8 +536,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788461698.A.C20.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「生活議題」裡感到覺得有趣，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「生活議題」相關的個人經歷，並明確表達出「覺得有趣」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -564,8 +550,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788489293.A.9FF.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「生活議題」裡感到好奇，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「好奇」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -578,8 +564,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788503504.A.4DA.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「焦慮」的感受。",
+      "title": "在「生活議題」裡感到焦慮，分享自己的經歷",
+      "human_voice": "這則公開分享是在描述與「生活議題」相關的個人經歷，並明確表達出「焦慮」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -592,8 +578,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788509420.A.C16.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「生活議題」裡感到好奇，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「好奇」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -606,8 +592,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787901699.A.4BE.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「困惑」的感受。",
+      "title": "在「生活議題」裡感到困惑，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「困惑」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -620,8 +606,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787924051.A.792.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「生活議題」裡感到好奇，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「好奇」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -634,11 +620,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787924552.A.D0D.html",
-      "title": "生活議題裡正在找解法",
+      "title": "分享一段與「生活議題」有關的生活經歷",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -648,7 +633,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787413077.A.E79.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來難過，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「難過」的感受。",
       "classification_axes": [
         "pain",
@@ -662,11 +647,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787965857.A.B33.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -676,11 +660,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787987061.A.70E.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -690,11 +673,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787987112.A.57A.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -704,8 +686,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787997932.A.979.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "在「生活議題」裡感到好奇，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「好奇」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -718,11 +700,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788007646.A.4E4.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -732,7 +713,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788975284.A.B29.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -745,7 +726,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1789004399.A.F4C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -758,7 +739,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1789005323.A.C02.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -771,7 +752,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1789017818.A.54C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -784,8 +765,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1789003574.A.3AD.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -797,11 +778,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1787927255.A.FD2.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -811,7 +791,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1788194485.A.6F4.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -824,8 +804,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1788853176.A.64B.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -837,7 +817,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1746616345.A.CBC.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -850,8 +830,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787496299.A.E72.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -863,8 +843,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787552180.A.E9E.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -876,8 +856,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787672294.A.0AE.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -889,7 +869,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787791274.A.461.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -902,11 +882,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787936716.A.13F.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -916,11 +895,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1788002107.A.D12.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -930,7 +908,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1788610956.A.A69.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -943,7 +921,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1788937044.A.6DF.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -956,8 +934,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1788971252.A.937.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -969,7 +947,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1788932531.A.AE9.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -982,8 +960,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1788961418.A.60E.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -995,7 +973,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788090097.A.226.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1008,7 +986,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788092192.A.D4C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1021,7 +999,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788141492.A.7B1.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1034,7 +1012,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788141884.A.DF3.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1047,7 +1025,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788142183.A.094.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1060,7 +1038,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788169695.A.65A.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1073,7 +1051,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788176196.A.9DE.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1086,7 +1064,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788197616.A.1DA.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1099,7 +1077,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788229218.A.A82.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1112,7 +1090,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788253764.A.F5B.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1125,7 +1103,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787638337.A.D11.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1138,7 +1116,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787642660.A.B1C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1151,7 +1129,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787706585.A.3FE.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1164,7 +1142,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787753343.A.57C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1177,7 +1155,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787794929.A.3F6.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1190,8 +1168,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787838487.A.5CE.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -1203,7 +1181,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787888010.A.4E0.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1216,7 +1194,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1779670748.A.B10.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1229,7 +1207,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1780773792.A.0F0.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1242,7 +1220,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1781504303.A.07D.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1255,7 +1233,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1782031368.A.084.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1268,7 +1246,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1782057562.A.6DA.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1281,8 +1259,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1782228136.A.BE8.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "「生活議題」帶來苦惱，正在找解法",
+      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「苦惱」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1295,8 +1273,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1783337705.A.C72.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「害怕」的感受。",
+      "title": "在「生活議題」裡感到害怕，想釐清下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向，並明確表達出「害怕」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1309,7 +1287,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1784114991.A.78E.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1322,7 +1300,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785420644.A.6B7.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1335,7 +1313,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785512216.A.DDE.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1348,7 +1326,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785644543.A.1F5.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1361,7 +1339,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785823067.A.F0C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來焦慮，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「焦慮」的感受。",
       "classification_axes": [
         "pain",
@@ -1375,8 +1353,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785909558.A.F28.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -1388,7 +1366,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785955701.A.FEA.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來壓力，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「壓力」的感受。",
       "classification_axes": [
         "pain",
@@ -1402,7 +1380,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1786022560.A.F46.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1415,7 +1393,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1786186967.A.A11.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1428,7 +1406,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1786377433.A.087.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1441,7 +1419,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1786709440.A.E99.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1454,7 +1432,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1787728789.A.AE4.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1467,11 +1445,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1788082210.A.3D2.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -1481,7 +1458,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1788590411.A.F5C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1494,7 +1471,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1788606411.A.DBD.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來困惑，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「困惑」的感受。",
       "classification_axes": [
         "pain",
@@ -1508,7 +1485,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1787720703.A.AF8.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1521,7 +1498,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787883599.A.326.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1534,7 +1511,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787884043.A.AA5.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1547,7 +1524,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787885861.A.1E3.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1560,7 +1537,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787888366.A.974.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1573,7 +1550,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787908830.A.141.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1586,11 +1563,10 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787929509.A.B11.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
-        "pain",
-        "emotion"
+        "pain"
       ],
       "topic_label": "生活議題",
       "age": "未知",
@@ -1600,7 +1576,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787931090.A.769.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1613,7 +1589,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787949626.A.766.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1626,7 +1602,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787963133.A.D2F.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1639,7 +1615,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788005516.A.9A7.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1652,7 +1628,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787304263.A.B7A.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1665,7 +1641,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787327701.A.FC5.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1678,8 +1654,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787330226.A.85E.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "「生活議題」帶來不舒服，正在找解法",
+      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「不舒服」的感受。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -1692,7 +1668,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787415265.A.3BA.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1705,7 +1681,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787461033.A.551.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來難過，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「難過」的感受。",
       "classification_axes": [
         "pain",
@@ -1719,7 +1695,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787461056.A.DF9.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1732,7 +1708,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787575352.A.B53.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1745,7 +1721,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787586573.A.69C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1758,7 +1734,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1771704262.A.C5E.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來害怕，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「害怕」的感受。",
       "classification_axes": [
         "pain",
@@ -1772,7 +1748,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1772200142.A.F3E.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1785,7 +1761,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1772802822.A.E72.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1798,7 +1774,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1773235073.A.760.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來壓力，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「壓力」的感受。",
       "classification_axes": [
         "pain",
@@ -1812,7 +1788,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1773624492.A.3A5.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1825,7 +1801,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1774183968.A.A4E.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來困惑，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「困惑」的感受。",
       "classification_axes": [
         "pain",
@@ -1839,7 +1815,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1774459619.A.17D.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來焦慮，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「焦慮」的感受。",
       "classification_axes": [
         "pain",
@@ -1853,7 +1829,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1774640403.A.544.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1866,7 +1842,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1775487767.A.78B.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1879,7 +1855,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1776852012.A.E82.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1892,7 +1868,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1782918506.A.20F.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1905,7 +1881,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1783048614.A.F17.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1918,7 +1894,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1783613477.A.DAF.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1931,7 +1907,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1783655145.A.D02.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1944,7 +1920,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1784004048.A.3B6.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1957,7 +1933,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1784091098.A.4AA.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1970,7 +1946,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1784261152.A.ECF.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來焦慮，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「焦慮」的感受。",
       "classification_axes": [
         "pain",
@@ -1984,7 +1960,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1784906073.A.E6F.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -1997,7 +1973,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1785075532.A.912.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2010,7 +1986,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1786717725.A.58A.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2023,7 +1999,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1787094937.A.4D0.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2036,7 +2012,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1787104432.A.709.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來挫折，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「挫折」的感受。",
       "classification_axes": [
         "pain",
@@ -2050,7 +2026,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1787597529.A.37A.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來困惑，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「困惑」的感受。",
       "classification_axes": [
         "pain",
@@ -2064,7 +2040,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1787709233.A.22C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2077,7 +2053,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787731673.A.19A.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2090,7 +2066,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787736546.A.965.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2103,7 +2079,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787737751.A.B5A.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2116,7 +2092,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787747731.A.1D3.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2129,7 +2105,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787781430.A.145.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2142,7 +2118,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787794152.A.539.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2155,7 +2131,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787794409.A.AC1.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2168,7 +2144,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787817106.A.687.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2181,7 +2157,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787821315.A.FE3.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2194,7 +2170,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787823157.A.89E.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」帶來焦慮，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求，並明確表達出「焦慮」的感受。",
       "classification_axes": [
         "pain",
@@ -2208,7 +2184,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786978953.A.A2C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2221,7 +2197,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787005792.A.E9D.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2234,7 +2210,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787031244.A.A82.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2247,7 +2223,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787032780.A.A3C.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2260,7 +2236,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787057547.A.D53.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2273,7 +2249,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787080522.A.1A6.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2286,7 +2262,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787151649.A.579.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2299,7 +2275,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787166402.A.B9E.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2312,7 +2288,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787200068.A.407.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2325,7 +2301,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787221352.A.558.html",
-      "title": "感情／關係裡正在找解法",
+      "title": "「感情／關係」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2351,7 +2327,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1765788644.A.C8F.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2377,7 +2353,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1768202169.A.9BA.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2390,7 +2366,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1768417956.A.EF8.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2403,7 +2379,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1769149158.A.054.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2429,7 +2405,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1781177094.A.738.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2455,8 +2431,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1781247860.A.908.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2507,8 +2483,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1782042373.A.74B.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2520,8 +2496,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1782139152.A.9CD.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2533,8 +2509,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1782203025.A.A78.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2546,7 +2522,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1784941307.A.691.html",
-      "title": "家庭財務／財產裡正在找解法",
+      "title": "「家庭財務／財產」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「家庭財務／財產」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2572,7 +2548,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1785070406.A.779.html",
-      "title": "家庭財務／財產裡正在找解法",
+      "title": "「家庭財務／財產」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「家庭財務／財產」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2598,8 +2574,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787565604.A.9CD.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2637,7 +2613,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787579359.A.6FB.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2650,8 +2626,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787580984.A.FC0.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2663,7 +2639,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787597718.A.633.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2715,8 +2691,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787672999.A.CB7.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2728,7 +2704,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786614251.A.554.html",
-      "title": "感情／關係裡正在找解法",
+      "title": "「感情／關係」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2741,8 +2717,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786632088.A.510.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2754,7 +2730,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786755362.A.885.html",
-      "title": "感情／關係裡正在找解法",
+      "title": "「感情／關係」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2767,8 +2743,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786790002.A.E9A.html",
-      "title": "感情／關係裡正在找解法",
-      "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
+      "title": "對「感情／關係」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「感情／關係」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2780,7 +2756,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786941668.A.C39.html",
-      "title": "感情／關係裡正在找解法",
+      "title": "「感情／關係」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2793,7 +2769,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786963454.A.5A3.html",
-      "title": "感情／關係裡正在找解法",
+      "title": "「感情／關係」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2806,7 +2782,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786970450.A.E38.html",
-      "title": "感情／關係裡正在找解法",
+      "title": "「感情／關係」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2819,7 +2795,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786971789.A.ADD.html",
-      "title": "感情／關係裡正在找解法",
+      "title": "「感情／關係」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2845,8 +2821,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1760793061.A.7A1.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2858,8 +2834,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1760972946.A.4B2.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2884,8 +2860,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1761887505.A.B37.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -2949,7 +2925,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1779766330.A.AF1.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -2988,8 +2964,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1779946684.A.FF9.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -3079,8 +3055,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787395380.A.5D9.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -3105,7 +3081,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787409847.A.374.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -3118,8 +3094,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787414977.A.9AB.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -3144,7 +3120,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787424430.A.AC2.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -3170,8 +3146,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787475595.A.35B.html",
-      "title": "生活議題裡正在找解法",
-      "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
+      "title": "對「生活議題」有疑問，正在找下一步",
+      "human_voice": "這則公開分享是在尋找與「生活議題」相關的方向或答案。",
       "classification_axes": [
         "pain"
       ],
@@ -3183,7 +3159,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787484074.A.1CA.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -3209,7 +3185,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786031405.A.340.html",
-      "title": "感情／關係裡正在找解法",
+      "title": "「感情／關係」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「感情／關係」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -3222,7 +3198,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786075986.A.ADC.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -3248,7 +3224,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786207636.A.615.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -3261,7 +3237,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786257845.A.9A2.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
@@ -3300,7 +3276,7 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786378047.A.4C0.html",
-      "title": "生活議題裡正在找解法",
+      "title": "「生活議題」出現困擾，正在找解法",
       "human_voice": "這則公開分享反映出與「生活議題」相關的困擾或需求。",
       "classification_axes": [
         "pain"
