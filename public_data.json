@@ -1,6 +1,6 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-11T10:27:40.106027+00:00",
+  "generated_at": "2026-09-11T10:28:32.687559+00:00",
   "items": [
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788783720.A.299.html",
@@ -35097,6 +35097,795 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2024-09-27T05:00:13+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1727442771.A.6DF.html",
+      "title": "正在評估是否換工作／轉換職涯",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-27T13:12:49+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1727449318.A.E27.html",
+      "title": "正在面對工作／職涯選擇，也感到焦慮",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇，並明確表達出「焦慮」的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-27T15:01:56+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1727482928.A.4E2.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-28T00:22:06+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774093390.A.CD0.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-21T11:43:07+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774144646.A.FE4.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-22T01:57:24+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774154364.A.DBB.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-22T04:39:22+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774195163.A.049.html",
+      "title": "正在整理一個生活上的問題，也感到焦慮",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題，並明確表達出「焦慮」的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-22T15:59:21+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774236711.A.98C.html",
+      "title": "正在尋找改善睡眠與身心狀態的方法",
+      "human_voice": "這則公開分享呈現出與「睡眠／身心」相關的生活訊號：正在尋找改善睡眠與身心狀態的方法。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-23T03:31:49+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774250089.A.A8F.html",
+      "title": "正在整理一個生活上的問題，也感到焦慮",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題，並明確表達出「焦慮」的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-23T07:14:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774254282.A.292.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-23T08:24:40+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774255449.A.8EF.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-23T08:44:07+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774261226.A.AE5.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-23T10:20:24+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774273524.A.852.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-23T13:45:22+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778581236.A.7AD.html",
+      "title": "正在處理日常生活裡的困擾",
+      "human_voice": "這則公開分享呈現出與「日常生活／人際」相關的生活訊號：正在處理日常生活裡的困擾。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-12T10:20:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778581771.A.2A1.html",
+      "title": "正在處理日常生活裡的困擾",
+      "human_voice": "這則公開分享呈現出與「日常生活／人際」相關的生活訊號：正在處理日常生活裡的困擾。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-12T10:29:29+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778590620.A.EDF.html",
+      "title": "正在處理日常生活裡的困擾",
+      "human_voice": "這則公開分享呈現出與「日常生活／人際」相關的生活訊號：正在處理日常生活裡的困擾。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-12T12:56:58+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778600453.A.7EA.html",
+      "title": "正在處理日常生活裡的困擾",
+      "human_voice": "這則公開分享呈現出與「日常生活／人際」相關的生活訊號：正在處理日常生活裡的困擾。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-12T15:40:51+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778645626.A.C8F.html",
+      "title": "正在處理日常生活裡的困擾",
+      "human_voice": "這則公開分享呈現出與「日常生活／人際」相關的生活訊號：正在處理日常生活裡的困擾。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-13T04:13:44+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778648366.A.BF0.html",
+      "title": "正在處理日常生活裡的困擾",
+      "human_voice": "這則公開分享呈現出與「日常生活／人際」相關的生活訊號：正在處理日常生活裡的困擾。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-13T04:59:24+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778652349.A.F49.html",
+      "title": "正在處理日常生活裡的困擾",
+      "human_voice": "這則公開分享呈現出與「日常生活／人際」相關的生活訊號：正在處理日常生活裡的困擾。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-13T06:05:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778659893.A.245.html",
+      "title": "正在處理日常生活裡的困擾",
+      "human_voice": "這則公開分享呈現出與「日常生活／人際」相關的生活訊號：正在處理日常生活裡的困擾。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-13T08:11:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763968473.A.A6C.html",
+      "title": "正在釐清一段關係該怎麼走",
+      "human_voice": "這則公開分享呈現出與「感情／關係」相關的生活訊號：正在釐清一段關係該怎麼走。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-24T07:14:28+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763987637.A.17A.html",
+      "title": "正在釐清一段關係該怎麼走",
+      "human_voice": "這則公開分享呈現出與「感情／關係」相關的生活訊號：正在釐清一段關係該怎麼走。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-24T12:33:55+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1764016735.A.A1F.html",
+      "title": "正在釐清一段關係該怎麼走",
+      "human_voice": "這則公開分享呈現出與「感情／關係」相關的生活訊號：正在釐清一段關係該怎麼走。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-24T20:38:53+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1764039610.A.1ED.html",
+      "title": "正在協調伴侶間的費用分擔期待",
+      "human_voice": "這則公開分享呈現出與「關係／金錢」相關的生活訊號：正在協調伴侶間的費用分擔期待。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-25T03:00:08+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649748787.A.274.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-12T07:33:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649834558.A.F31.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-13T07:22:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649862573.A.FC8.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-13T15:09:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649863277.A.4C3.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-13T15:21:15+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649907361.A.4E2.html",
+      "title": "正在評估是否換工作／轉換職涯",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-14T03:35:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649909665.A.130.html",
+      "title": "正在評估是否換工作／轉換職涯",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-14T04:14:21+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649954388.A.93F.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-14T16:39:46+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649985714.A.30A.html",
+      "title": "正在評估是否換工作／轉換職涯",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-15T01:21:52+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1726468207.A.BB0.html",
+      "title": "正在面對職場條件與權益問題",
+      "human_voice": "這則公開分享呈現出與「職場條件／權益」相關的生活訊號：正在面對職場條件與權益問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-16T06:30:05+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1726487023.A.C41.html",
+      "title": "正在尋找改善睡眠與身心狀態的方法，也感到害怕",
+      "human_voice": "這則公開分享呈現出與「睡眠／身心」相關的生活訊號：正在尋找改善睡眠與身心狀態的方法，並明確表達出「害怕」的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-16T11:43:41+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1726541878.A.860.html",
+      "title": "正在評估是否換工作／轉換職涯",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-17T02:57:56+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1726815635.A.D1B.html",
+      "title": "正在評估是否換工作／轉換職涯",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-20T07:00:33+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1726820856.A.099.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-20T08:27:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1726881012.A.085.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-21T01:10:09+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1726889056.A.8C7.html",
+      "title": "正在評估是否換工作／轉換職涯",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-21T03:24:14+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1726974897.A.0D4.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-22T03:14:55+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1727010840.A.806.html",
+      "title": "正在評估是否換工作／轉換職涯",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-22T13:13:58+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1727094868.A.BAD.html",
+      "title": "正在評估是否換工作／轉換職涯，也感到壓力",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯，並明確表達出「壓力」的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-23T12:34:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1773483792.A.D53.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-14T10:23:10+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1773493183.A.7E2.html",
+      "title": "正在整理一個生活上的問題，也感到焦慮",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題，並明確表達出「焦慮」的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-14T12:59:41+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1773495633.A.A3C.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-14T13:40:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1773540806.A.C62.html",
+      "title": "正在面對職場條件與權益問題，也感到壓力",
+      "human_voice": "這則公開分享呈現出與「職場條件／權益」相關的生活訊號：正在面對職場條件與權益問題，並明確表達出「壓力」的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-15T02:13:24+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1773570049.A.098.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-15T10:20:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1773614355.A.EF6.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-15T22:39:13+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1773639422.A.05C.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-16T05:37:00+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1773642060.A.A77.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-16T06:20:58+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1773642204.A.D24.html",
+      "title": "正在整理一個生活上的問題",
+      "human_voice": "這則公開分享呈現出與「生活議題」相關的生活訊號：正在整理一個生活上的問題。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-16T06:23:22+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1650172043.A.BED.html",
+      "title": "正在面對工作／職涯選擇，也感到壓力",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇，並明確表達出「壓力」的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-17T05:07:21+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1726750592.A.109.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-19T12:56:30+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778403051.A.E6E.html",
+      "title": "正在處理日常生活裡的困擾",
+      "human_voice": "這則公開分享呈現出與「日常生活／人際」相關的生活訊號：正在處理日常生活裡的困擾。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-10T08:50:48+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649368808.A.01F.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-07T22:00:06+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649423826.A.4E5.html",
+      "title": "正在面對工作／職涯選擇",
+      "human_voice": "這則公開分享呈現出與「工作／職涯」相關的生活訊號：正在面對工作／職涯選擇。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-08T13:17:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649463733.A.048.html",
+      "title": "正在規劃財務與退休選擇，也感到壓力",
+      "human_voice": "這則公開分享呈現出與「財務／退休」相關的生活訊號：正在規劃財務與退休選擇，並明確表達出「壓力」的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-09T00:22:11+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649492624.A.580.html",
+      "title": "正在評估是否換工作／轉換職涯",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-09T08:23:40+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1649560497.A.CEF.html",
+      "title": "正在評估是否換工作／轉換職涯",
+      "human_voice": "這則公開分享呈現出與「求職／職涯」相關的生活訊號：正在評估是否換工作／轉換職涯。",
+      "classification_axes": [
+        "pain"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-04-10T03:14:55+00:00"
     }
   ]
 }
