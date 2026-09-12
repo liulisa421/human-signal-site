@@ -1,5 +1,2415 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-12T02:57:47.295397+00:00",
-  "items": []
+  "generated_at": "2026-09-12T03:07:30.711242+00:00",
+  "items": [
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788783720.A.299.html",
+      "title": "有人正在分享一段關於消費／服務體驗的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及消費／服務體驗，作者也明確表達了開心的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "消費／產品體驗",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-07T12:21:56+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788874640.A.015.html",
+      "title": "一段同時牽涉婚禮／結婚經歷與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及婚禮／結婚經歷、朋友／社交、學習／教育，作者也明確表達了受傷的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "朋友／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-08T13:37:18+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788836438.A.C2B.html",
+      "title": "有些事情不是大問題，卻會一直卡在心裡",
+      "human_voice": "有人正被一件生活裡的事情困住，希望找到比較合適的處理方式。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-08T03:00:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788932925.A.622.html",
+      "title": "一段同時牽涉職場相處／工作條件與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、婚禮／結婚經歷、學習／教育，作者也明確表達了受傷的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "朋友／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-09T05:48:43+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788933976.A.94E.html",
+      "title": "一段同時牽涉婚禮／結婚經歷與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及婚禮／結婚經歷、家庭／育兒，作者也明確表達了受傷的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "朋友／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-09T06:06:14+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1724387130.A.996.html",
+      "title": "有人正在說出此刻很明確的擔心",
+      "human_voice": "這是一筆明確的心情訊號，作者直接表達了擔心。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "平台／安全",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-23T04:25:29+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788959340.A.B4D.html",
+      "title": "一段同時牽涉學習／教育與消費／服務體驗的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及學習／教育、消費／服務體驗、旅行／移動經歷，作者也明確表達了受傷的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-09T13:08:57+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788461698.A.C20.html",
+      "title": "一段經歷被說出來時，最清楚留下的是覺得有趣",
+      "human_voice": "這是一段經驗／故事分享，作者明確表達了覺得有趣的感受。",
+      "classification_axes": [
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-03T18:54:56+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788503504.A.4DA.html",
+      "title": "一段經歷被說出來時，最清楚留下的是焦慮",
+      "human_voice": "這是一段經驗／故事分享，作者明確表達了焦慮的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-04T06:31:40+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787924552.A.D0D.html",
+      "title": "一段同時牽涉換工作／職涯轉換與職場相處／工作條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、職場相處／工作條件、伴侶／婚姻互動。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-28T13:42:29+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1789017818.A.54C.html",
+      "title": "最近有人正在分享一件放在心上的事",
+      "human_voice": "有人正在分享一段生活裡真實發生的感受與想法。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-10T05:23:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1765511128.A.B18.html",
+      "title": "想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-12-12T03:45:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1781233805.A.996.html",
+      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
+      "human_voice": "有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-12T03:10:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1781612769.A.797.html",
+      "title": "想找到做得久、也適合自己的工作，有哪些可能？",
+      "human_voice": "有人正在尋找更符合自身條件、能長期維持的工作方向。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "工作／無障礙",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-16T12:26:06+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1785593333.A.7D5.html",
+      "title": "明明想好好說，為什麼伴侶溝通還是卡住？",
+      "human_voice": "有人正在面對伴侶溝通上的卡關，希望更理解問題並改善互動。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "伴侶溝通",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-01T14:08:51+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787621504.A.96D.html",
+      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
+      "human_voice": "有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-25T01:31:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1764636804.A.52C.html",
+      "title": "面對財務與退休選擇，怎麼做比較安心？",
+      "human_voice": "有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-12-02T00:53:21+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1784325886.A.A7E.html",
+      "title": "談到家庭財產，怎麼做才算公平？",
+      "human_voice": "有人正在釐清家庭財產、所有權與公平之間的問題。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "家庭財務／財產",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-17T22:04:44+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786107289.A.8F6.html",
+      "title": "遇到讓人不舒服的騷擾，接下來可以怎麼做？",
+      "human_voice": "有人正在面對騷擾與安全上的困擾，希望釐清可以如何回應。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "安全／騷擾",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-07T12:54:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786281666.A.073.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、朋友／社交、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-09T13:21:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786333811.A.FE3.html",
+      "title": "有人正在分享一段關於學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-10T03:50:05+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786420989.A.DBB.html",
+      "title": "有人正在分享一段關於朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-11T04:03:07+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786521823.A.B52.html",
+      "title": "一段同時牽涉職場相處／工作條件與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-12T08:03:41+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1758686910.A.D66.html",
+      "title": "一段同時牽涉財務／退休規劃與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、居住／房產、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-24T04:08:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1758690118.A.39C.html",
+      "title": "一段同時牽涉居住／房產與消費／服務體驗的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、消費／服務體驗、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-24T05:01:55+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1758990123.A.043.html",
+      "title": "一段同時牽涉換工作／職涯轉換與職場相處／工作條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、職場相處／工作條件、財務／退休規劃。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-27T16:22:01+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1759486628.A.124.html",
+      "title": "一段同時牽涉居住／房產與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-03T10:17:06+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1759542725.A.265.html",
+      "title": "一段同時牽涉家庭／育兒與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及家庭／育兒、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-04T01:52:02+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1759681173.A.802.html",
+      "title": "一段同時牽涉財務／退休規劃與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、家庭／育兒、寵物／陪伴。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-05T16:19:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1782668919.A.AEB.html",
+      "title": "一段同時牽涉婚禮／結婚經歷與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及婚禮／結婚經歷、家庭／育兒、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-28T17:48:37+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787234438.A.115.html",
+      "title": "有人正在分享一段關於關係中的金錢分擔的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及關係中的金錢分擔。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-20T14:00:35+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787291301.A.078.html",
+      "title": "一段同時牽涉消費／服務體驗與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及消費／服務體驗、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-21T05:48:19+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787292947.A.F38.html",
+      "title": "有人正在分享一段關於家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-21T06:15:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787330142.A.E26.html",
+      "title": "一段同時牽涉健康／生活條件與寵物／陪伴的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及健康／生活條件、寵物／陪伴。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-21T16:35:38+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787360222.A.52F.html",
+      "title": "有人正在分享一段關於居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-22T00:57:00+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785760525.A.41B.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、婚禮／結婚經歷、家庭／育兒，作者也明確表達了開心的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-03T12:35:23+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785984810.A.A19.html",
+      "title": "一段同時牽涉朋友／社交與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及朋友／社交、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-06T02:53:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1754654388.A.A93.html",
+      "title": "一段同時牽涉財務／退休規劃與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、伴侶／婚姻互動、家庭／育兒，作者也明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-08-08T11:59:46+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1754995451.A.83B.html",
+      "title": "一段同時牽涉換工作／職涯轉換與求職／面試的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、求職／面試、職場相處／工作條件，作者也明確表達了焦慮的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-08-12T10:44:09+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1778393225.A.6D6.html",
+      "title": "一段同時牽涉求職／面試與職場相處／工作條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、職場相處／工作條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-10T06:06:49+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1780643856.A.F1C.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-05T07:17:33+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1782041205.A.007.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-21T11:26:43+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787071988.A.1A6.html",
+      "title": "有人正在分享一段關於睡眠／身心狀態的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及睡眠／身心狀態。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-18T16:53:06+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787072052.A.D62.html",
+      "title": "有人正在分享一段關於職場相處／工作條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-18T16:54:10+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787131449.A.3B3.html",
+      "title": "有人正在分享一段關於伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-19T09:24:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785217071.A.C30.html",
+      "title": "一段經歷被說出來時，最清楚留下的是開心",
+      "human_voice": "這是一段經驗／故事分享，作者明確表達了開心的感受。",
+      "classification_axes": [
+        "emotion"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-28T05:37:46+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785475844.A.1C2.html",
+      "title": "有人正在分享一段關於財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-31T05:30:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785562144.A.69C.html",
+      "title": "一段同時牽涉職場相處／工作條件與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-01T05:29:02+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1750514750.A.D82.html",
+      "title": "有人正在分享一段關於求職／面試的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-06-21T14:05:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1779207393.A.1DA.html",
+      "title": "一段同時牽涉婚禮／結婚經歷與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及婚禮／結婚經歷、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-19T16:16:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1779723553.A.8EA.html",
+      "title": "一段同時牽涉職場相處／工作條件與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、伴侶／婚姻互動、婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-25T15:39:11+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786985386.A.3CD.html",
+      "title": "一段同時牽涉關係中的金錢分擔與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及關係中的金錢分擔、家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-17T16:49:15+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785113412.A.988.html",
+      "title": "一段同時牽涉居住／房產與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、伴侶／婚姻互動、婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-27T00:50:10+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1777744552.A.592.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-02T17:55:50+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786807904.A.FA1.html",
+      "title": "一段經歷被說出來時，最清楚留下的是難過",
+      "human_voice": "這是一段經驗／故事分享，作者明確表達了難過的感受。",
+      "classification_axes": [
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-15T15:31:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1743057934.A.3BD.html",
+      "title": "一段同時牽涉職場相處／工作條件與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-03-27T06:45:32+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1777639011.A.EE0.html",
+      "title": "有人正在分享一段關於婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-01T12:36:49+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1784088392.A.022.html",
+      "title": "一段經歷被說出來時，最清楚留下的是孤單",
+      "human_voice": "這是一段經驗／故事分享，作者明確表達了孤單的感受。",
+      "classification_axes": [
+        "emotion"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-15T04:06:30+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1784297907.A.460.html",
+      "title": "一段同時牽涉求職／面試與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-17T14:18:25+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1776661727.A.30A.html",
+      "title": "一段同時牽涉婚禮／結婚經歷與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及婚禮／結婚經歷、旅行／移動經歷，作者也明確表達了難過的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-20T05:08:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786578572.A.73A.html",
+      "title": "有人正在分享一段關於健康／生活條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-12T23:49:28+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1737606364.A.A30.html",
+      "title": "一段同時牽涉財務／退休規劃與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、居住／房產、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-01-23T04:26:02+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1770100867.A.2B4.html",
+      "title": "一段同時牽涉換工作／職涯轉換與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-03T06:41:05+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1770278438.A.BDE.html",
+      "title": "有人正在分享一段關於換工作／職涯轉換的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換，作者也明確表達了害怕的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-05T08:00:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786439850.A.8C9.html",
+      "title": "一段同時牽涉朋友／社交與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及朋友／社交、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-11T09:17:28+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1783212535.A.85D.html",
+      "title": "一段同時牽涉財務／退休規劃與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、伴侶／婚姻互動、婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-05T00:48:53+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1736404058.A.979.html",
+      "title": "一段同時牽涉換工作／職涯轉換與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-01-09T06:27:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1736562278.A.359.html",
+      "title": "一段同時牽涉換工作／職涯轉換與求職／面試的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、求職／面試、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-01-11T02:24:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1774455786.A.E16.html",
+      "title": "一段同時牽涉居住／房產與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、伴侶／婚姻互動、家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "家庭財務／財產",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-25T16:23:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786344207.A.6AB.html",
+      "title": "有人正在分享一段關於旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-10T06:43:25+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1782420635.A.DB4.html",
+      "title": "一段同時牽涉家庭／育兒與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及家庭／育兒、旅行／移動經歷，作者也明確表達了焦慮的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-25T20:50:33+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1732100272.A.13A.html",
+      "title": "一段同時牽涉職場相處／工作條件與財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、財務／退休規劃、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-11-20T10:57:49+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1767600956.A.829.html",
+      "title": "一段同時牽涉求職／面試與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-05T08:15:54+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786207860.A.9FF.html",
+      "title": "一段同時牽涉家庭／育兒與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及家庭／育兒、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-08T16:50:56+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1781933085.A.3B2.html",
+      "title": "一段同時牽涉職場相處／工作條件與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、婚禮／結婚經歷、朋友／社交，作者也明確表達了開心的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-20T05:24:43+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1730613935.A.397.html",
+      "title": "有人正在分享一段關於寵物／陪伴的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及寵物／陪伴。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-11-03T06:05:30+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1731344265.A.0C2.html",
+      "title": "一段同時牽涉財務／退休規劃與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、居住／房產、婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-11-11T16:57:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1781288948.A.E7B.html",
+      "title": "一段同時牽涉職場相處／工作條件與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、伴侶／婚姻互動、家庭／育兒，作者也明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-12T18:29:06+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1781744428.A.BD6.html",
+      "title": "一段同時牽涉關係中的金錢分擔與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及關係中的金錢分擔、伴侶／婚姻互動、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-18T01:00:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1725023567.A.53E.html",
+      "title": "一段同時牽涉財務／退休規劃與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-30T13:12:44+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1785600905.A.DDF.html",
+      "title": "一段經歷被說出來時，最清楚留下的是壓力",
+      "human_voice": "這是一段經驗／故事分享，作者明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-01T16:15:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1780468541.A.DE1.html",
+      "title": "一段同時牽涉關係中的金錢分擔與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及關係中的金錢分擔、伴侶／婚姻互動、朋友／社交，作者也明確表達了焦慮的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-03T06:35:39+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1780484690.A.94B.html",
+      "title": "一段同時牽涉換工作／職涯轉換與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、伴侶／婚姻互動、婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-03T11:04:48+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1722931807.A.DA3.html",
+      "title": "一段同時牽涉求職／面試與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-06T08:10:05+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1763891861.A.BF1.html",
+      "title": "一段同時牽涉居住／房產與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、家庭／育兒、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-23T09:57:38+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1789048784.A.9AC.html",
+      "title": "一段同時牽涉職場相處／工作條件與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-10T13:59:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1780397494.A.1FD.html",
+      "title": "兩個人在一起，錢到底怎麼分才舒服？",
+      "human_voice": "有人正在協調伴侶之間的費用分擔與期待，希望找到彼此都能接受的方式。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-02T10:51:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1780402484.A.912.html",
+      "title": "一段同時牽涉朋友／社交與健康／生活條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及朋友／社交、健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-02T12:14:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1721520729.A.64D.html",
+      "title": "一段同時牽涉職場相處／工作條件與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、婚禮／結婚經歷、家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-07-21T00:12:07+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1762864721.A.C91.html",
+      "title": "一段同時牽涉換工作／職涯轉換與求職／面試的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、求職／面試、伴侶／婚姻互動。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-11T12:38:39+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1785215106.A.80D.html",
+      "title": "一段同時牽涉家庭／育兒與健康／生活條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及家庭／育兒、健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-28T05:05:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1779545068.A.0EA.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、婚禮／結婚經歷、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-23T14:04:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1779596387.A.CFA.html",
+      "title": "一段同時牽涉職場相處／工作條件與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、伴侶／婚姻互動、朋友／社交，作者也明確表達了孤單的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-24T04:19:44+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1779623534.A.407.html",
+      "title": "一段同時牽涉學習／教育與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及學習／教育、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-24T11:52:12+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1716119092.A.202.html",
+      "title": "一段同時牽涉財務／退休規劃與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-19T11:44:48+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1716228748.A.484.html",
+      "title": "一段同時牽涉換工作／職涯轉換與財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、財務／退休規劃、居住／房產。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-20T18:12:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1717942139.A.154.html",
+      "title": "一段同時牽涉居住／房產與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、家庭／育兒、朋友／社交，作者也明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-06-09T14:08:57+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1779003516.A.52F.html",
+      "title": "一段同時牽涉關係中的金錢分擔與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及關係中的金錢分擔、朋友／社交，作者也明確表達了焦慮的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-17T07:38:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1759221363.A.CF1.html",
+      "title": "一段同時牽涉換工作／職涯轉換與職場相處／工作條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、職場相處／工作條件，作者也明確表達了害怕的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-30T08:36:01+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1784685484.A.CD9.html",
+      "title": "一段同時牽涉家庭／育兒與消費／服務體驗的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及家庭／育兒、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-22T01:58:02+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1778296910.A.C97.html",
+      "title": "一段同時牽涉財務／退休規劃與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、居住／房產、家庭／育兒，作者也明確表達了焦慮的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-09T03:21:48+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1710094257.A.796.html",
+      "title": "一段同時牽涉換工作／職涯轉換與求職／面試的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、求職／面試、居住／房產，作者也明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-03-10T18:10:55+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1758209873.A.725.html",
+      "title": "一段同時牽涉求職／面試與財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、財務／退休規劃、伴侶／婚姻互動，作者也明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-18T15:37:51+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1777810301.A.0A5.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、婚禮／結婚經歷、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-03T12:11:39+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1777874702.A.231.html",
+      "title": "一段同時牽涉財務／退休規劃與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、居住／房產、伴侶／婚姻互動。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-04T06:05:00+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1702388952.A.971.html",
+      "title": "一段同時牽涉求職／面試與財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、財務／退休規劃、家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-12-12T13:49:09+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1777141948.A.7FD.html",
+      "title": "一段同時牽涉居住／房產與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、婚禮／結婚經歷、家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-25T18:32:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1754647067.A.DEE.html",
+      "title": "一段同時牽涉求職／面試與消費／服務體驗的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、消費／服務體驗、旅行／移動經歷，作者也明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-08-08T09:57:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783964386.A.BCB.html",
+      "title": "一段同時牽涉朋友／社交與睡眠／身心狀態的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及朋友／社交、睡眠／身心狀態。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-13T17:39:44+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1698931969.A.843.html",
+      "title": "一段同時牽涉婚禮／結婚經歷與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及婚禮／結婚經歷、家庭／育兒、健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／無障礙",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-11-02T13:32:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783830225.A.A6C.html",
+      "title": "一段同時牽涉居住／房產與寵物／陪伴的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、寵物／陪伴。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-12T04:23:43+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1750644850.A.4D9.html",
+      "title": "一段同時牽涉職場相處／工作條件與財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、財務／退休規劃，作者也明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-06-23T02:14:08+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783173439.A.3A4.html",
+      "title": "一段同時牽涉求職／面試與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、伴侶／婚姻互動、家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-04T13:57:17+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783184708.A.AF0.html",
+      "title": "一段同時牽涉家庭／育兒與寵物／陪伴的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及家庭／育兒、寵物／陪伴。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-04T17:05:06+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1688995473.A.934.html",
+      "title": "一段同時牽涉換工作／職涯轉換與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、居住／房產，作者也明確表達了開心的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-07-10T13:24:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782871031.A.AB7.html",
+      "title": "一段同時牽涉換工作／職涯轉換與職場相處／工作條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、職場相處／工作條件、騷擾／人身安全。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-01T01:57:09+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782780453.A.32E.html",
+      "title": "一段同時牽涉求職／面試與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、家庭／育兒、健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-30T00:47:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782476018.A.54E.html",
+      "title": "有人正在分享一段關於失落／告別經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及失落／告別經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-26T12:13:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782549510.A.F94.html",
+      "title": "一段同時牽涉朋友／社交與消費／服務體驗的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及朋友／社交、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-27T08:38:28+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782435062.A.008.html",
+      "title": "有人正在分享一段關於騷擾／人身安全的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及騷擾／人身安全。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "安全／騷擾",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-26T00:51:00+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1772527486.A.667.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與消費／服務體驗的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-03T08:44:44+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1772096929.A.629.html",
+      "title": "一段經歷被說出來時，最清楚留下的是挫折",
+      "human_voice": "這是一段經驗／故事分享，作者明確表達了挫折的感受。",
+      "classification_axes": [
+        "emotion"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-26T09:08:46+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1680924888.A.CBF.html",
+      "title": "一段同時牽涉學習／教育與寵物／陪伴的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及學習／教育、寵物／陪伴，作者也明確表達了焦慮的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-04-08T03:34:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1679119422.A.6A7.html",
+      "title": "一段同時牽涉家庭／育兒與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及家庭／育兒、旅行／移動經歷、寵物／陪伴。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-03-18T06:03:39+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1771909161.A.709.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、朋友／社交，作者也明確表達了難過的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-24T04:59:19+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782051245.A.8F7.html",
+      "title": "一段同時牽涉職場相處／工作條件與消費／服務體驗的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-21T14:14:00+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782083629.A.8AC.html",
+      "title": "一段同時牽涉騷擾／人身安全與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及騷擾／人身安全、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-21T23:13:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1771742000.A.67D.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與騷擾／人身安全的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、騷擾／人身安全。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "安全／騷擾",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-22T06:33:18+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1770957819.A.26D.html",
+      "title": "一段同時牽涉職場相處／工作條件與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、居住／房產、家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-13T04:43:37+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1672844885.A.3C2.html",
+      "title": "一段同時牽涉求職／面試與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、婚禮／結婚經歷、健康／生活條件，作者也明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-01-04T15:08:01+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1769154884.A.BF0.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、朋友／社交、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-23T07:54:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1668149403.A.E76.html",
+      "title": "一段同時牽涉求職／面試與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、居住／房產、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-11-11T06:50:00+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1781202868.A.30A.html",
+      "title": "一段同時牽涉健康／生活條件與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及健康／生活條件、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-11T18:34:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1767941161.A.6A4.html",
+      "title": "一段同時牽涉居住／房產與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-09T06:45:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1768055234.A.5A3.html",
+      "title": "一段同時牽涉關係中的金錢分擔與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及關係中的金錢分擔、居住／房產。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-10T14:27:12+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1789011151.A.3C6.html",
+      "title": "一段同時牽涉家庭／育兒與失落／告別經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及家庭／育兒、失落／告別經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-10T03:32:29+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1784396666.A.EE9.html",
+      "title": "一段同時牽涉家庭／育兒與睡眠／身心狀態的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及家庭／育兒、睡眠／身心狀態、健康／生活條件，作者也明確表達了焦慮的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-18T17:44:24+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1766593108.A.1E9.html",
+      "title": "一段同時牽涉職場相處／工作條件與財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、財務／退休規劃、關係中的金錢分擔。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-12-24T16:18:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1766669006.A.EB5.html",
+      "title": "一段同時牽涉求職／面試與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、居住／房產、伴侶／婚姻互動。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-12-25T13:23:24+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1783065551.A.F4F.html",
+      "title": "一段同時牽涉居住／房產與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、家庭／育兒、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-03T07:59:09+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1779780931.A.3EB.html",
+      "title": "一段同時牽涉財務／退休規劃與睡眠／身心狀態的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、睡眠／身心狀態。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-26T07:35:29+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1779933820.A.35B.html",
+      "title": "一段同時牽涉睡眠／身心狀態與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及睡眠／身心狀態、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-28T02:03:38+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1779443240.A.07A.html",
+      "title": "一段同時牽涉換工作／職涯轉換與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-22T09:47:18+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1653737375.A.43C.html",
+      "title": "一段同時牽涉換工作／職涯轉換與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、伴侶／婚姻互動、朋友／社交，作者也明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-05-28T11:29:31+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1764377676.A.C09.html",
+      "title": "一段同時牽涉關係中的金錢分擔與健康／生活條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及關係中的金錢分擔、健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-29T00:54:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1764147359.A.68B.html",
+      "title": "一段同時牽涉換工作／職涯轉換與財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、財務／退休規劃、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-26T08:55:57+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778403051.A.E6E.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與失落／告別經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、失落／告別經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-10T08:50:48+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763643846.A.4F3.html",
+      "title": "一段同時牽涉婚禮／結婚經歷與寵物／陪伴的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及婚禮／結婚經歷、寵物／陪伴。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-20T13:04:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1648552075.A.C9E.html",
+      "title": "一段同時牽涉財務／退休規劃與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-03-29T11:07:53+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778131181.A.A03.html",
+      "title": "一段同時牽涉關係中的金錢分擔與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及關係中的金錢分擔、朋友／社交、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-07T05:19:39+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1770122682.A.DDB.html",
+      "title": "一段同時牽涉睡眠／身心狀態與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及睡眠／身心狀態、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-03T12:44:38+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644302780.A.1A5.html",
+      "title": "一段同時牽涉職場相處／工作條件與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、居住／房產、伴侶／婚姻互動，作者也明確表達了壓力的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-08T06:46:18+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762337987.A.A85.html",
+      "title": "一段同時牽涉居住／房產與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、婚禮／結婚經歷、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-05T10:19:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1640940376.A.8D8.html",
+      "title": "一段同時牽涉健康／生活條件與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及健康／生活條件、學習／教育、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-12-31T08:46:14+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777006822.A.5B8.html",
+      "title": "一段同時牽涉健康／生活條件與學習／教育的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及健康／生活條件、學習／教育，作者也明確表達了開心的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-24T05:00:20+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777013674.A.42C.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、朋友／社交、騷擾／人身安全。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-24T06:54:30+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1639818904.A.B12.html",
+      "title": "一段同時牽涉旅行／移動經歷與寵物／陪伴的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及旅行／移動經歷、寵物／陪伴，作者也明確表達了焦慮的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-12-18T09:15:01+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1638597456.A.BB3.html",
+      "title": "一段同時牽涉換工作／職涯轉換與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、家庭／育兒、學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-12-04T05:57:33+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1776737224.A.78F.html",
+      "title": "一段同時牽涉職場相處／工作條件與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、居住／房產、朋友／社交，作者也明確表達了開心的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-21T02:07:02+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1635229915.A.5F3.html",
+      "title": "一段同時牽涉求職／面試與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、家庭／育兒、朋友／社交，作者也明確表達了焦慮的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-10-26T06:31:53+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760184375.A.DEE.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、朋友／社交、寵物／陪伴。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-11T12:06:10+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760108616.A.872.html",
+      "title": "一段同時牽涉居住／房產與婚禮／結婚經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、婚禮／結婚經歷、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-10T15:03:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1759753143.A.7B2.html",
+      "title": "一段同時牽涉伴侶／婚姻互動與寵物／陪伴的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及伴侶／婚姻互動、寵物／陪伴。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-06T12:18:58+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1630776252.A.F7A.html",
+      "title": "一段同時牽涉居住／房產與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、伴侶／婚姻互動、學習／教育，作者也明確表達了挫折的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-04T17:24:10+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1758914688.A.2D3.html",
+      "title": "一段同時牽涉居住／房產與旅行／移動經歷的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-26T19:24:44+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1714996908.A.C06.html",
+      "title": "一段同時牽涉換工作／職涯轉換與求職／面試的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、求職／面試、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-06T12:01:46+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1759632197.A.B14.html",
+      "title": "一段經歷被說出來時，最清楚留下的是害怕",
+      "human_voice": "這是一段經驗／故事分享，作者明確表達了害怕的感受。",
+      "classification_axes": [
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-05T02:43:15+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1775390770.A.E44.html",
+      "title": "一段同時牽涉職場相處／工作條件與健康／生活條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-05T12:06:08+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1714207633.A.45F.html",
+      "title": "一段同時牽涉換工作／職涯轉換與健康／生活條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-04-27T08:47:11+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1759037791.A.0A4.html",
+      "title": "一段同時牽涉換工作／職涯轉換與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、家庭／育兒、朋友／社交，作者也明確表達了挫折的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-28T05:36:29+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1758682882.A.FC0.html",
+      "title": "一段同時牽涉求職／面試與財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及求職／面試、財務／退休規劃、健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-24T03:01:20+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1713586289.A.4E3.html",
+      "title": "一段同時牽涉換工作／職涯轉換與居住／房產的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、居住／房產、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-04-20T04:11:27+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1713233624.A.207.html",
+      "title": "一段同時牽涉職場相處／工作條件與財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及職場相處／工作條件、財務／退休規劃、婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": null
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1757596955.A.574.html",
+      "title": "一段同時牽涉換工作／職涯轉換與職場相處／工作條件的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、職場相處／工作條件、健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／無障礙",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-11T13:22:33+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1757407042.A.404.html",
+      "title": "一段同時牽涉婚禮／結婚經歷與朋友／社交的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及婚禮／結婚經歷、朋友／社交、旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-09T08:37:20+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1757142504.A.6CD.html",
+      "title": "一段同時牽涉換工作／職涯轉換與財務／退休規劃的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、財務／退休規劃、伴侶／婚姻互動，作者也明確表達了挫折的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-06T07:08:22+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1711090842.A.C1C.html",
+      "title": "一段同時牽涉換工作／職涯轉換與求職／面試的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及換工作／職涯轉換、求職／面試、健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-03-22T07:00:40+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1773823153.A.3E2.html",
+      "title": "一段同時牽涉財務／退休規劃與消費／服務體驗的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及財務／退休規劃、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-18T08:39:08+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1773008902.A.21C.html",
+      "title": "一段同時牽涉居住／房產與家庭／育兒的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、家庭／育兒、失落／告別經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-08T22:28:20+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1755063167.A.B91.html",
+      "title": "一段同時牽涉居住／房產與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、伴侶／婚姻互動、旅行／移動經歷，作者也明確表達了開心的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-08-13T05:32:45+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1755063774.A.B16.html",
+      "title": "一段同時牽涉居住／房產與伴侶／婚姻互動的生活經歷",
+      "human_voice": "這是一段經驗／故事分享，內容明確涉及居住／房產、伴侶／婚姻互動、朋友／社交，作者也明確表達了焦慮的感受。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-08-13T05:42:52+00:00"
+    }
+  ]
 }
