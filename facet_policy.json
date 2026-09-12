@@ -3,11 +3,15 @@
   "facets": {
     "region": {
       "visible": false,
-      "values": []
+      "values": [
+        "亞洲"
+      ]
     },
     "country": {
       "visible": false,
-      "values": []
+      "values": [
+        "台灣"
+      ]
     },
     "age": {
       "visible": false,
@@ -17,5 +21,9 @@
       "visible": true
     }
   },
-  "market_regions": {}
+  "market_regions": {
+    "亞洲": [
+      "台灣"
+    ]
+  }
 }
