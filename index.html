@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="zh-Hant"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
@@ -45,4 +45,23 @@ function renderAll(){renderPulse();renderResonance();renderStory();renderExplore
 async function loadData(){try{const r=await fetch('./public_data.json',{cache:'no-store'});if(!r.ok)throw new Error();const payload=await r.json();RAW=(payload.items||[]).map(item)}catch{RAW=[]}updateCountries();renderAll()}
 document.querySelectorAll('.jump button').forEach(b=>b.onclick=()=>{document.querySelectorAll('.jump button').forEach(x=>x.classList.remove('active'));b.classList.add('active');scope=b.dataset.scope;visibleCount=PAGE_SIZE;resonanceOffset=0;renderAll();document.getElementById('now').scrollIntoView({behavior:'smooth',block:'start'})});
 document.getElementById('shuffle').onclick=()=>{resonanceOffset+=4;renderResonance()};document.getElementById('heroSearch').onclick=()=>{q.value=document.getElementById('heroQ').value;visibleCount=PAGE_SIZE;renderExplore();document.getElementById('explore').scrollIntoView({behavior:'smooth'})};document.getElementById('heroQ').onkeydown=e=>{if(e.key==='Enter')document.getElementById('heroSearch').click()};q.oninput=()=>{visibleCount=PAGE_SIZE;renderExplore()};region.onchange=()=>{updateCountries();visibleCount=PAGE_SIZE;renderExplore()};country.onchange=age.onchange=period.onchange=()=>{visibleCount=PAGE_SIZE;renderExplore()};loadMore.onclick=()=>{visibleCount+=PAGE_SIZE;renderExplore()};document.querySelector('.explore-panel .clear').onclick=()=>{q.value='';region.value='全世界';updateCountries();country.value='全部';age.value='全部';period.value='近期';visibleCount=PAGE_SIZE;renderExplore()};loadData();
-</script><script src="./facet_policy.js"></script></body></html>
+</script><script src="./facet_policy.js"></script><script data-human-signal-presentation="v2">(()=>{
+const HERO='https://images.unsplash.com/photo-1606197469884-00fba216f529?auto=format&fit=crop&fm=jpg&q=82&w=1800';
+const STUDY='https://images.unsplash.com/photo-1759984782211-3a02ca78e6ac?auto=format&fit=crop&fm=jpg&q=78&w=1200';
+const WEDDING='https://images.unsplash.com/photo-1677768062220-32f1658715c4?auto=format&fit=crop&fm=jpg&q=78&w=1200';
+const SLEEP='https://images.unsplash.com/photo-1758273239288-9b60777397c5?auto=format&fit=crop&fm=jpg&q=78&w=1200';
+const css=`
+.hero{background-image:linear-gradient(90deg,rgba(19,24,24,.72),rgba(19,24,24,.28)),url('${HERO}')!important;background-size:cover!important;background-position:center 48%!important;}
+.hero:before{display:none!important}.hero-copy{max-width:720px}.hero p{max-width:650px}.hero-search{backdrop-filter:blur(8px)}
+.signal-visual{height:122px!important;background-size:cover!important;background-position:center!important}.signal-visual:after{display:none!important}
+.signal-card{padding:14px!important;overflow:hidden}.signal-card h3{font-size:17px!important}.count{margin-top:2px}.tags{display:none!important}.card .pill{display:none!important}
+#resonance .eyebrow{display:none!important}.res-card{background:rgba(255,255,255,.94)!important}
+@media(max-width:620px){.hero{min-height:480px!important;background-position:center!important}.hero h1{font-size:42px!important;line-height:1.08!important}.signal-grid{display:flex!important;overflow-x:auto!important;scroll-snap-type:x mandatory;padding-bottom:8px}.signal-card{min-width:78vw!important;scroll-snap-align:start}.signal-visual{height:150px!important}.resonance-grid{display:grid!important;grid-template-columns:1fr!important}.card{padding:18px!important}}
+`;
+const style=document.createElement('style');style.dataset.humanSignalPresentation='v2';style.textContent=css;document.head.appendChild(style);
+const res=document.getElementById('resonance');if(res){const h=res.querySelector('h2');if(h)h.textContent='有些生活，你可能也熟悉';const p=res.querySelector('.lead');if(p)p.textContent='不一定相同，但有些時刻會讓人想起自己的日子。';}
+function photoFor(text=''){const s=String(text);if(/婚禮|結婚|婚姻/.test(s))return WEDDING;if(/睡|失眠|休息/.test(s))return SLEEP;if(/學習|教育|考試|學生/.test(s))return STUDY;return HERO;}
+function apply(root=document){root.querySelectorAll?.('.signal-card').forEach(card=>{const visual=card.querySelector('.signal-visual');if(!visual)return;const title=card.querySelector('h3')?.textContent||'';visual.style.backgroundImage=`linear-gradient(0deg,rgba(28,24,20,.12),rgba(28,24,20,.02)),url('${photoFor(title)}')`;});root.querySelectorAll?.('.tags').forEach(x=>x.remove());root.querySelectorAll?.('.card .pill').forEach(x=>x.remove());}
+const mo=new MutationObserver(ms=>{for(const m of ms)for(const n of m.addedNodes)if(n.nodeType===1)apply(n)});mo.observe(document.documentElement,{childList:true,subtree:true});apply();
+})();
+</script></body></html>
