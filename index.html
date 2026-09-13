@@ -59,22 +59,23 @@ const css=`
 .hero:before{display:none!important}.hero-copy{max-width:720px}.hero p{max-width:650px}.hero-search{backdrop-filter:blur(8px)}
 .signal-visual{height:122px!important;background-size:cover!important;background-position:center!important}.signal-visual:after{display:none!important}
 .signal-card{padding:14px!important;overflow:hidden}.signal-card h3{font-size:17px!important}.count{margin-top:2px}.tags,.story-meta,.mini-meta{display:none!important}.card .pill{display:none!important}
-.eyebrow{display:none!important}.res-card{background:rgba(255,255,255,.94)!important}
+.eyebrow{display:none!important}.res-card{background:rgba(255,255,255,.94)!important}.jump button[data-scope="30days"]{display:none!important}
 @media(max-width:620px){.hero{min-height:480px!important;background-position:center!important}.hero h1{font-size:42px!important;line-height:1.08!important}.signal-grid{display:flex!important;overflow-x:auto!important;scroll-snap-type:x mandatory;padding-bottom:8px}.signal-card{min-width:78vw!important;scroll-snap-align:start}.signal-visual{height:150px!important}.resonance-grid{display:grid!important;grid-template-columns:1fr!important}.card{padding:18px!important}}
 `;
 const style=document.createElement('style');style.dataset.humanSignalPresentation='v2';style.textContent=css;document.head.appendChild(style);
+const recentButton=document.querySelector('.jump button[data-scope="today"]');if(recentButton)recentButton.textContent='最近';
 function rewriteSection(id,title,lead){const el=document.getElementById(id);if(!el)return;const h=el.querySelector('h2');if(h&&title)h.textContent=title;const p=el.querySelector('.lead');if(p&&lead)p.textContent=lead;}
 rewriteSection('now','最近很多人在說…','有些日子，正在不同人的生活裡一再出現。');
 rewriteSection('resonance','有些生活，你可能也熟悉','不一定相同，但有些時刻會讓人想起自己的日子。');
 rewriteSection('person','今天，走進一個人的生活','先聽見大家都在說什麼，再走近一點，讀一段真實生活。想知道完整故事，再回到原始分享。');
 rewriteSection('explore','再逛逛，看見更多人的日子','有想看的就搜；沒有也沒關係，往下逛，看看今天會遇見誰的故事。');
 function humanTitle(value=''){
-  const raw=String(value).trim();
-  const m=raw.match(/^(.+?)這件事，為什麼最後讓我覺得(.+?)[？?]?$/);
-  if(!m)return raw;
-  const topic=m[1].replace(/／/g,'、').trim();
-  const feeling=m[2].trim();
-  return `${topic}——最後，我感到${feeling}`;
+  const raw=String(value).trim().replace(/覺得覺得/g,'覺得');
+  let m=raw.match(/^(.+?)這件事，為什麼最後讓我覺得(.+?)[？?]?$/);
+  if(m){const topic=m[1].replace(/／/g,'、').trim();const feeling=m[2].trim();return `${topic}——最後，我感到${feeling}`;}
+  m=raw.match(/^這件事為什麼讓我一直覺得(.+?)[？?]?$/);
+  if(m){const feeling=m[1].trim();return `有件事，一直讓我感到${feeling}`;}
+  return raw.replace(/／/g,'、');
 }
 function photoFor(text='',index=0){
   const s=String(text);
