@@ -1,6 +1,6 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-13T14:45:15.371816+00:00",
+  "generated_at": "2026-09-13T18:23:40.215208+00:00",
   "items": [
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788783720.A.299.html",
@@ -6841,6 +6841,59 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2026-03-03T04:15:22+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1753943795.A.6B1.html",
+      "title": "居住／房產碰上伴侶／婚姻互動時，我真的覺得焦慮",
+      "human_voice": "這段分享談到居住／房產、伴侶／婚姻互動、騷擾／人身安全，也直接提到自己感到焦慮。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-07-31T06:36:33+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1702992910.A.015.html",
+      "title": "求職／面試和失落／告別經歷，我剛好都遇上了",
+      "human_voice": "這段分享同時談到求職／面試、失落／告別經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-12-19T13:35:08+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1772370318.A.6A4.html",
+      "title": "有件事一直放在心上，也讓我感到難過",
+      "human_voice": "正在說一件放在心上的事，也直接提到自己感到難過。",
+      "classification_axes": [
+        "emotion"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-01T13:05:13+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1753720004.A.826.html",
+      "title": "求職／面試和認識新對象／聯絡變化，我剛好都遇上了",
+      "human_voice": "這段分享同時談到求職／面試、認識新對象／聯絡變化。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-07-28T16:26:42+00:00"
     }
   ]
 }
