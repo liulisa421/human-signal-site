@@ -68,6 +68,14 @@ rewriteSection('now','最近很多人在說…','有些日子，正在不同人�
 rewriteSection('resonance','有些生活，你可能也熟悉','不一定相同，但有些時刻會讓人想起自己的日子。');
 rewriteSection('person','今天，走進一個人的生活','先聽見大家都在說什麼，再走近一點，讀一段真實生活。想知道完整故事，再回到原始分享。');
 rewriteSection('explore','再逛逛，看見更多人的日子','有想看的就搜；沒有也沒關係，往下逛，看看今天會遇見誰的故事。');
+function humanTitle(value=''){
+  const raw=String(value).trim();
+  const m=raw.match(/^(.+?)這件事，為什麼最後讓我覺得(.+?)[？?]?$/);
+  if(!m)return raw;
+  const topic=m[1].replace(/／/g,'、').trim();
+  const feeling=m[2].trim();
+  return `${topic}——最後，我感到${feeling}`;
+}
 function photoFor(text='',index=0){
   const s=String(text);
   if(/婚禮|結婚|婚姻|伴侶|感情|戀愛/.test(s))return WEDDING;
@@ -79,7 +87,13 @@ function photoFor(text='',index=0){
   const pool=[HERO,WORK,HOME,PAUSE,STUDY,SLEEP];
   return pool[index%pool.length];
 }
-function apply(root=document){root.querySelectorAll?.('.signal-card').forEach((card,index)=>{const visual=card.querySelector('.signal-visual');if(!visual)return;const title=card.querySelector('h3')?.textContent||'';visual.style.backgroundImage=`linear-gradient(0deg,rgba(28,24,20,.12),rgba(28,24,20,.02)),url('${photoFor(title,index)}')`;});root.querySelectorAll?.('.tags').forEach(x=>x.remove());root.querySelectorAll?.('.card .pill').forEach(x=>x.remove());}
+function matching(root,selector){const out=[];if(root?.matches?.(selector))out.push(root);root?.querySelectorAll?.(selector).forEach(x=>out.push(x));return out;}
+function apply(root=document){
+  matching(root,'.signal-card').forEach((card,index)=>{const visual=card.querySelector('.signal-visual');if(!visual)return;const title=card.querySelector('h3')?.textContent||'';visual.style.backgroundImage=`linear-gradient(0deg,rgba(28,24,20,.12),rgba(28,24,20,.02)),url('${photoFor(title,index)}')`;});
+  matching(root,'.signal-card h3,.res-card blockquote,#story h3,.card h3').forEach(el=>{const next=humanTitle(el.textContent||'');if(next&&next!==el.textContent)el.textContent=next;});
+  matching(root,'.tags').forEach(x=>x.remove());
+  matching(root,'.card .pill').forEach(x=>x.remove());
+}
 const mo=new MutationObserver(ms=>{for(const m of ms)for(const n of m.addedNodes)if(n.nodeType===1)apply(n)});mo.observe(document.documentElement,{childList:true,subtree:true});apply();
 })();
 </script></body></html>
