@@ -1,11 +1,11 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-12T08:52:40.035827+00:00",
+  "generated_at": "2026-09-13T00:20:38.752441+00:00",
   "items": [
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788783720.A.299.html",
-      "title": "聊到消費／服務體驗這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和消費／服務體驗有關，也提到自己感到開心。",
+      "title": "消費／服務體驗這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和消費／服務體驗有關的親身經歷，也提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -18,8 +18,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788820458.A.B4C.html",
-      "title": "聊到消費／服務體驗這件事，心裡最明顯的是不舒服",
-      "human_voice": "有人分享了自己遇到的事。內容和消費／服務體驗有關，也提到自己感到不舒服。",
+      "title": "消費／服務體驗這件事，為什麼最後讓我覺得不舒服？",
+      "human_voice": "分享的是一段和消費／服務體驗有關的親身經歷，也提到自己感到不舒服。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -33,8 +33,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788874640.A.015.html",
-      "title": "聊到婚禮／結婚經歷這件事，心裡最明顯的是受傷",
-      "human_voice": "有人分享了自己遇到的事。內容和婚禮／結婚經歷、朋友／社交、學習／教育有關，也提到自己感到受傷。",
+      "title": "婚禮／結婚經歷這件事，為什麼最後讓我覺得受傷？",
+      "human_voice": "分享的是一段和婚禮／結婚經歷有關的親身經歷。過程也牽涉到婚禮／結婚經歷、朋友／社交、學習／教育，並提到自己感到受傷。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -48,8 +48,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788836438.A.C2B.html",
-      "title": "有件事不算大，卻一直卡在心裡",
-      "human_voice": "有人正被生活裡的一件事困住，想找一個比較好處理的方法。",
+      "title": "有件事不算大，卻一直卡在我心裡",
+      "human_voice": "正被生活裡的一件事困住，想找一個比較好處理的方法。",
       "classification_axes": [
         "pain",
         "topic"
@@ -62,8 +62,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788932925.A.622.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是受傷",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件、婚禮／結婚經歷、學習／教育有關，也提到自己感到受傷。",
+      "title": "職場相處／工作條件這件事，為什麼最後讓我覺得受傷？",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷。過程也牽涉到職場相處／工作條件、婚禮／結婚經歷、學習／教育，並提到自己感到受傷。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -76,24 +76,9 @@
       "created_at_source": "2026-09-09T05:48:43+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788933976.A.94E.html",
-      "title": "聊到婚禮／結婚經歷這件事，心裡最明顯的是受傷",
-      "human_voice": "有人分享了自己遇到的事。內容和婚禮／結婚經歷、家庭／育兒有關，也提到自己感到受傷。",
-      "classification_axes": [
-        "pain",
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "朋友／人際",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2026-09-09T06:06:14+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1724387130.A.996.html",
-      "title": "有件事一直放在心上，也讓人感到擔心",
-      "human_voice": "有人正在說一件放在心上的事，也直接提到自己感到擔心。",
+      "title": "有件事一直放在心上，也讓我感到擔心",
+      "human_voice": "正在說一件放在心上的事，也直接提到自己感到擔心。",
       "classification_axes": [
         "pain",
         "emotion"
@@ -106,8 +91,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1788959340.A.B4D.html",
-      "title": "聊到學習／教育這件事，心裡最明顯的是受傷",
-      "human_voice": "有人分享了自己遇到的事。內容和學習／教育、消費／服務體驗、旅行／移動經歷有關，也提到自己感到受傷。",
+      "title": "學習／教育這件事，為什麼最後讓我覺得受傷？",
+      "human_voice": "分享的是一段和學習／教育有關的親身經歷。過程也牽涉到學習／教育、消費／服務體驗、旅行／移動經歷，並提到自己感到受傷。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -121,8 +106,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788461698.A.C20.html",
-      "title": "這件事說出來後，心裡最明顯的還是覺得有趣",
-      "human_voice": "有人分享了一段自己的經歷，也說出其中最明顯的感受。",
+      "title": "這件事為什麼讓我一直覺得覺得有趣？",
+      "human_voice": "分享的是一段自己的經歷，也說出其中最明顯的感受。",
       "classification_axes": [
         "emotion"
       ],
@@ -133,9 +118,23 @@
       "created_at_source": "2026-09-03T18:54:56+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788503504.A.4DA.html",
+      "title": "這件事為什麼讓我一直覺得焦慮？",
+      "human_voice": "分享的是一段自己的經歷，也說出其中最明顯的感受。",
+      "classification_axes": [
+        "pain",
+        "emotion"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-04T06:31:40+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1787924552.A.D0D.html",
-      "title": "換工作／職涯轉換和職場相處／工作條件碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、職場相處／工作條件、伴侶／婚姻互動。",
+      "title": "換工作／職涯轉換和職場相處／工作條件碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、職場相處／工作條件、伴侶／婚姻互動。",
       "classification_axes": [
         "topic"
       ],
@@ -147,8 +146,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1789017818.A.54C.html",
-      "title": "有人想說說最近放在心上的一件事",
-      "human_voice": "有人正在分享生活裡真實發生的一件事。",
+      "title": "我想說說最近一直放在心上的一件事",
+      "human_voice": "分享的是生活裡真實發生的一件事。",
       "classification_axes": [
         "topic"
       ],
@@ -160,8 +159,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1765511128.A.B18.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為換工作／職涯轉換、求職／面試這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和職場相處／工作條件。",
       "classification_axes": [
         "pain",
         "topic"
@@ -173,9 +172,37 @@
       "created_at_source": "2025-12-12T03:45:26+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1766391675.A.F61.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換和求職／面試。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-12-22T08:21:13+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1781148438.A.2CC.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境是換工作／職涯轉換。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-11T03:27:16+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1781233805.A.996.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為換工作／職涯轉換、職場相處／工作條件這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和家庭／育兒。",
       "classification_axes": [
         "pain",
         "topic"
@@ -187,9 +214,23 @@
       "created_at_source": "2026-06-12T03:10:03+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1781252798.A.3E4.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境是職場相處／工作條件。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-12T08:26:34+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1781612769.A.797.html",
-      "title": "想找到做得久、也適合自己的工作，有哪些可能？",
-      "human_voice": "有人正為換工作／職涯轉換、求職／面試這些事找方向。有人正在尋找更符合自身條件、能長期維持的工作方向。",
+      "title": "我想找到做得久、也適合自己的工作，有哪些可能？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和職場相處／工作條件。",
       "classification_axes": [
         "pain",
         "topic"
@@ -202,8 +243,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1785593333.A.7D5.html",
-      "title": "明明想好好說，為什麼伴侶溝通還是卡住？",
-      "human_voice": "有人正為伴侶／婚姻互動、消費／服務體驗這些事找方向。有人正在面對伴侶溝通上的卡關，希望更理解問題並改善互動。",
+      "title": "明明想好好溝通，為什麼我們一開口又卡住？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉伴侶／婚姻互動和消費／服務體驗。",
       "classification_axes": [
         "pain",
         "topic"
@@ -216,8 +257,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787621504.A.96D.html",
-      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
-      "human_voice": "有人正為朋友／社交、睡眠／身心狀態這些事找方向。有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉朋友／社交和睡眠／身心狀態。",
       "classification_axes": [
         "pain",
         "topic"
@@ -230,8 +271,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1761812523.A.D6A.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為學習／教育這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境是學習／教育。",
       "classification_axes": [
         "pain",
         "topic"
@@ -244,8 +285,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1764636804.A.52C.html",
-      "title": "面對財務與退休選擇，怎麼做比較安心？",
-      "human_voice": "有人正為換工作／職涯轉換、財務／退休規劃這些事找方向。有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換和財務／退休規劃。",
       "classification_axes": [
         "pain",
         "topic"
@@ -258,8 +299,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1779753814.A.FE2.html",
-      "title": "想找到做得久、也適合自己的工作，有哪些可能？",
-      "human_voice": "有人正為家庭／育兒、健康／生活條件這些事找方向。有人正在尋找更符合自身條件、能長期維持的工作方向。",
+      "title": "我想找到做得久、也適合自己的工作，有哪些可能？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉家庭／育兒和健康／生活條件。",
       "classification_axes": [
         "pain",
         "topic"
@@ -271,9 +312,23 @@
       "created_at_source": "2026-05-26T00:03:32+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1784208191.A.870.html",
+      "title": "明明想好好溝通，為什麼我們一開口又卡住？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉伴侶／婚姻互動和家庭／育兒。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "伴侶溝通",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-16T13:23:09+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1784325886.A.A7E.html",
-      "title": "談到家庭財產，怎麼做才算公平？",
-      "human_voice": "有人正為居住／房產、伴侶／婚姻互動這些事找方向。有人正在釐清家庭財產、所有權與公平之間的問題。",
+      "title": "談到家庭財產，我怎麼做才算公平？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉居住／房產、伴侶／婚姻互動和婚禮／結婚經歷。",
       "classification_axes": [
         "pain",
         "topic"
@@ -286,8 +341,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786107289.A.8F6.html",
-      "title": "遇到讓人不舒服的騷擾，接下來可以怎麼做？",
-      "human_voice": "有人正為騷擾／人身安全這些事找方向。有人正在面對騷擾與安全上的困擾，希望釐清可以如何回應。",
+      "title": "遇到讓我不舒服的騷擾，接下來可以怎麼做？",
+      "human_voice": "這次真正想處理的具體情境是騷擾／人身安全。",
       "classification_axes": [
         "pain",
         "topic"
@@ -300,8 +355,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786281666.A.073.html",
-      "title": "伴侶／婚姻互動和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、朋友／社交、消費／服務體驗。",
+      "title": "伴侶／婚姻互動和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、朋友／社交、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -313,8 +368,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786333811.A.FE3.html",
-      "title": "關於學習／教育，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和學習／教育有關的親身經歷。",
+      "title": "關於學習／教育，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和學習／教育有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -326,8 +381,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786420989.A.DBB.html",
-      "title": "關於朋友／社交，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和朋友／社交有關的親身經歷。",
+      "title": "關於朋友／社交，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -339,8 +394,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1786521823.A.B52.html",
-      "title": "職場相處／工作條件和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、朋友／社交。",
+      "title": "職場相處／工作條件和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -352,8 +407,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1758365415.A.AAC.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為換工作／職涯轉換、求職／面試這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。 這件事也讓他感到壓力。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和家庭／育兒。 也明確提到自己感到壓力。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -367,8 +422,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1758686910.A.D66.html",
-      "title": "財務／退休規劃和居住／房產碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、居住／房產、朋友／社交。",
+      "title": "財務／退休規劃和居住／房產碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、居住／房產、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -380,8 +435,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1758690118.A.39C.html",
-      "title": "居住／房產和消費／服務體驗碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、消費／服務體驗、旅行／移動經歷。",
+      "title": "居住／房產和消費／服務體驗碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、消費／服務體驗、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -393,8 +448,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1758990123.A.043.html",
-      "title": "換工作／職涯轉換和職場相處／工作條件碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、職場相處／工作條件、財務／退休規劃。",
+      "title": "換工作／職涯轉換和職場相處／工作條件碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、職場相處／工作條件、財務／退休規劃。",
       "classification_axes": [
         "topic"
       ],
@@ -406,8 +461,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1759486628.A.124.html",
-      "title": "居住／房產和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、朋友／社交。",
+      "title": "居住／房產和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -419,8 +474,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1759542725.A.265.html",
-      "title": "家庭／育兒和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到家庭／育兒、學習／教育。",
+      "title": "家庭／育兒和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到家庭／育兒、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -432,8 +487,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1759681173.A.802.html",
-      "title": "財務／退休規劃和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、家庭／育兒、寵物／陪伴。",
+      "title": "財務／退休規劃和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、家庭／育兒、寵物／陪伴。",
       "classification_axes": [
         "topic"
       ],
@@ -445,8 +500,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1759734580.A.234.html",
-      "title": "想找到做得久、也適合自己的工作，有哪些可能？",
-      "human_voice": "有人正為財務／退休規劃、婚禮／結婚經歷這些事找方向。有人正在尋找更符合自身條件、能長期維持的工作方向。",
+      "title": "我想找到做得久、也適合自己的工作，有哪些可能？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃、婚禮／結婚經歷和家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -457,9 +512,35 @@
       "created_at_source": "2025-10-06T07:09:38+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1778640775.A.1E5.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境是求職／面試。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-13T02:52:53+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1778761331.A.59E.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和職場相處／工作條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-14T12:22:09+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1782668919.A.AEB.html",
-      "title": "婚禮／結婚經歷和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到婚禮／結婚經歷、家庭／育兒、朋友／社交。",
+      "title": "婚禮／結婚經歷和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到婚禮／結婚經歷、家庭／育兒、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -471,8 +552,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787234438.A.115.html",
-      "title": "關於關係中的金錢分擔，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和關係中的金錢分擔有關的親身經歷。",
+      "title": "關於關係中的金錢分擔，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和關係中的金錢分擔有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -484,8 +565,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787289954.A.433.html",
-      "title": "關於消費／服務體驗，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和消費／服務體驗有關的親身經歷。",
+      "title": "關於消費／服務體驗，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和消費／服務體驗有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -497,8 +578,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787291301.A.078.html",
-      "title": "消費／服務體驗和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到消費／服務體驗、旅行／移動經歷。",
+      "title": "消費／服務體驗和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到消費／服務體驗、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -510,8 +591,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787292947.A.F38.html",
-      "title": "關於家庭／育兒，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和家庭／育兒有關的親身經歷。",
+      "title": "關於家庭／育兒，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -523,8 +604,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787330142.A.E26.html",
-      "title": "健康／生活條件和寵物／陪伴碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到健康／生活條件、寵物／陪伴。",
+      "title": "健康／生活條件和寵物／陪伴碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到健康／生活條件、寵物／陪伴。",
       "classification_axes": [
         "topic"
       ],
@@ -536,8 +617,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787360222.A.52F.html",
-      "title": "關於居住／房產，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和居住／房產有關的親身經歷。",
+      "title": "關於居住／房產，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和居住／房產有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -549,8 +630,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785760525.A.41B.html",
-      "title": "聊到伴侶／婚姻互動這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和伴侶／婚姻互動、婚禮／結婚經歷、家庭／育兒有關，也提到自己感到開心。",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷。過程也牽涉到伴侶／婚姻互動、婚禮／結婚經歷、家庭／育兒，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -563,8 +644,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785829705.A.316.html",
-      "title": "伴侶／婚姻互動和婚禮／結婚經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、婚禮／結婚經歷、家庭／育兒。",
+      "title": "伴侶／婚姻互動和婚禮／結婚經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、婚禮／結婚經歷、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -576,8 +657,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785984810.A.A19.html",
-      "title": "朋友／社交和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到朋友／社交、旅行／移動經歷。",
+      "title": "朋友／社交和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到朋友／社交、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -588,9 +669,49 @@
       "created_at_source": "2026-08-06T02:53:26+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785993871.A.987.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和伴侶／婚姻互動。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-08-06T05:24:29+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1752407181.A.55D.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-07-13T11:46:19+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1753107140.A.E63.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境是財務／退休規劃。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-07-21T14:12:17+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1754654388.A.A93.html",
-      "title": "聊到財務／退休規劃這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和財務／退休規劃、伴侶／婚姻互動、家庭／育兒有關，也提到自己感到壓力。",
+      "title": "財務／退休規劃這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和財務／退休規劃有關的親身經歷。過程也牽涉到財務／退休規劃、伴侶／婚姻互動、家庭／育兒，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -603,8 +724,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1754995451.A.83B.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、求職／面試、職場相處／工作條件有關，也提到自己感到焦慮。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、求職／面試、職場相處／工作條件，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -617,8 +738,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1755574052.A.2C0.html",
-      "title": "面對財務與退休選擇，怎麼做比較安心？",
-      "human_voice": "有人正為財務／退休規劃、學習／教育這些事找方向。有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃和學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -629,9 +750,22 @@
       "created_at_source": "2025-08-19T03:27:24+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1778029794.A.C7C.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換和學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-06T01:09:52+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1778393225.A.6D6.html",
-      "title": "求職／面試和職場相處／工作條件碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、職場相處／工作條件。",
+      "title": "求職／面試和職場相處／工作條件碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、職場相處／工作條件。",
       "classification_axes": [
         "topic"
       ],
@@ -642,9 +776,22 @@
       "created_at_source": "2026-05-10T06:06:49+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1778405420.A.9C7.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換和朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-10T09:30:18+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1780643856.A.F1C.html",
-      "title": "伴侶／婚姻互動和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、學習／教育。",
+      "title": "伴侶／婚姻互動和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -656,8 +803,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1782041205.A.007.html",
-      "title": "伴侶／婚姻互動和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、家庭／育兒。",
+      "title": "伴侶／婚姻互動和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -669,8 +816,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787071988.A.1A6.html",
-      "title": "關於睡眠／身心狀態，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和睡眠／身心狀態有關的親身經歷。",
+      "title": "關於睡眠／身心狀態，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和睡眠／身心狀態有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -682,8 +829,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787072052.A.D62.html",
-      "title": "關於職場相處／工作條件，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和職場相處／工作條件有關的親身經歷。",
+      "title": "關於職場相處／工作條件，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -695,8 +842,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787126991.A.E22.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件有關，也提到自己感到焦慮。",
+      "title": "職場相處／工作條件這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷，也提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -709,8 +856,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1787131449.A.3B3.html",
-      "title": "關於伴侶／婚姻互動，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和伴侶／婚姻互動有關的親身經歷。",
+      "title": "關於伴侶／婚姻互動，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -722,8 +869,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785242141.A.45D.html",
-      "title": "婚禮／結婚經歷和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到婚禮／結婚經歷、朋友／社交。",
+      "title": "婚禮／結婚經歷和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到婚禮／結婚經歷、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -735,8 +882,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785244319.A.B17.html",
-      "title": "聊到關係中的金錢分擔這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和關係中的金錢分擔有關，也提到自己感到開心。",
+      "title": "關係中的金錢分擔這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和關係中的金錢分擔有關的親身經歷，也提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -749,8 +896,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785475844.A.1C2.html",
-      "title": "關於財務／退休規劃，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和財務／退休規劃有關的親身經歷。",
+      "title": "關於財務／退休規劃，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和財務／退休規劃有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -762,8 +909,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785562144.A.69C.html",
-      "title": "職場相處／工作條件和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、家庭／育兒。",
+      "title": "職場相處／工作條件和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -774,22 +921,9 @@
       "created_at_source": "2026-08-01T05:29:02+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1750365578.A.811.html",
-      "title": "面對財務與退休選擇，怎麼做比較安心？",
-      "human_voice": "有人正為財務／退休規劃、伴侶／婚姻互動這些事找方向。有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "財務／退休",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-06-19T20:39:36+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1750496837.A.5EA.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為換工作／職涯轉換、居住／房產這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。 這件事也讓他感到壓力。",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、居住／房產和家庭／育兒。 也明確提到自己感到壓力。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -803,8 +937,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1750514750.A.D82.html",
-      "title": "關於求職／面試，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和求職／面試有關的親身經歷。",
+      "title": "關於求職／面試，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和求職／面試有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -816,8 +950,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1750589852.A.206.html",
-      "title": "面對財務與退休選擇，怎麼做比較安心？",
-      "human_voice": "有人正為職場相處／工作條件、財務／退休規劃這些事找方向。有人正在規劃財務或退休方向，希望找到更適合自己的安排。 這件事也讓他感到焦慮。",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、財務／退休規劃和居住／房產。 也明確提到自己感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -830,9 +964,9 @@
       "created_at_source": "2025-06-22T10:57:30+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1750989250.A.0BF.html",
-      "title": "面對財務與退休選擇，怎麼做比較安心？",
-      "human_voice": "有人正為換工作／職涯轉換、職場相處／工作條件這些事找方向。有人正在規劃財務或退休方向，希望找到更適合自己的安排。",
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1751856952.A.A35.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃、家庭／育兒和朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -840,12 +974,27 @@
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2025-06-27T01:54:08+00:00"
+      "created_at_source": "2025-07-07T02:55:50+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1776091627.A.3C0.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、家庭／育兒和朋友／社交。 也明確提到自己感到壓力。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-13T14:47:04+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1779207393.A.1DA.html",
-      "title": "婚禮／結婚經歷和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到婚禮／結婚經歷、學習／教育。",
+      "title": "婚禮／結婚經歷和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到婚禮／結婚經歷、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -857,8 +1006,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1779209572.A.6E0.html",
-      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
-      "human_voice": "有人正為伴侶／婚姻互動、家庭／育兒這些事找方向。有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。 這件事也讓他感到焦慮。",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉伴侶／婚姻互動、家庭／育兒和朋友／社交。 也明確提到自己感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -872,8 +1021,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1779723553.A.8EA.html",
-      "title": "職場相處／工作條件和伴侶／婚姻互動碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、伴侶／婚姻互動、婚禮／結婚經歷。",
+      "title": "職場相處／工作條件和伴侶／婚姻互動碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、伴侶／婚姻互動、婚禮／結婚經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -885,8 +1034,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1780214083.A.154.html",
-      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
-      "human_voice": "有人正為職場相處／工作條件、伴侶／婚姻互動這些事找方向。有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、伴侶／婚姻互動和婚禮／結婚經歷。",
       "classification_axes": [
         "pain",
         "topic"
@@ -899,8 +1048,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786985386.A.3CD.html",
-      "title": "關係中的金錢分擔和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到關係中的金錢分擔、家庭／育兒。",
+      "title": "關係中的金錢分擔和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到關係中的金錢分擔、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -912,8 +1061,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1784874164.A.BF0.html",
-      "title": "聊到朋友／社交這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和朋友／社交有關，也提到自己感到壓力。",
+      "title": "朋友／社交這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷，也提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -926,8 +1075,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1785113412.A.988.html",
-      "title": "居住／房產和伴侶／婚姻互動碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、伴侶／婚姻互動、婚禮／結婚經歷。",
+      "title": "居住／房產和伴侶／婚姻互動碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、伴侶／婚姻互動、婚禮／結婚經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -939,8 +1088,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1745189413.A.A07.html",
-      "title": "想找到做得久、也適合自己的工作，有哪些可能？",
-      "human_voice": "有人正為職場相處／工作條件、健康／生活條件這些事找方向。有人正在尋找更符合自身條件、能長期維持的工作方向。 這件事也讓他感到焦慮。",
+      "title": "我想找到做得久、也適合自己的工作，有哪些可能？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件和健康／生活條件。 也明確提到自己感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -953,9 +1102,9 @@
       "created_at_source": "2025-04-20T22:50:11+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/Salary/M.1774400094.A.EC2.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為求職／面試、職場相處／工作條件這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1774103631.A.19F.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -963,12 +1112,12 @@
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2026-03-25T00:54:50+00:00"
+      "created_at_source": "2026-03-21T14:33:47+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1774787141.A.966.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為求職／面試、朋友／社交這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試和朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -980,8 +1129,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1777744552.A.592.html",
-      "title": "伴侶／婚姻互動和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、旅行／移動經歷。",
+      "title": "伴侶／婚姻互動和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -993,8 +1142,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1784731079.A.219.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為職場相處／工作條件、婚禮／結婚經歷這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。 這件事也讓他感到壓力。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、婚禮／結婚經歷和家庭／育兒。 也明確提到自己感到壓力。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -1008,8 +1157,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1741852519.A.FDF.html",
-      "title": "聊到學習／教育這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和學習／教育有關，也提到自己感到開心。",
+      "title": "學習／教育這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和學習／教育有關的親身經歷，也提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1022,8 +1171,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1743057934.A.3BD.html",
-      "title": "職場相處／工作條件和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、學習／教育。",
+      "title": "職場相處／工作條件和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -1035,8 +1184,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1773249169.A.97D.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為換工作／職涯轉換、職場相處／工作條件這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。 這件事也讓他感到壓力。",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換和職場相處／工作條件。 也明確提到自己感到壓力。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -1049,9 +1198,24 @@
       "created_at_source": "2026-03-11T17:12:47+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1773668830.A.31C.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和財務／退休規劃。 也明確提到自己感到壓力。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-16T13:47:08+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1777508655.A.27C.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒、學習／教育、消費／服務體驗有關，也提到自己感到挫折。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、學習／教育、消費／服務體驗，並提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1063,9 +1227,23 @@
       "created_at_source": "2026-04-30T00:24:13+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/marriage/M.1777573634.A.89A.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃、伴侶／婚姻互動和婚禮／結婚經歷。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-30T18:27:12+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1777639011.A.EE0.html",
-      "title": "關於婚禮／結婚經歷，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和婚禮／結婚經歷有關的親身經歷。",
+      "title": "關於婚禮／結婚經歷，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和婚禮／結婚經歷有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1077,8 +1255,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1784297907.A.460.html",
-      "title": "求職／面試和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、旅行／移動經歷。",
+      "title": "求職／面試和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1090,8 +1268,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1775989550.A.A73.html",
-      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
-      "human_voice": "有人正為伴侶／婚姻互動、睡眠／身心狀態這些事找方向。有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。 這件事也讓他感到挫折。",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉伴侶／婚姻互動、睡眠／身心狀態和學習／教育。 也明確提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1104,8 +1282,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1776661727.A.30A.html",
-      "title": "聊到婚禮／結婚經歷這件事，心裡最明顯的是難過",
-      "human_voice": "有人分享了自己遇到的事。內容和婚禮／結婚經歷、旅行／移動經歷有關，也提到自己感到難過。",
+      "title": "婚禮／結婚經歷這件事，為什麼最後讓我覺得難過？",
+      "human_voice": "分享的是一段和婚禮／結婚經歷有關的親身經歷。過程也牽涉到婚禮／結婚經歷、旅行／移動經歷，並提到自己感到難過。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1118,8 +1296,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1776675532.A.8BA.html",
-      "title": "談到家庭財產，怎麼做才算公平？",
-      "human_voice": "有人正為職場相處／工作條件、居住／房產這些事找方向。有人正在釐清家庭財產、所有權與公平之間的問題。",
+      "title": "談到家庭財產，我怎麼做才算公平？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、居住／房產和伴侶／婚姻互動。",
       "classification_axes": [
         "pain",
         "topic"
@@ -1132,8 +1310,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786578572.A.73A.html",
-      "title": "關於健康／生活條件，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和健康／生活條件有關的親身經歷。",
+      "title": "關於健康／生活條件，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和健康／生活條件有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1145,8 +1323,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1737606364.A.A30.html",
-      "title": "財務／退休規劃和居住／房產碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、居住／房產、消費／服務體驗。",
+      "title": "財務／退休規劃和居住／房產碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、居住／房產、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -1158,8 +1336,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1770100867.A.2B4.html",
-      "title": "換工作／職涯轉換和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、學習／教育。",
+      "title": "換工作／職涯轉換和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -1171,8 +1349,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1770278438.A.BDE.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是害怕",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換有關，也提到自己感到害怕。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得害怕？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷，也提到自己感到害怕。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1185,8 +1363,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786439850.A.8C9.html",
-      "title": "朋友／社交和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到朋友／社交、學習／教育。",
+      "title": "朋友／社交和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到朋友／社交、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -1198,8 +1376,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1783212535.A.85D.html",
-      "title": "財務／退休規劃和伴侶／婚姻互動碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、伴侶／婚姻互動、婚禮／結婚經歷。",
+      "title": "財務／退休規劃和伴侶／婚姻互動碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、伴侶／婚姻互動、婚禮／結婚經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1211,8 +1389,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1783266023.A.BDD.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件、家庭／育兒、消費／服務體驗有關，也提到自己感到開心。",
+      "title": "職場相處／工作條件這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷。過程也牽涉到職場相處／工作條件、家庭／育兒、消費／服務體驗，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1225,8 +1403,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1736170513.A.6D1.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件、學習／教育有關，也提到自己感到壓力。",
+      "title": "職場相處／工作條件這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷。過程也牽涉到職場相處／工作條件、學習／教育，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1239,8 +1417,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1736404058.A.979.html",
-      "title": "換工作／職涯轉換和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、朋友／社交。",
+      "title": "換工作／職涯轉換和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -1252,8 +1430,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1736562278.A.359.html",
-      "title": "換工作／職涯轉換和求職／面試碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、求職／面試、學習／教育。",
+      "title": "換工作／職涯轉換和求職／面試碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、求職／面試、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -1265,8 +1443,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1774409972.A.7B4.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為職場相處／工作條件、伴侶／婚姻互動這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、伴侶／婚姻互動和婚禮／結婚經歷。",
       "classification_axes": [
         "pain",
         "topic"
@@ -1279,8 +1457,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/marriage/M.1774455786.A.E16.html",
-      "title": "居住／房產和伴侶／婚姻互動碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、伴侶／婚姻互動、家庭／育兒。",
+      "title": "居住／房產和伴侶／婚姻互動碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、伴侶／婚姻互動、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -1292,8 +1470,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786344207.A.6AB.html",
-      "title": "關於旅行／移動經歷，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和旅行／移動經歷有關的親身經歷。",
+      "title": "關於旅行／移動經歷，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和旅行／移動經歷有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1305,8 +1483,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1782420635.A.DB4.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒、旅行／移動經歷有關，也提到自己感到焦慮。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、旅行／移動經歷，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1319,8 +1497,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1732100272.A.13A.html",
-      "title": "職場相處／工作條件和財務／退休規劃碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、財務／退休規劃、朋友／社交。",
+      "title": "職場相處／工作條件和財務／退休規劃碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、財務／退休規劃、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -1331,24 +1509,9 @@
       "created_at_source": "2024-11-20T10:57:49+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1733279060.A.C06.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為換工作／職涯轉換、學習／教育這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。 這件事也讓他感到焦慮。",
-      "classification_axes": [
-        "pain",
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "求職／職涯",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2024-12-04T02:24:18+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1767204976.A.1B2.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為求職／面試、消費／服務體驗這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試和消費／服務體驗。",
       "classification_axes": [
         "pain",
         "topic"
@@ -1361,8 +1524,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1767600956.A.829.html",
-      "title": "求職／面試和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、朋友／社交。",
+      "title": "求職／面試和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -1374,8 +1537,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1767747978.A.917.html",
-      "title": "關於換工作／職涯轉換，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和換工作／職涯轉換有關的親身經歷。",
+      "title": "關於換工作／職涯轉換，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1387,8 +1550,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786120460.A.311.html",
-      "title": "家庭／育兒和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到家庭／育兒、旅行／移動經歷。",
+      "title": "家庭／育兒和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到家庭／育兒、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1400,8 +1563,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1786207860.A.9FF.html",
-      "title": "家庭／育兒和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到家庭／育兒、朋友／社交。",
+      "title": "家庭／育兒和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到家庭／育兒、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -1413,8 +1576,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1781933085.A.3B2.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件、婚禮／結婚經歷、朋友／社交有關，也提到自己感到開心。",
+      "title": "職場相處／工作條件這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷。過程也牽涉到職場相處／工作條件、婚禮／結婚經歷、朋友／社交，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1427,8 +1590,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1782124655.A.AF2.html",
-      "title": "聊到伴侶／婚姻互動這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和伴侶／婚姻互動、家庭／育兒有關，也提到自己感到焦慮。",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷。過程也牽涉到伴侶／婚姻互動、家庭／育兒，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1441,8 +1604,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1730613935.A.397.html",
-      "title": "關於寵物／陪伴，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和寵物／陪伴有關的親身經歷。",
+      "title": "關於寵物／陪伴，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和寵物／陪伴有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1454,8 +1617,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1731344265.A.0C2.html",
-      "title": "財務／退休規劃和居住／房產碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、居住／房產、婚禮／結婚經歷。",
+      "title": "財務／退休規劃和居住／房產碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、居住／房產、婚禮／結婚經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1467,8 +1630,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1731648020.A.5FF.html",
-      "title": "財務／退休規劃和伴侶／婚姻互動碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、伴侶／婚姻互動、家庭／育兒。",
+      "title": "財務／退休規劃和伴侶／婚姻互動碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、伴侶／婚姻互動、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -1480,8 +1643,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1781288948.A.E7B.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件、伴侶／婚姻互動、家庭／育兒有關，也提到自己感到壓力。",
+      "title": "職場相處／工作條件這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷。過程也牽涉到職場相處／工作條件、伴侶／婚姻互動、家庭／育兒，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1494,8 +1657,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1781744428.A.BD6.html",
-      "title": "關係中的金錢分擔和伴侶／婚姻互動碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到關係中的金錢分擔、伴侶／婚姻互動、旅行／移動經歷。",
+      "title": "關係中的金錢分擔和伴侶／婚姻互動碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到關係中的金錢分擔、伴侶／婚姻互動、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1507,8 +1670,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1727342295.A.515.html",
-      "title": "學習／教育和消費／服務體驗碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到學習／教育、消費／服務體驗。",
+      "title": "學習／教育和消費／服務體驗碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到學習／教育、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -1519,9 +1682,22 @@
       "created_at_source": "2024-09-26T09:18:11+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1765776561.A.1B6.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃和居住／房產。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-12-15T05:29:19+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1780636928.A.762.html",
-      "title": "婚禮／結婚經歷和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到婚禮／結婚經歷、旅行／移動經歷。",
+      "title": "婚禮／結婚經歷和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到婚禮／結婚經歷、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1532,9 +1708,23 @@
       "created_at_source": "2026-06-05T05:22:06+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1725006721.A.345.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、財務／退休規劃和家庭／育兒。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-30T08:31:59+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1725023567.A.53E.html",
-      "title": "財務／退休規劃和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、朋友／社交。",
+      "title": "財務／退休規劃和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -1546,8 +1736,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1765254393.A.6C9.html",
-      "title": "換工作／職涯轉換和求職／面試碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、求職／面試、職場相處／工作條件。",
+      "title": "換工作／職涯轉換和求職／面試碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、求職／面試、職場相處／工作條件。",
       "classification_axes": [
         "topic"
       ],
@@ -1559,8 +1749,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1785750811.A.AF4.html",
-      "title": "聊到婚禮／結婚經歷這件事，心裡最明顯的是難過",
-      "human_voice": "有人分享了自己遇到的事。內容和婚禮／結婚經歷、家庭／育兒、朋友／社交有關，也提到自己感到難過。",
+      "title": "婚禮／結婚經歷這件事，為什麼最後讓我覺得難過？",
+      "human_voice": "分享的是一段和婚禮／結婚經歷有關的親身經歷。過程也牽涉到婚禮／結婚經歷、家庭／育兒、朋友／社交，並提到自己感到難過。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1573,8 +1763,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1780468541.A.DE1.html",
-      "title": "聊到關係中的金錢分擔這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和關係中的金錢分擔、伴侶／婚姻互動、朋友／社交有關，也提到自己感到焦慮。",
+      "title": "關係中的金錢分擔這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和關係中的金錢分擔有關的親身經歷。過程也牽涉到關係中的金錢分擔、伴侶／婚姻互動、朋友／社交，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1587,8 +1777,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1780484690.A.94B.html",
-      "title": "換工作／職涯轉換和伴侶／婚姻互動碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、伴侶／婚姻互動、婚禮／結婚經歷。",
+      "title": "換工作／職涯轉換和伴侶／婚姻互動碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、伴侶／婚姻互動、婚禮／結婚經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1600,8 +1790,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1721896662.A.011.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、求職／面試、學習／教育有關，也提到自己感到焦慮。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、求職／面試、學習／教育，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1614,8 +1804,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1722931807.A.DA3.html",
-      "title": "求職／面試和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、學習／教育。",
+      "title": "求職／面試和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -1627,8 +1817,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1763891861.A.BF1.html",
-      "title": "居住／房產和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、家庭／育兒、消費／服務體驗。",
+      "title": "居住／房產和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、家庭／育兒、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -1640,8 +1830,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1789048784.A.9AC.html",
-      "title": "職場相處／工作條件和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、旅行／移動經歷。",
+      "title": "職場相處／工作條件和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1653,8 +1843,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1780040271.A.9EE.html",
-      "title": "聊到伴侶／婚姻互動這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和伴侶／婚姻互動有關，也提到自己感到開心。",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷，也提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1668,7 +1858,7 @@
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1780397494.A.1FD.html",
       "title": "兩個人在一起，錢到底怎麼分才舒服？",
-      "human_voice": "有人正為關係中的金錢分擔、伴侶／婚姻互動這些事找方向。有人正在協調伴侶之間的費用分擔與期待，希望找到彼此都能接受的方式。",
+      "human_voice": "這次真正想處理的具體情境同時牽涉關係中的金錢分擔、伴侶／婚姻互動和朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -1680,8 +1870,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1780402484.A.912.html",
-      "title": "朋友／社交和健康／生活條件碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到朋友／社交、健康／生活條件。",
+      "title": "朋友／社交和健康／生活條件碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到朋友／社交、健康／生活條件。",
       "classification_axes": [
         "topic"
       ],
@@ -1693,8 +1883,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1720725126.A.91A.html",
-      "title": "面對財務與退休選擇，怎麼做比較安心？",
-      "human_voice": "有人正為財務／退休規劃、居住／房產這些事找方向。有人正在規劃財務或退休方向，希望找到更適合自己的安排。 這件事也讓他感到開心。",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃、居住／房產和伴侶／婚姻互動。 也明確提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1707,8 +1897,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1721520729.A.64D.html",
-      "title": "職場相處／工作條件和婚禮／結婚經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、婚禮／結婚經歷、家庭／育兒。",
+      "title": "職場相處／工作條件和婚禮／結婚經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、婚禮／結婚經歷、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -1720,8 +1910,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1762864721.A.C91.html",
-      "title": "換工作／職涯轉換和求職／面試碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、求職／面試、伴侶／婚姻互動。",
+      "title": "換工作／職涯轉換和求職／面試碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、求職／面試、伴侶／婚姻互動。",
       "classification_axes": [
         "topic"
       ],
@@ -1732,9 +1922,35 @@
       "created_at_source": "2025-11-11T12:38:39+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1718670966.A.63E.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試和學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-06-18T00:36:04+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1718905636.A.0A1.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃和伴侶／婚姻互動。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-06-20T17:47:14+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1719370060.A.807.html",
-      "title": "聊到學習／教育這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和學習／教育有關，也提到自己感到挫折。",
+      "title": "學習／教育這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和學習／教育有關的親身經歷，也提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1746,9 +1962,24 @@
       "created_at_source": "2024-06-26T02:47:38+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1762012916.A.FD0.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和居住／房產。 也明確提到自己感到焦慮。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-01T16:01:54+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1785215106.A.80D.html",
-      "title": "家庭／育兒和健康／生活條件碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到家庭／育兒、健康／生活條件。",
+      "title": "家庭／育兒和健康／生活條件碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到家庭／育兒、健康／生活條件。",
       "classification_axes": [
         "topic"
       ],
@@ -1760,8 +1991,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1779596387.A.CFA.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是孤單",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件、伴侶／婚姻互動、朋友／社交有關，也提到自己感到孤單。",
+      "title": "職場相處／工作條件這件事，為什麼最後讓我覺得孤單？",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷。過程也牽涉到職場相處／工作條件、伴侶／婚姻互動、朋友／社交，並提到自己感到孤單。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1774,8 +2005,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1779623534.A.407.html",
-      "title": "學習／教育和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到學習／教育、旅行／移動經歷。",
+      "title": "學習／教育和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到學習／教育、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1787,8 +2018,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1716119092.A.202.html",
-      "title": "財務／退休規劃和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、學習／教育。",
+      "title": "財務／退休規劃和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -1800,8 +2031,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1716228748.A.484.html",
-      "title": "換工作／職涯轉換和財務／退休規劃碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、財務／退休規劃、居住／房產。",
+      "title": "換工作／職涯轉換和財務／退休規劃碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、財務／退休規劃、居住／房產。",
       "classification_axes": [
         "topic"
       ],
@@ -1812,9 +2043,22 @@
       "created_at_source": "2024-05-20T18:12:26+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1716386084.A.C0C.html",
+      "title": "職場相處／工作條件和伴侶／婚姻互動碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、伴侶／婚姻互動、家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "工作／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-05-22T13:54:42+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1717942139.A.154.html",
-      "title": "聊到居住／房產這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和居住／房產、家庭／育兒、朋友／社交有關，也提到自己感到壓力。",
+      "title": "居住／房產這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和居住／房產有關的親身經歷。過程也牽涉到居住／房產、家庭／育兒、朋友／社交，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1826,23 +2070,9 @@
       "created_at_source": "2024-06-09T14:08:57+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1714609971.A.D66.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為求職／面試這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。 這件事也讓他感到開心。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "求職／職涯",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2024-05-02T00:32:49+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1784957957.A.125.html",
-      "title": "聊到健康／生活條件這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和健康／生活條件、寵物／陪伴有關，也提到自己感到壓力。",
+      "title": "健康／生活條件這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和健康／生活條件有關的親身經歷。過程也牽涉到健康／生活條件、寵物／陪伴，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1855,8 +2085,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1711533264.A.552.html",
-      "title": "面對財務與退休選擇，怎麼做比較安心？",
-      "human_voice": "有人正為換工作／職涯轉換、求職／面試這些事找方向。有人正在規劃財務或退休方向，希望找到更適合自己的安排。 這件事也讓他感到壓力。",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和職場相處／工作條件。 也明確提到自己感到壓力。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -1869,9 +2099,38 @@
       "created_at_source": "2024-03-27T09:54:22+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1713442768.A.F60.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、財務／退休規劃和居住／房產。 也明確提到自己感到壓力。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-04-18T12:19:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1759221363.A.CF1.html",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得害怕？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、職場相處／工作條件，並提到自己感到害怕。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-30T08:36:01+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1784685484.A.CD9.html",
-      "title": "家庭／育兒和消費／服務體驗碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到家庭／育兒、消費／服務體驗。",
+      "title": "家庭／育兒和消費／服務體驗碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到家庭／育兒、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -1883,8 +2142,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1778296910.A.C97.html",
-      "title": "聊到財務／退休規劃這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和財務／退休規劃、居住／房產、家庭／育兒有關，也提到自己感到焦慮。",
+      "title": "財務／退休規劃這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和財務／退休規劃有關的親身經歷。過程也牽涉到財務／退休規劃、居住／房產、家庭／育兒，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1897,8 +2156,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1778466928.A.B63.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為財務／退休規劃、婚禮／結婚經歷這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃、婚禮／結婚經歷和家庭／育兒。",
       "classification_axes": [
         "pain",
         "topic"
@@ -1911,8 +2170,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1709178179.A.E35.html",
-      "title": "面對財務與退休選擇，怎麼做比較安心？",
-      "human_voice": "有人正為財務／退休規劃、朋友／社交這些事找方向。有人正在規劃財務或退休方向，希望找到更適合自己的安排。 這件事也讓他感到焦慮。",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃、朋友／社交和學習／教育。 也明確提到自己感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -1926,8 +2185,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1710094257.A.796.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、求職／面試、居住／房產有關，也提到自己感到壓力。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、求職／面試、居住／房產，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1939,9 +2198,22 @@
       "created_at_source": "2024-03-10T18:10:55+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1757890381.A.109.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和財務／退休規劃。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-14T22:52:59+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1758209873.A.725.html",
-      "title": "聊到求職／面試這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和求職／面試、財務／退休規劃、伴侶／婚姻互動有關，也提到自己感到壓力。",
+      "title": "求職／面試這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和求職／面試有關的親身經歷。過程也牽涉到求職／面試、財務／退休規劃、伴侶／婚姻互動，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1954,8 +2226,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1777810301.A.0A5.html",
-      "title": "伴侶／婚姻互動和婚禮／結婚經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、婚禮／結婚經歷、旅行／移動經歷。",
+      "title": "伴侶／婚姻互動和婚禮／結婚經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、婚禮／結婚經歷、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -1967,8 +2239,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1777874702.A.231.html",
-      "title": "財務／退休規劃和居住／房產碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、居住／房產、伴侶／婚姻互動。",
+      "title": "財務／退休規劃和居住／房產碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、居住／房產、伴侶／婚姻互動。",
       "classification_axes": [
         "topic"
       ],
@@ -1980,8 +2252,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1778045045.A.EE9.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是難過",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒有關，也提到自己感到難過。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得難過？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷，也提到自己感到難過。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -1994,8 +2266,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1778108285.A.ECF.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是害怕",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件、婚禮／結婚經歷、家庭／育兒有關，也提到自己感到害怕。",
+      "title": "職場相處／工作條件這件事，為什麼最後讓我覺得害怕？",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷。過程也牽涉到職場相處／工作條件、婚禮／結婚經歷、家庭／育兒，並提到自己感到害怕。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2007,9 +2279,24 @@
       "created_at_source": "2026-05-06T22:58:03+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1705229224.A.520.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、居住／房產和伴侶／婚姻互動。 也明確提到自己感到焦慮。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-01-14T10:47:02+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1707989386.A.382.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為職場相處／工作條件、學習／教育這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。 這件事也讓他感到開心。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件和學習／教育。 也明確提到自己感到開心。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -2022,9 +2309,63 @@
       "created_at_source": "2024-02-15T09:29:44+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1757416184.A.53F.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-09T11:09:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1756347721.A.56D.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-08-28T02:21:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1756630302.A.069.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和學習／教育。 也明確提到自己感到焦慮。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-08-31T08:51:40+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1756795048.A.53A.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-09-02T06:37:26+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1702388952.A.971.html",
-      "title": "求職／面試和財務／退休規劃碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、財務／退休規劃、家庭／育兒。",
+      "title": "求職／面試和財務／退休規劃碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、財務／退休規劃、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -2035,23 +2376,9 @@
       "created_at_source": "2023-12-12T13:49:09+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1784049657.A.BC9.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、學習／教育、旅行／移動經歷有關，也提到自己感到焦慮。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "求職／職涯",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2026-07-14T17:20:55+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1777141948.A.7FD.html",
-      "title": "居住／房產和婚禮／結婚經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、婚禮／結婚經歷、家庭／育兒。",
+      "title": "居住／房產和婚禮／結婚經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、婚禮／結婚經歷、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -2062,22 +2389,23 @@
       "created_at_source": "2026-04-25T18:32:26+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1701673440.A.A96.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為求職／面試、婚禮／結婚經歷這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1701614594.A.2C0.html",
+      "title": "朋友／社交這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷。過程也牽涉到朋友／社交、學習／教育，並提到自己感到壓力。",
       "classification_axes": [
+        "emotion",
         "topic"
       ],
-      "topic_label": "求職／職涯",
+      "topic_label": "工作／職涯",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2023-12-04T07:03:58+00:00"
+      "created_at_source": "2023-12-03T14:43:12+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1754647067.A.DEE.html",
-      "title": "聊到求職／面試這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和求職／面試、消費／服務體驗、旅行／移動經歷有關，也提到自己感到壓力。",
+      "title": "求職／面試這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和求職／面試有關的親身經歷。過程也牽涉到求職／面試、消費／服務體驗、旅行／移動經歷，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2089,9 +2417,22 @@
       "created_at_source": "2025-08-08T09:57:45+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1755008433.A.5CF.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-08-12T14:20:31+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783964386.A.BCB.html",
-      "title": "朋友／社交和睡眠／身心狀態碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到朋友／社交、睡眠／身心狀態。",
+      "title": "朋友／社交和睡眠／身心狀態碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到朋友／社交、睡眠／身心狀態。",
       "classification_axes": [
         "topic"
       ],
@@ -2103,8 +2444,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1776699966.A.537.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件、朋友／社交、旅行／移動經歷有關，也提到自己感到壓力。",
+      "title": "職場相處／工作條件這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷。過程也牽涉到職場相處／工作條件、朋友／社交、旅行／移動經歷，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2117,8 +2458,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1698818485.A.8B8.html",
-      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
-      "human_voice": "有人正為換工作／職涯轉換、求職／面試這些事找方向。有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和職場相處／工作條件。",
       "classification_axes": [
         "pain",
         "topic"
@@ -2131,8 +2472,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1698931969.A.843.html",
-      "title": "婚禮／結婚經歷和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到婚禮／結婚經歷、家庭／育兒、健康／生活條件。",
+      "title": "婚禮／結婚經歷和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到婚禮／結婚經歷、家庭／育兒、健康／生活條件。",
       "classification_axes": [
         "topic"
       ],
@@ -2143,23 +2484,23 @@
       "created_at_source": "2023-11-02T13:32:47+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/Salary/M.1754327589.A.DFE.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、職場相處／工作條件有關，也提到自己感到開心。",
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1753193823.A.915.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和家庭／育兒。",
       "classification_axes": [
-        "emotion",
+        "pain",
         "topic"
       ],
-      "topic_label": "求職／職涯",
+      "topic_label": "睡眠／身心",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2025-08-04T17:13:07+00:00"
+      "created_at_source": "2025-07-22T14:17:01+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783830225.A.A6C.html",
-      "title": "居住／房產和寵物／陪伴碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、寵物／陪伴。",
+      "title": "居住／房產和寵物／陪伴碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、寵物／陪伴。",
       "classification_axes": [
         "topic"
       ],
@@ -2171,8 +2512,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783840721.A.A2E.html",
-      "title": "聊到伴侶／婚姻互動這件事，心裡最明顯的是難過",
-      "human_voice": "有人分享了自己遇到的事。內容和伴侶／婚姻互動、婚禮／結婚經歷有關，也提到自己感到難過。",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得難過？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷。過程也牽涉到伴侶／婚姻互動、婚禮／結婚經歷，並提到自己感到難過。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2184,23 +2525,106 @@
       "created_at_source": "2026-07-12T07:18:39+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/Salary/M.1750644850.A.4D9.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件、財務／退休規劃有關，也提到自己感到壓力。",
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1697336737.A.9B4.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和旅行／移動經歷。",
       "classification_axes": [
-        "emotion",
+        "pain",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-10-15T02:25:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1694351184.A.A1A.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃、婚禮／結婚經歷和家庭／育兒。",
+      "classification_axes": [
         "topic"
       ],
       "topic_label": "財務／退休",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2025-06-23T02:14:08+00:00"
+      "created_at_source": "2023-09-10T13:06:22+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1750777888.A.451.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、消費／服務體驗和旅行／移動經歷。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-06-24T15:11:26+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1692593061.A.BCF.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、朋友／社交和學習／教育。 也明確提到自己感到害怕。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-08-21T04:44:19+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1692718345.A.0DF.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和朋友／社交。 也明確提到自己感到開心。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-08-22T15:32:23+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1693532458.A.D80.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和伴侶／婚姻互動。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-09-01T01:40:54+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783167797.A.F04.html",
+      "title": "學習／教育這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和學習／教育有關的親身經歷。過程也牽涉到學習／教育、旅行／移動經歷，並提到自己感到挫折。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-07-04T12:23:15+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783173439.A.3A4.html",
-      "title": "求職／面試和伴侶／婚姻互動碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、伴侶／婚姻互動、家庭／育兒。",
+      "title": "求職／面試和伴侶／婚姻互動碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、伴侶／婚姻互動、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -2212,8 +2636,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783182044.A.09D.html",
-      "title": "聊到朋友／社交這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和朋友／社交、旅行／移動經歷有關，也提到自己感到挫折。",
+      "title": "朋友／社交這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷。過程也牽涉到朋友／社交、旅行／移動經歷，並提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2226,8 +2650,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1783184708.A.AF0.html",
-      "title": "家庭／育兒和寵物／陪伴碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到家庭／育兒、寵物／陪伴。",
+      "title": "家庭／育兒和寵物／陪伴碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到家庭／育兒、寵物／陪伴。",
       "classification_axes": [
         "topic"
       ],
@@ -2239,8 +2663,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1774699531.A.D30.html",
-      "title": "聊到朋友／社交這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和朋友／社交有關，也提到自己感到焦慮。",
+      "title": "朋友／社交這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷，也提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2253,8 +2677,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1688995473.A.934.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、居住／房產有關，也提到自己感到開心。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、居住／房產，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2267,8 +2691,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782871031.A.AB7.html",
-      "title": "換工作／職涯轉換和職場相處／工作條件碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、職場相處／工作條件、騷擾／人身安全。",
+      "title": "換工作／職涯轉換和職場相處／工作條件碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、職場相處／工作條件、騷擾／人身安全。",
       "classification_axes": [
         "topic"
       ],
@@ -2279,9 +2703,37 @@
       "created_at_source": "2026-07-01T01:57:09+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1688273533.A.47D.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、朋友／社交和學習／教育。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-07-02T04:52:11+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1688431491.A.ADE.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和朋友／社交。 也明確提到自己感到開心。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-07-04T00:44:49+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782780453.A.32E.html",
-      "title": "求職／面試和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、家庭／育兒、健康／生活條件。",
+      "title": "求職／面試和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、家庭／育兒、健康／生活條件。",
       "classification_axes": [
         "topic"
       ],
@@ -2292,9 +2744,23 @@
       "created_at_source": "2026-06-30T00:47:31+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1773251946.A.DB2.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉伴侶／婚姻互動和睡眠／身心狀態。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-11T17:59:04+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782476018.A.54E.html",
-      "title": "關於失落／告別經歷，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和失落／告別經歷有關的親身經歷。",
+      "title": "關於失落／告別經歷，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和失落／告別經歷有關的親身經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -2306,8 +2772,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782549510.A.F94.html",
-      "title": "朋友／社交和消費／服務體驗碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到朋友／社交、消費／服務體驗。",
+      "title": "朋友／社交和消費／服務體驗碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到朋友／社交、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -2319,8 +2785,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1683551895.A.B5A.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為換工作／職涯轉換、朋友／社交這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。 這件事也讓他感到挫折。",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、朋友／社交和健康／生活條件。 也明確提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2332,9 +2798,23 @@
       "created_at_source": "2023-05-08T13:18:07+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1683760012.A.FC2.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件和旅行／移動經歷。 也明確提到自己感到挫折。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-05-10T23:06:50+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782435062.A.008.html",
-      "title": "關於騷擾／人身安全，有人想分享自己的經歷",
-      "human_voice": "有人分享了一段和騷擾／人身安全有關的親身經歷。",
+      "title": "關於騷擾／人身安全，我想分享自己真的遇過的事",
+      "human_voice": "分享的是一段和騷擾／人身安全有關的親身經歷。",
       "classification_axes": [
         "pain",
         "topic"
@@ -2347,8 +2827,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1772527486.A.667.html",
-      "title": "伴侶／婚姻互動和消費／服務體驗碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、消費／服務體驗。",
+      "title": "伴侶／婚姻互動和消費／服務體驗碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -2359,9 +2839,22 @@
       "created_at_source": "2026-03-03T08:44:44+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1681958586.A.D2C.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、伴侶／婚姻互動和家庭／育兒。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-04-20T02:43:02+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782275986.A.C80.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒有關，也提到自己感到開心。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷，也提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2374,8 +2867,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1680924888.A.CBF.html",
-      "title": "聊到學習／教育這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和學習／教育、寵物／陪伴有關，也提到自己感到焦慮。",
+      "title": "學習／教育這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和學習／教育有關的親身經歷。過程也牽涉到學習／教育、寵物／陪伴，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2387,9 +2880,23 @@
       "created_at_source": "2023-04-08T03:34:45+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1678622462.A.D2E.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換和消費／服務體驗。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-03-12T12:01:00+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1679531683.A.A62.html",
-      "title": "聊到財務／退休規劃這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和財務／退休規劃、伴侶／婚姻互動有關，也提到自己感到挫折。",
+      "title": "財務／退休規劃這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和財務／退休規劃有關的親身經歷。過程也牽涉到財務／退休規劃、伴侶／婚姻互動，並提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2401,23 +2908,24 @@
       "created_at_source": "2023-03-23T00:34:41+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1771909161.A.709.html",
-      "title": "聊到伴侶／婚姻互動這件事，心裡最明顯的是難過",
-      "human_voice": "有人分享了自己遇到的事。內容和伴侶／婚姻互動、朋友／社交有關，也提到自己感到難過。",
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1743482586.A.2B1.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、居住／房產和健康／生活條件。 也明確提到自己感到焦慮。",
       "classification_axes": [
+        "pain",
         "emotion",
         "topic"
       ],
-      "topic_label": "感情／關係",
+      "topic_label": "求職／職涯",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2026-02-24T04:59:19+00:00"
+      "created_at_source": "2025-04-01T04:43:04+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782051245.A.8F7.html",
-      "title": "職場相處／工作條件和消費／服務體驗碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、消費／服務體驗。",
+      "title": "職場相處／工作條件和消費／服務體驗碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -2429,8 +2937,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782083629.A.8AC.html",
-      "title": "騷擾／人身安全和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到騷擾／人身安全、學習／教育。",
+      "title": "騷擾／人身安全和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到騷擾／人身安全、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -2442,8 +2950,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1782092884.A.33C.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是害怕",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒、朋友／社交有關，也提到自己感到害怕。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得害怕？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、朋友／社交，並提到自己感到害怕。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2456,8 +2964,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1771742000.A.67D.html",
-      "title": "伴侶／婚姻互動和騷擾／人身安全碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、騷擾／人身安全。",
+      "title": "伴侶／婚姻互動和騷擾／人身安全碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、騷擾／人身安全。",
       "classification_axes": [
         "pain",
         "topic"
@@ -2470,8 +2978,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1742102472.A.E3D.html",
-      "title": "聊到求職／面試這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和求職／面試有關，也提到自己感到開心。",
+      "title": "求職／面試這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和求職／面試有關的親身經歷，也提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2483,9 +2991,23 @@
       "created_at_source": "2025-03-16T05:21:07+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1781854870.A.9C4.html",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得難過？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷，也提到自己感到難過。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-19T07:41:08+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1675060712.A.464.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為伴侶／婚姻互動、家庭／育兒這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。 這件事也讓他感到焦慮。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉伴侶／婚姻互動、家庭／育兒和學習／教育。 也明確提到自己感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -2499,8 +3021,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1741511506.A.A49.html",
-      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
-      "human_voice": "有人正為求職／面試、職場相處／工作條件這些事找方向。有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。 這件事也讓他感到焦慮。",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和睡眠／身心狀態。 也明確提到自己感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -2513,9 +3035,23 @@
       "created_at_source": "2025-03-09T09:11:44+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1674295560.A.AEA.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和財務／退休規劃。 也明確提到自己感到開心。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-01-21T10:05:58+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1770660396.A.CAC.html",
-      "title": "聊到伴侶／婚姻互動這件事，心裡最明顯的是害怕",
-      "human_voice": "有人分享了自己遇到的事。內容和伴侶／婚姻互動、家庭／育兒、朋友／社交有關，也提到自己感到害怕。",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得害怕？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷。過程也牽涉到伴侶／婚姻互動、家庭／育兒、朋友／社交，並提到自己感到害怕。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2528,8 +3064,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1770957819.A.26D.html",
-      "title": "職場相處／工作條件和居住／房產碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、居住／房產、家庭／育兒。",
+      "title": "職場相處／工作條件和居住／房產碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、居住／房產、家庭／育兒。",
       "classification_axes": [
         "topic"
       ],
@@ -2541,8 +3077,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1672844885.A.3C2.html",
-      "title": "聊到求職／面試這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和求職／面試、婚禮／結婚經歷、健康／生活條件有關，也提到自己感到壓力。",
+      "title": "求職／面試這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和求職／面試有關的親身經歷。過程也牽涉到求職／面試、婚禮／結婚經歷、健康／生活條件，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2555,8 +3091,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1769924369.A.BA1.html",
-      "title": "聊到旅行／移動經歷這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和旅行／移動經歷有關，也提到自己感到開心。",
+      "title": "旅行／移動經歷這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和旅行／移動經歷有關的親身經歷，也提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2568,9 +3104,37 @@
       "created_at_source": "2026-02-01T05:39:27+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1769941352.A.3F2.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和伴侶／婚姻互動。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-01T10:22:30+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1670991926.A.938.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、伴侶／婚姻互動和家庭／育兒。 也明確提到自己感到難過。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-12-14T04:25:24+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1669347927.A.E97.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、職場相處／工作條件、學習／教育有關，也提到自己感到挫折。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、職場相處／工作條件、學習／教育，並提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2583,8 +3147,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1769154884.A.BF0.html",
-      "title": "伴侶／婚姻互動和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、朋友／社交、旅行／移動經歷。",
+      "title": "伴侶／婚姻互動和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、朋友／社交、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -2596,8 +3160,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1668149403.A.E76.html",
-      "title": "求職／面試和居住／房產碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、居住／房產、學習／教育。",
+      "title": "求職／面試和居住／房產碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、居住／房產、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -2609,8 +3173,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1781202868.A.30A.html",
-      "title": "健康／生活條件和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到健康／生活條件、旅行／移動經歷。",
+      "title": "健康／生活條件和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到健康／生活條件、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -2621,9 +3185,37 @@
       "created_at_source": "2026-06-11T18:34:26+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1737693930.A.96D.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、居住／房產和婚禮／結婚經歷。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-01-24T04:45:28+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1737777151.A.2CA.html",
+      "title": "求職／面試這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和求職／面試有關的親身經歷。過程也牽涉到求職／面試、學習／教育，並提到自己感到開心。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-01-25T03:52:26+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1789093254.A.D8C.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒有關，也提到自己感到挫折。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷，也提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2635,23 +3227,36 @@
       "created_at_source": "2026-09-11T02:20:51+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1781068992.A.A47.html",
-      "title": "聊到朋友／社交這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和朋友／社交、學習／教育有關，也提到自己感到開心。",
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1737225201.A.C8E.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、朋友／社交和旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-01-18T18:33:19+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1789103586.A.266.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃、伴侶／婚姻互動和朋友／社交。 也明確提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
       ],
-      "topic_label": "日常生活／人際",
+      "topic_label": "財務／退休",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2026-06-10T05:23:10+00:00"
+      "created_at_source": "2026-09-11T05:13:04+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1767941161.A.6A4.html",
-      "title": "居住／房產和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、學習／教育。",
+      "title": "居住／房產和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -2663,8 +3268,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1768055234.A.5A3.html",
-      "title": "關係中的金錢分擔和居住／房產碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到關係中的金錢分擔、居住／房產。",
+      "title": "關係中的金錢分擔和居住／房產碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到關係中的金錢分擔、居住／房產。",
       "classification_axes": [
         "topic"
       ],
@@ -2676,8 +3281,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1789011151.A.3C6.html",
-      "title": "家庭／育兒和失落／告別經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到家庭／育兒、失落／告別經歷。",
+      "title": "家庭／育兒和失落／告別經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到家庭／育兒、失落／告別經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -2689,8 +3294,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1767630291.A.139.html",
-      "title": "聊到財務／退休規劃這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和財務／退休規劃、學習／教育、旅行／移動經歷有關，也提到自己感到開心。",
+      "title": "財務／退休規劃這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和財務／退休規劃有關的親身經歷。過程也牽涉到財務／退休規劃、學習／教育、旅行／移動經歷，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2703,8 +3308,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1661799576.A.B6C.html",
-      "title": "聊到職場相處／工作條件這件事，心裡最明顯的是難過",
-      "human_voice": "有人分享了自己遇到的事。內容和職場相處／工作條件、朋友／社交有關，也提到自己感到難過。",
+      "title": "職場相處／工作條件這件事，為什麼最後讓我覺得難過？",
+      "human_voice": "分享的是一段和職場相處／工作條件有關的親身經歷。過程也牽涉到職場相處／工作條件、朋友／社交，並提到自己感到難過。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2716,9 +3321,22 @@
       "created_at_source": "2022-08-29T18:59:34+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1662189955.A.E67.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試和旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-09-03T07:25:53+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1786772713.A.E1B.html",
-      "title": "聊到健康／生活條件這件事，心裡最明顯的是害怕",
-      "human_voice": "有人分享了自己遇到的事。內容和健康／生活條件有關，也提到自己感到害怕。",
+      "title": "健康／生活條件這件事，為什麼最後讓我覺得害怕？",
+      "human_voice": "分享的是一段和健康／生活條件有關的親身經歷，也提到自己感到害怕。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2731,8 +3349,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1786795839.A.5F5.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒、朋友／社交、學習／教育有關，也提到自己感到焦慮。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、朋友／社交、學習／教育，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2745,8 +3363,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1785922251.A.5FF.html",
-      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
-      "human_voice": "有人正為職場相處／工作條件、睡眠／身心狀態這些事找方向。有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件和睡眠／身心狀態。",
       "classification_axes": [
         "topic"
       ],
@@ -2757,9 +3375,37 @@
       "created_at_source": "2026-08-05T09:30:49+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1780407997.A.C68.html",
+      "title": "學習／教育這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和學習／教育有關的親身經歷，也提到自己感到焦慮。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-06-02T13:46:35+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1660743592.A.66F.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和居住／房產。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-08-17T13:39:48+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1766933570.A.A90.html",
-      "title": "聊到婚禮／結婚經歷這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和婚禮／結婚經歷有關，也提到自己感到焦慮。",
+      "title": "婚禮／結婚經歷這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和婚禮／結婚經歷有關的親身經歷，也提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2772,8 +3418,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1784396666.A.EE9.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒、睡眠／身心狀態、健康／生活條件有關，也提到自己感到焦慮。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、睡眠／身心狀態、健康／生活條件，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2786,8 +3432,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1766593108.A.1E9.html",
-      "title": "職場相處／工作條件和財務／退休規劃碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、財務／退休規劃、關係中的金錢分擔。",
+      "title": "職場相處／工作條件和財務／退休規劃碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、財務／退休規劃、關係中的金錢分擔。",
       "classification_axes": [
         "topic"
       ],
@@ -2799,8 +3445,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1766669006.A.EB5.html",
-      "title": "求職／面試和居住／房產碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、居住／房產、伴侶／婚姻互動。",
+      "title": "求職／面試和居住／房產碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、居住／房產、伴侶／婚姻互動。",
       "classification_axes": [
         "topic"
       ],
@@ -2812,8 +3458,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1783065551.A.F4F.html",
-      "title": "居住／房產和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、家庭／育兒、學習／教育。",
+      "title": "居住／房產和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、家庭／育兒、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -2824,9 +3470,48 @@
       "created_at_source": "2026-07-03T07:59:09+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1732152814.A.249.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-11-21T01:33:32+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1732394262.A.325.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換和居住／房產。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-11-23T20:37:40+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1656337105.A.C40.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、財務／退休規劃和學習／教育。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-06-27T13:38:23+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1779780931.A.3EB.html",
-      "title": "財務／退休規劃和睡眠／身心狀態碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、睡眠／身心狀態。",
+      "title": "財務／退休規劃和睡眠／身心狀態碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、睡眠／身心狀態。",
       "classification_axes": [
         "topic"
       ],
@@ -2838,8 +3523,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1765625001.A.91D.html",
-      "title": "聊到伴侶／婚姻互動這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和伴侶／婚姻互動、旅行／移動經歷有關，也提到自己感到壓力。",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷。過程也牽涉到伴侶／婚姻互動、旅行／移動經歷，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2851,9 +3536,24 @@
       "created_at_source": "2025-12-13T11:23:19+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1730388962.A.9A2.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試和職場相處／工作條件。 也明確提到自己感到焦慮。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-10-31T15:36:00+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1779875298.A.051.html",
-      "title": "家庭／育兒和睡眠／身心狀態碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到家庭／育兒、睡眠／身心狀態。",
+      "title": "家庭／育兒和睡眠／身心狀態碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到家庭／育兒、睡眠／身心狀態。",
       "classification_axes": [
         "topic"
       ],
@@ -2864,9 +3564,23 @@
       "created_at_source": "2026-05-27T09:48:16+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1779919872.A.4C8.html",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得孤單？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷，也提到自己感到孤單。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-27T22:11:10+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1779922542.A.099.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒、健康／生活條件、學習／教育有關，也提到自己感到開心。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、健康／生活條件、學習／教育，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2879,8 +3593,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1779933820.A.35B.html",
-      "title": "睡眠／身心狀態和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到睡眠／身心狀態、學習／教育。",
+      "title": "睡眠／身心狀態和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到睡眠／身心狀態、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -2891,9 +3605,23 @@
       "created_at_source": "2026-05-28T02:03:38+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1778501767.A.29B.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉家庭／育兒和睡眠／身心狀態。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-05-11T12:16:05+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1779443240.A.07A.html",
-      "title": "換工作／職涯轉換和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、旅行／移動經歷。",
+      "title": "換工作／職涯轉換和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -2905,8 +3633,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1653737375.A.43C.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、伴侶／婚姻互動、朋友／社交有關，也提到自己感到壓力。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、伴侶／婚姻互動、朋友／社交，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2919,8 +3647,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1764377676.A.C09.html",
-      "title": "關係中的金錢分擔和健康／生活條件碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到關係中的金錢分擔、健康／生活條件。",
+      "title": "關係中的金錢分擔和健康／生活條件碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到關係中的金錢分擔、健康／生活條件。",
       "classification_axes": [
         "topic"
       ],
@@ -2932,8 +3660,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1652424318.A.9D3.html",
-      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
-      "human_voice": "有人正為換工作／職涯轉換、家庭／育兒這些事找方向。有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。 這件事也讓他感到壓力。",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、家庭／育兒和睡眠／身心狀態。 也明確提到自己感到壓力。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -2946,9 +3674,23 @@
       "created_at_source": "2022-05-13T06:45:16+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1652499144.A.FE8.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和學習／教育。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-05-14T03:32:22+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1728645697.A.019.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、職場相處／工作條件、消費／服務體驗有關，也提到自己感到壓力。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、職場相處／工作條件、消費／服務體驗，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -2962,7 +3704,7 @@
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1764228853.A.452.html",
       "title": "兩個人在一起，錢到底怎麼分才舒服？",
-      "human_voice": "有人正為伴侶／婚姻互動、旅行／移動經歷這些事找方向。有人正在協調伴侶之間的費用分擔與期待，希望找到彼此都能接受的方式。",
+      "human_voice": "這次真正想處理的具體情境同時牽涉伴侶／婚姻互動和旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -2973,9 +3715,91 @@
       "created_at_source": "2025-11-27T07:34:09+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1764307716.A.67F.html",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷，也提到自己感到焦慮。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-28T05:28:34+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1728208429.A.302.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和伴侶／婚姻互動。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-10-06T09:53:47+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1728222998.A.AE8.html",
+      "title": "我想找到做得久、也適合自己的工作，有哪些可能？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換和健康／生活條件。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "工作／無障礙",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-10-06T13:56:33+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774918929.A.924.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境是睡眠／身心狀態。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-31T01:02:05+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1764147359.A.68B.html",
+      "title": "換工作／職涯轉換和財務／退休規劃碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、財務／退休規劃、消費／服務體驗。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-26T08:55:57+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1774236711.A.98C.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉家庭／育兒、睡眠／身心狀態和健康／生活條件。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-23T03:31:49+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1764039610.A.1ED.html",
-      "title": "關係中的金錢分擔和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到關係中的金錢分擔、朋友／社交。",
+      "title": "關係中的金錢分擔和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到關係中的金錢分擔、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -2986,9 +3810,24 @@
       "created_at_source": "2025-11-25T03:00:08+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1726487023.A.C41.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和睡眠／身心狀態。 也明確提到自己感到害怕。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-09-16T11:43:41+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1773540806.A.C62.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為居住／房產、家庭／育兒這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。 這件事也讓他感到壓力。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉居住／房產、家庭／育兒和朋友／社交。 也明確提到自己感到壓力。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -3002,8 +3841,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1778403051.A.E6E.html",
-      "title": "伴侶／婚姻互動和失落／告別經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、失落／告別經歷。",
+      "title": "伴侶／婚姻互動和失落／告別經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、失落／告別經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -3014,9 +3853,23 @@
       "created_at_source": "2026-05-10T08:50:48+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763730720.A.60E.html",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷。過程也牽涉到伴侶／婚姻互動、朋友／社交、學習／教育，並提到自己感到開心。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-21T13:11:58+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763643846.A.4F3.html",
-      "title": "婚禮／結婚經歷和寵物／陪伴碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到婚禮／結婚經歷、寵物／陪伴。",
+      "title": "婚禮／結婚經歷和寵物／陪伴碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到婚禮／結婚經歷、寵物／陪伴。",
       "classification_axes": [
         "topic"
       ],
@@ -3028,8 +3881,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1648552075.A.C9E.html",
-      "title": "財務／退休規劃和婚禮／結婚經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、婚禮／結婚經歷。",
+      "title": "財務／退休規劃和婚禮／結婚經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、婚禮／結婚經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -3040,9 +3893,23 @@
       "created_at_source": "2022-03-29T11:07:53+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1647671406.A.E13.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和財務／退休規劃。 也明確提到自己感到開心。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-03-19T06:30:04+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1725369455.A.D81.html",
-      "title": "聊到求職／面試這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和求職／面試、職場相處／工作條件、伴侶／婚姻互動有關，也提到自己感到壓力。",
+      "title": "求職／面試這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和求職／面試有關的親身經歷。過程也牽涉到求職／面試、職場相處／工作條件、伴侶／婚姻互動，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3055,8 +3922,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1645524760.A.2A6.html",
-      "title": "面對財務與退休選擇，怎麼做比較安心？",
-      "human_voice": "有人正為財務／退休規劃、家庭／育兒這些事找方向。有人正在規劃財務或退休方向，希望找到更適合自己的安排。 這件事也讓他感到壓力。",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃、家庭／育兒和學習／教育。 也明確提到自己感到壓力。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -3070,8 +3937,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1645702546.A.FAA.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、朋友／社交、健康／生活條件有關，也提到自己感到焦慮。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、朋友／社交、健康／生活條件，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3083,9 +3950,35 @@
       "created_at_source": "2022-02-24T11:35:44+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1724063978.A.501.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、朋友／社交和騷擾／人身安全。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-19T10:39:36+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1724146223.A.B46.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-20T09:30:21+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1770122682.A.DDB.html",
-      "title": "睡眠／身心狀態和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到睡眠／身心狀態、旅行／移動經歷。",
+      "title": "睡眠／身心狀態和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到睡眠／身心狀態、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -3096,9 +3989,24 @@
       "created_at_source": "2026-02-03T12:44:38+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1770233573.A.9EC.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉伴侶／婚姻互動、家庭／育兒和朋友／社交。 也明確提到自己感到害怕。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-04T19:32:51+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777716993.A.A52.html",
-      "title": "聊到朋友／社交這件事，心裡最明顯的是孤單",
-      "human_voice": "有人分享了自己遇到的事。內容和朋友／社交有關，也提到自己感到孤單。",
+      "title": "朋友／社交這件事，為什麼最後讓我覺得孤單？",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷，也提到自己感到孤單。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3110,9 +4018,37 @@
       "created_at_source": "2026-05-02T10:16:29+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762670182.A.9F3.html",
-      "title": "聊到伴侶／婚姻互動這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和伴侶／婚姻互動、朋友／社交、消費／服務體驗有關，也提到自己感到開心。",
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1763010727.A.2BE.html",
+      "title": "換工作／職涯轉換和伴侶／婚姻互動碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、伴侶／婚姻互動、朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-13T05:12:05+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1644802483.A.EB1.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、財務／退休規劃和家庭／育兒。 也明確提到自己感到害怕。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-02-14T01:34:41+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762688069.A.AFD.html",
+      "title": "朋友／社交這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷，也提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3121,26 +4057,54 @@
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2025-11-09T06:36:18+00:00"
+      "created_at_source": "2025-11-09T11:34:27+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1643861607.A.FF8.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、朋友／社交、學習／教育有關，也提到自己感到壓力。",
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1722876836.A.DBE.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和家庭／育兒。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-08-05T16:53:54+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762348159.A.9FC.html",
+      "title": "婚禮／結婚經歷這件事，為什麼最後讓我覺得害怕？",
+      "human_voice": "分享的是一段和婚禮／結婚經歷有關的親身經歷。過程也牽涉到婚禮／結婚經歷、家庭／育兒，並提到自己感到害怕。",
       "classification_axes": [
         "emotion",
         "topic"
       ],
-      "topic_label": "求職／職涯",
+      "topic_label": "感情／關係",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2022-02-03T04:13:25+00:00"
+      "created_at_source": "2025-11-05T13:09:17+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762575510.A.00E.html",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、失落／告別經歷，並提到自己感到開心。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-08T04:18:28+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1768619902.A.087.html",
-      "title": "聊到求職／面試這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和求職／面試、職場相處／工作條件、財務／退休規劃有關，也提到自己感到開心。",
+      "title": "求職／面試這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和求職／面試有關的親身經歷。過程也牽涉到求職／面試、職場相處／工作條件、財務／退休規劃，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3152,9 +4116,23 @@
       "created_at_source": "2026-01-17T03:18:20+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1768738098.A.13D.html",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷。過程也牽涉到伴侶／婚姻互動、朋友／社交、消費／服務體驗，並提到自己感到焦慮。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-01-18T12:08:12+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1762337987.A.A85.html",
-      "title": "居住／房產和婚禮／結婚經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、婚禮／結婚經歷、消費／服務體驗。",
+      "title": "居住／房產和婚禮／結婚經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、婚禮／結婚經歷、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -3166,8 +4144,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1768364807.A.1A4.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒、學習／教育有關，也提到自己感到壓力。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、學習／教育，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3179,9 +4157,23 @@
       "created_at_source": "2026-01-14T04:26:45+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1721528491.A.A95.html",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、職場相處／工作條件、朋友／社交，並提到自己感到開心。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-07-21T02:21:29+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1640940376.A.8D8.html",
-      "title": "健康／生活條件和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到健康／生活條件、學習／教育、消費／服務體驗。",
+      "title": "健康／生活條件和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到健康／生活條件、學習／教育、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -3192,9 +4184,22 @@
       "created_at_source": "2021-12-31T08:46:14+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1641173649.A.B89.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、家庭／育兒和朋友／社交。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2022-01-03T01:34:07+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1640247281.A.8F9.html",
-      "title": "聊到財務／退休規劃這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和財務／退休規劃、朋友／社交、睡眠／身心狀態有關，也提到自己感到壓力。",
+      "title": "財務／退休規劃這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和財務／退休規劃有關的親身經歷。過程也牽涉到財務／退休規劃、朋友／社交、睡眠／身心狀態，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3207,8 +4212,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1640245235.A.142.html",
-      "title": "聊到財務／退休規劃這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和財務／退休規劃、居住／房產有關，也提到自己感到壓力。",
+      "title": "財務／退休規劃這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和財務／退休規劃有關的親身經歷。過程也牽涉到財務／退休規劃、居住／房產，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3221,8 +4226,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777006822.A.5B8.html",
-      "title": "聊到健康／生活條件這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和健康／生活條件、學習／教育有關，也提到自己感到開心。",
+      "title": "健康／生活條件這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和健康／生活條件有關的親身經歷。過程也牽涉到健康／生活條件、學習／教育，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3235,8 +4240,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1777013674.A.42C.html",
-      "title": "伴侶／婚姻互動和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、朋友／社交、騷擾／人身安全。",
+      "title": "伴侶／婚姻互動和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、朋友／社交、騷擾／人身安全。",
       "classification_axes": [
         "topic"
       ],
@@ -3248,8 +4253,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1639818904.A.B12.html",
-      "title": "聊到旅行／移動經歷這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和旅行／移動經歷、寵物／陪伴有關，也提到自己感到焦慮。",
+      "title": "旅行／移動經歷這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和旅行／移動經歷有關的親身經歷。過程也牽涉到旅行／移動經歷、寵物／陪伴，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3263,7 +4268,7 @@
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1761677133.A.45E.html",
       "title": "兩個人在一起，錢到底怎麼分才舒服？",
-      "human_voice": "有人正為關係中的金錢分擔、朋友／社交這些事找方向。有人正在協調伴侶之間的費用分擔與期待，希望找到彼此都能接受的方式。 這件事也讓他感到壓力。",
+      "human_voice": "這次真正想處理的具體情境同時牽涉關係中的金錢分擔和朋友／社交。 也明確提到自己感到壓力。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -3277,8 +4282,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1638597456.A.BB3.html",
-      "title": "換工作／職涯轉換和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、家庭／育兒、學習／教育。",
+      "title": "換工作／職涯轉換和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、家庭／育兒、學習／教育。",
       "classification_axes": [
         "topic"
       ],
@@ -3289,9 +4294,23 @@
       "created_at_source": "2021-12-04T05:57:33+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1637311235.A.B67.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、伴侶／婚姻互動和婚禮／結婚經歷。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-11-19T08:40:33+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1765650041.A.F07.html",
-      "title": "聊到朋友／社交這件事，心裡最明顯的是害怕",
-      "human_voice": "有人分享了自己遇到的事。內容和朋友／社交、健康／生活條件有關，也提到自己感到害怕。",
+      "title": "朋友／社交這件事，為什麼最後讓我覺得害怕？",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷。過程也牽涉到朋友／社交、健康／生活條件，並提到自己感到害怕。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3304,8 +4323,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1718723078.A.10B.html",
-      "title": "明明想好好說，為什麼伴侶溝通還是卡住？",
-      "human_voice": "有人正為換工作／職涯轉換、職場相處／工作條件這些事找方向。有人正在面對伴侶溝通上的卡關，希望更理解問題並改善互動。",
+      "title": "明明想好好溝通，為什麼我們一開口又卡住？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和伴侶／婚姻互動。",
       "classification_axes": [
         "topic"
       ],
@@ -3317,8 +4336,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1635229915.A.5F3.html",
-      "title": "聊到求職／面試這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和求職／面試、家庭／育兒、朋友／社交有關，也提到自己感到焦慮。",
+      "title": "求職／面試這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和求職／面試有關的親身經歷。過程也牽涉到求職／面試、家庭／育兒、朋友／社交，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3330,9 +4349,24 @@
       "created_at_source": "2021-10-26T06:31:53+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1634743642.A.C6B.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和家庭／育兒。 也明確提到自己感到壓力。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-10-20T15:27:20+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1634978081.A.C58.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為職場相處／工作條件、財務／退休規劃這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、財務／退休規劃和朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -3344,8 +4378,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1764261740.A.00A.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒、朋友／社交、健康／生活條件有關，也提到自己感到挫折。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、朋友／社交、健康／生活條件，並提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3358,8 +4392,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760184375.A.DEE.html",
-      "title": "伴侶／婚姻互動和朋友／社交碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、朋友／社交、寵物／陪伴。",
+      "title": "伴侶／婚姻互動和朋友／社交碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、朋友／社交、寵物／陪伴。",
       "classification_axes": [
         "topic"
       ],
@@ -3370,9 +4404,36 @@
       "created_at_source": "2025-10-11T12:06:10+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1632888341.A.2BC.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、學習／教育和旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-29T04:05:38+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762426195.A.F12.html",
+      "title": "健康／生活條件這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和健康／生活條件有關的親身經歷，也提到自己感到焦慮。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-11-06T10:49:53+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1760108616.A.872.html",
-      "title": "居住／房產和婚禮／結婚經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、婚禮／結婚經歷、旅行／移動經歷。",
+      "title": "居住／房產和婚禮／結婚經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、婚禮／結婚經歷、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -3384,8 +4445,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1762126518.A.B50.html",
-      "title": "聊到伴侶／婚姻互動這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和伴侶／婚姻互動、家庭／育兒、健康／生活條件有關，也提到自己感到開心。",
+      "title": "伴侶／婚姻互動這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和伴侶／婚姻互動有關的親身經歷。過程也牽涉到伴侶／婚姻互動、家庭／育兒、健康／生活條件，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3398,8 +4459,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1759753143.A.7B2.html",
-      "title": "伴侶／婚姻互動和寵物／陪伴碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、寵物／陪伴。",
+      "title": "伴侶／婚姻互動和寵物／陪伴碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、寵物／陪伴。",
       "classification_axes": [
         "topic"
       ],
@@ -3410,9 +4471,50 @@
       "created_at_source": "2025-10-06T12:18:58+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1759823718.A.EDF.html",
+      "title": "朋友／社交這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷，也提到自己感到開心。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "感情／關係",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-07T07:55:15+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1631540994.A.E94.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、財務／退休規劃和婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-13T13:49:51+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1760636868.A.F6E.html",
+      "title": "朋友／社交這件事，為什麼最後讓我覺得害怕？",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷，也提到自己感到害怕。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-16T17:47:46+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1630776252.A.F7A.html",
-      "title": "聊到居住／房產這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和居住／房產、伴侶／婚姻互動、學習／教育有關，也提到自己感到挫折。",
+      "title": "居住／房產這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和居住／房產有關的親身經歷。過程也牽涉到居住／房產、伴侶／婚姻互動、學習／教育，並提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3424,9 +4526,36 @@
       "created_at_source": "2021-09-04T17:24:10+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1631428802.A.7AD.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、伴侶／婚姻互動和健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-09-12T06:40:00+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1760336371.A.156.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、婚禮／結婚經歷和家庭／育兒。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-10-13T06:19:29+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1760449361.A.9CC.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是孤單",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒有關，也提到自己感到孤單。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得孤單？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷，也提到自己感到孤單。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3438,23 +4567,38 @@
       "created_at_source": "2025-10-14T13:42:39+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1775641943.A.171.html",
-      "title": "聊到財務／退休規劃這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和財務／退休規劃、學習／教育有關，也提到自己感到焦慮。",
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1630078265.A.9B5.html",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、學習／教育，並提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
       ],
-      "topic_label": "財務／退休",
+      "topic_label": "求職／職涯",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2026-04-08T09:52:21+00:00"
+      "created_at_source": "2021-08-27T15:31:03+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1630114844.A.D23.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試和居住／房產。 也明確提到自己感到害怕。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-08-28T01:40:42+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1630220947.A.BDB.html",
-      "title": "遇到讓人不舒服的騷擾，接下來可以怎麼做？",
-      "human_voice": "有人正為財務／退休規劃、關係中的金錢分擔這些事找方向。有人正在面對騷擾與安全上的困擾，希望釐清可以如何回應。 這件事也讓他感到挫折。",
+      "title": "遇到讓我不舒服的騷擾，接下來可以怎麼做？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃、關係中的金錢分擔和居住／房產。 也明確提到自己感到挫折。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -3467,23 +4611,9 @@
       "created_at_source": "2021-08-29T07:09:05+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/Salary/M.1715142156.A.DF8.html",
-      "title": "聊到朋友／社交這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和朋友／社交、健康／生活條件、學習／教育有關，也提到自己感到壓力。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "工作／職涯",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2024-05-08T04:22:34+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1758914688.A.2D3.html",
-      "title": "居住／房產和旅行／移動經歷碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、旅行／移動經歷。",
+      "title": "居住／房產和旅行／移動經歷碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -3495,8 +4625,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1714996908.A.C06.html",
-      "title": "換工作／職涯轉換和求職／面試碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、求職／面試、旅行／移動經歷。",
+      "title": "換工作／職涯轉換和求職／面試碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、求職／面試、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -3507,9 +4637,23 @@
       "created_at_source": "2024-05-06T12:01:46+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1775387532.A.122.html",
+      "title": "旅行／移動經歷這件事，為什麼最後讓我覺得難過？",
+      "human_voice": "分享的是一段和旅行／移動經歷有關的親身經歷，也提到自己感到難過。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-04-05T11:12:09+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1775390770.A.E44.html",
-      "title": "職場相處／工作條件和健康／生活條件碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、健康／生活條件。",
+      "title": "職場相處／工作條件和健康／生活條件碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、健康／生活條件。",
       "classification_axes": [
         "topic"
       ],
@@ -3521,8 +4665,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1714207633.A.45F.html",
-      "title": "換工作／職涯轉換和健康／生活條件碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、健康／生活條件。",
+      "title": "換工作／職涯轉換和健康／生活條件碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、健康／生活條件。",
       "classification_axes": [
         "topic"
       ],
@@ -3534,8 +4678,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1759037791.A.0A4.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、家庭／育兒、朋友／社交有關，也提到自己感到挫折。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、家庭／育兒、朋友／社交，並提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3548,8 +4692,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1758682882.A.FC0.html",
-      "title": "求職／面試和財務／退休規劃碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、財務／退休規劃、健康／生活條件。",
+      "title": "求職／面試和財務／退休規劃碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、財務／退休規劃、健康／生活條件。",
       "classification_axes": [
         "topic"
       ],
@@ -3561,8 +4705,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1629185169.A.4D1.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為財務／退休規劃、消費／服務體驗這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃和消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -3574,8 +4718,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1775219139.A.0DB.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是難過",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒、健康／生活條件、失落／告別經歷有關，也提到自己感到難過。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得難過？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、健康／生活條件、失落／告別經歷，並提到自己感到難過。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3588,8 +4732,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1713586289.A.4E3.html",
-      "title": "換工作／職涯轉換和居住／房產碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、居住／房產、朋友／社交。",
+      "title": "換工作／職涯轉換和居住／房產碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、居住／房產、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -3600,9 +4744,22 @@
       "created_at_source": "2024-04-20T04:11:27+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1713233624.A.207.html",
+      "title": "職場相處／工作條件和財務／退休規劃碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、財務／退休規劃、婚禮／結婚經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": null
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1757902156.A.8B7.html",
-      "title": "聊到朋友／社交這件事，心裡最明顯的是難過",
-      "human_voice": "有人分享了自己遇到的事。內容和朋友／社交有關，也提到自己感到難過。",
+      "title": "朋友／社交這件事，為什麼最後讓我覺得難過？",
+      "human_voice": "分享的是一段和朋友／社交有關的親身經歷，也提到自己感到難過。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3615,8 +4772,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1757596955.A.574.html",
-      "title": "換工作／職涯轉換和職場相處／工作條件碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、職場相處／工作條件、健康／生活條件。",
+      "title": "換工作／職涯轉換和職場相處／工作條件碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、職場相處／工作條件、健康／生活條件。",
       "classification_axes": [
         "topic"
       ],
@@ -3627,9 +4784,23 @@
       "created_at_source": "2025-09-11T13:22:33+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1626371641.A.C46.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、居住／房產和伴侶／婚姻互動。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-07-15T17:53:59+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1626599915.A.EDF.html",
-      "title": "求職／面試和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到求職／面試、家庭／育兒、朋友／社交。",
+      "title": "求職／面試和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到求職／面試、家庭／育兒、朋友／社交。",
       "classification_axes": [
         "topic"
       ],
@@ -3640,9 +4811,23 @@
       "created_at_source": "2021-07-18T09:18:31+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1774543521.A.8F1.html",
+      "title": "婚禮／結婚經歷這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和婚禮／結婚經歷有關的親身經歷，也提到自己感到挫折。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-26T16:45:19+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1625351349.A.BB5.html",
-      "title": "遇到讓人不舒服的騷擾，接下來可以怎麼做？",
-      "human_voice": "有人正為職場相處／工作條件、伴侶／婚姻互動這些事找方向。有人正在面對騷擾與安全上的困擾，希望釐清可以如何回應。",
+      "title": "遇到讓我不舒服的騷擾，接下來可以怎麼做？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、伴侶／婚姻互動和家庭／育兒。",
       "classification_axes": [
         "pain",
         "topic"
@@ -3654,22 +4839,24 @@
       "created_at_source": "2021-07-03T22:29:07+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1625586798.A.872.html",
-      "title": "想換工作，又怕選錯：該怎麼判斷？",
-      "human_voice": "有人正為求職／面試、伴侶／婚姻互動這些事找方向。有人正在評估是否換工作或轉換職涯，希望把利弊與下一步想清楚。",
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1625595281.A.32C.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、求職／面試和旅行／移動經歷。 也明確提到自己感到焦慮。",
       "classification_axes": [
+        "pain",
+        "emotion",
         "topic"
       ],
       "topic_label": "求職／職涯",
       "age": "未知",
       "market": "台灣",
       "region": "亞洲",
-      "created_at_source": "2021-07-06T15:53:16+00:00"
+      "created_at_source": "2021-07-06T18:14:39+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1757142504.A.6CD.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、財務／退休規劃、伴侶／婚姻互動有關，也提到自己感到挫折。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、財務／退休規劃、伴侶／婚姻互動，並提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3682,8 +4869,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1624756898.A.11F.html",
-      "title": "聊到學習／教育這件事，心裡最明顯的是壓力",
-      "human_voice": "有人分享了自己遇到的事。內容和學習／教育有關，也提到自己感到壓力。",
+      "title": "學習／教育這件事，為什麼最後讓我覺得壓力？",
+      "human_voice": "分享的是一段和學習／教育有關的親身經歷，也提到自己感到壓力。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3695,9 +4882,22 @@
       "created_at_source": "2021-06-27T01:21:36+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1711510943.A.32E.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和關係中的金錢分擔。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-03-27T03:42:21+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1756950294.A.54E.html",
-      "title": "聊到居住／房產這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和居住／房產、旅行／移動經歷有關，也提到自己感到挫折。",
+      "title": "居住／房產這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和居住／房產有關的親身經歷。過程也牽涉到居住／房產、旅行／移動經歷，並提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3709,37 +4909,9 @@
       "created_at_source": "2025-09-04T01:44:52+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1756966146.A.7FD.html",
-      "title": "聊到伴侶／婚姻互動這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和伴侶／婚姻互動、騷擾／人身安全、學習／教育有關，也提到自己感到開心。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "感情／關係",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-09-04T06:09:04+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1757011509.A.E95.html",
-      "title": "想睡得更好、讓自己舒服一點，可以從哪裡開始？",
-      "human_voice": "有人正為伴侶／婚姻互動、朋友／社交這些事找方向。有人正在尋找改善睡眠或身心狀態的方法，希望讓日常感受好一些。",
-      "classification_axes": [
-        "pain",
-        "topic"
-      ],
-      "topic_label": "睡眠／身心",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-09-04T18:45:07+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1711090842.A.C1C.html",
-      "title": "換工作／職涯轉換和求職／面試碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到換工作／職涯轉換、求職／面試、健康／生活條件。",
+      "title": "換工作／職涯轉換和求職／面試碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到換工作／職涯轉換、求職／面試、健康／生活條件。",
       "classification_axes": [
         "topic"
       ],
@@ -3751,8 +4923,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1710688246.A.953.html",
-      "title": "職場相處／工作條件和居住／房產碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到職場相處／工作條件、居住／房產、伴侶／婚姻互動。",
+      "title": "職場相處／工作條件和居住／房產碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到職場相處／工作條件、居住／房產、伴侶／婚姻互動。",
       "classification_axes": [
         "topic"
       ],
@@ -3764,8 +4936,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1755253854.A.EA0.html",
-      "title": "聊到婚禮／結婚經歷這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和婚禮／結婚經歷、家庭／育兒、消費／服務體驗有關，也提到自己感到焦慮。",
+      "title": "婚禮／結婚經歷這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和婚禮／結婚經歷有關的親身經歷。過程也牽涉到婚禮／結婚經歷、家庭／育兒、消費／服務體驗，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3778,8 +4950,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1773933084.A.BEC.html",
-      "title": "工作條件不太對勁時，自己的權益怎麼顧？",
-      "human_voice": "有人正為學習／教育這些事找方向。有人正在面對職場條件或權益上的疑問，希望知道可以怎麼處理。",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境是學習／教育。",
       "classification_axes": [
         "pain",
         "topic"
@@ -3791,9 +4963,22 @@
       "created_at_source": "2026-03-19T15:11:22+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1709817236.A.4B2.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉求職／面試、職場相處／工作條件和伴侶／婚姻互動。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-03-07T13:13:47+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1773823153.A.3E2.html",
-      "title": "財務／退休規劃和消費／服務體驗碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到財務／退休規劃、消費／服務體驗。",
+      "title": "財務／退休規劃和消費／服務體驗碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到財務／退休規劃、消費／服務體驗。",
       "classification_axes": [
         "topic"
       ],
@@ -3804,9 +4989,37 @@
       "created_at_source": "2026-03-18T08:39:08+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1753843899.A.F64.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉財務／退休規劃和家庭／育兒。 也明確提到自己感到焦慮。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-07-30T02:51:37+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1618990093.A.017.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和健康／生活條件。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2021-04-21T07:28:11+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1773734293.A.065.html",
-      "title": "聊到婚禮／結婚經歷這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和婚禮／結婚經歷、朋友／社交有關，也提到自己感到開心。",
+      "title": "婚禮／結婚經歷這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和婚禮／結婚經歷有關的親身經歷。過程也牽涉到婚禮／結婚經歷、朋友／社交，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3819,8 +5032,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1753106584.A.AC2.html",
-      "title": "聊到婚禮／結婚經歷這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和婚禮／結婚經歷、家庭／育兒、學習／教育有關，也提到自己感到開心。",
+      "title": "婚禮／結婚經歷這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和婚禮／結婚經歷有關的親身經歷。過程也牽涉到婚禮／結婚經歷、家庭／育兒、學習／教育，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3833,8 +5046,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1616414872.A.D32.html",
-      "title": "聊到學習／教育這件事，心裡最明顯的是害怕",
-      "human_voice": "有人分享了自己遇到的事。內容和學習／教育有關，也提到自己感到害怕。",
+      "title": "學習／教育這件事，為什麼最後讓我覺得害怕？",
+      "human_voice": "分享的是一段和學習／教育有關的親身經歷，也提到自己感到害怕。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3846,9 +5059,37 @@
       "created_at_source": "2021-03-22T12:07:50+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1752603683.A.D5B.html",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、消費／服務體驗，並提到自己感到開心。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-07-15T18:21:21+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1707446995.A.002.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、職場相處／工作條件和伴侶／婚姻互動。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2024-02-09T02:49:51+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1751245787.A.8FA.html",
-      "title": "聊到家庭／育兒這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和家庭／育兒、寵物／陪伴有關，也提到自己感到焦慮。",
+      "title": "家庭／育兒這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和家庭／育兒有關的親身經歷。過程也牽涉到家庭／育兒、寵物／陪伴，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3861,8 +5102,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1773008902.A.21C.html",
-      "title": "居住／房產和家庭／育兒碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到居住／房產、家庭／育兒、失落／告別經歷。",
+      "title": "居住／房產和家庭／育兒碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到居住／房產、家庭／育兒、失落／告別經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -3874,8 +5115,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1773045042.A.E49.html",
-      "title": "遇到讓人不舒服的騷擾，接下來可以怎麼做？",
-      "human_voice": "有人正為朋友／社交、騷擾／人身安全這些事找方向。有人正在面對騷擾與安全上的困擾，希望釐清可以如何回應。 這件事也讓他感到焦慮。",
+      "title": "遇到讓我不舒服的騷擾，接下來可以怎麼做？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉朋友／社交和騷擾／人身安全。 也明確提到自己感到焦慮。",
       "classification_axes": [
         "pain",
         "emotion",
@@ -3889,8 +5130,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1755063167.A.B91.html",
-      "title": "聊到居住／房產這件事，心裡最明顯的是開心",
-      "human_voice": "有人分享了自己遇到的事。內容和居住／房產、伴侶／婚姻互動、旅行／移動經歷有關，也提到自己感到開心。",
+      "title": "居住／房產這件事，為什麼最後讓我覺得開心？",
+      "human_voice": "分享的是一段和居住／房產有關的親身經歷。過程也牽涉到居住／房產、伴侶／婚姻互動、旅行／移動經歷，並提到自己感到開心。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3903,8 +5144,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1755063774.A.B16.html",
-      "title": "聊到居住／房產這件事，心裡最明顯的是焦慮",
-      "human_voice": "有人分享了自己遇到的事。內容和居住／房產、伴侶／婚姻互動、朋友／社交有關，也提到自己感到焦慮。",
+      "title": "居住／房產這件事，為什麼最後讓我覺得焦慮？",
+      "human_voice": "分享的是一段和居住／房產有關的親身經歷。過程也牽涉到居住／房產、伴侶／婚姻互動、朋友／社交，並提到自己感到焦慮。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3916,9 +5157,22 @@
       "created_at_source": "2025-08-13T05:42:52+00:00"
     },
     {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1750816877.A.27A.html",
+      "title": "最近睡不好，我可以從哪裡開始調整？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉家庭／育兒、睡眠／身心狀態和旅行／移動經歷。",
+      "classification_axes": [
+        "topic"
+      ],
+      "topic_label": "睡眠／身心",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-06-25T02:01:15+00:00"
+    },
+    {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1614252142.A.937.html",
-      "title": "聊到換工作／職涯轉換這件事，心裡最明顯的是挫折",
-      "human_voice": "有人分享了自己遇到的事。內容和換工作／職涯轉換、求職／面試、消費／服務體驗有關，也提到自己感到挫折。",
+      "title": "換工作／職涯轉換這件事，為什麼最後讓我覺得挫折？",
+      "human_voice": "分享的是一段和換工作／職涯轉換有關的親身經歷。過程也牽涉到換工作／職涯轉換、求職／面試、消費／服務體驗，並提到自己感到挫折。",
       "classification_axes": [
         "emotion",
         "topic"
@@ -3931,8 +5185,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1772784217.A.963.html",
-      "title": "伴侶／婚姻互動和睡眠／身心狀態碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到伴侶／婚姻互動、睡眠／身心狀態。",
+      "title": "伴侶／婚姻互動和睡眠／身心狀態碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到伴侶／婚姻互動、睡眠／身心狀態。",
       "classification_axes": [
         "topic"
       ],
@@ -3944,8 +5198,8 @@
     },
     {
       "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1613996034.A.4A3.html",
-      "title": "健康／生活條件和學習／教育碰在一起時，生活會是什麼樣子？",
-      "human_voice": "有人分享了一段自己的經歷，裡面同時談到健康／生活條件、學習／教育、旅行／移動經歷。",
+      "title": "健康／生活條件和學習／教育碰在一起時，我會怎麼面對？",
+      "human_voice": "分享的是一段親身經歷，裡面同時談到健康／生活條件、學習／教育、旅行／移動經歷。",
       "classification_axes": [
         "topic"
       ],
@@ -3954,6 +5208,47 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2021-02-22T12:13:52+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1750219064.A.9FD.html",
+      "title": "有件事一直放在心上，也讓我感到焦慮",
+      "human_voice": "正在說一件放在心上的事，也直接提到自己感到焦慮。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "生活議題",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-06-18T03:57:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1789191597.A.0BB.html",
+      "title": "有件事一直放在心上，也讓我感到壓力",
+      "human_voice": "正在說一件放在心上的事，也直接提到自己感到壓力。",
+      "classification_axes": [
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "關係／金錢",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-09-12T05:39:55+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1772701608.A.38E.html",
+      "title": "有件事一直放在心上，也讓我感到挫折",
+      "human_voice": "正在說一件放在心上的事，也直接提到自己感到挫折。",
+      "classification_axes": [
+        "emotion"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-03-05T09:06:46+00:00"
     }
   ]
 }
