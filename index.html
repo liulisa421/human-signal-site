@@ -50,18 +50,36 @@ const HERO='https://images.unsplash.com/photo-1606197469884-00fba216f529?auto=fo
 const STUDY='https://images.unsplash.com/photo-1759984782211-3a02ca78e6ac?auto=format&fit=crop&fm=jpg&q=78&w=1200';
 const WEDDING='https://images.unsplash.com/photo-1677768062220-32f1658715c4?auto=format&fit=crop&fm=jpg&q=78&w=1200';
 const SLEEP='https://images.unsplash.com/photo-1758273239288-9b60777397c5?auto=format&fit=crop&fm=jpg&q=78&w=1200';
+const WORK='https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&fm=jpg&q=78&w=1200';
+const HOME='https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&fm=jpg&q=78&w=1200';
+const MONEY='https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&fm=jpg&q=78&w=1200';
+const PAUSE='https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&fm=jpg&q=78&w=1200';
 const css=`
 .hero{background-image:linear-gradient(90deg,rgba(19,24,24,.72),rgba(19,24,24,.28)),url('${HERO}')!important;background-size:cover!important;background-position:center 48%!important;}
 .hero:before{display:none!important}.hero-copy{max-width:720px}.hero p{max-width:650px}.hero-search{backdrop-filter:blur(8px)}
 .signal-visual{height:122px!important;background-size:cover!important;background-position:center!important}.signal-visual:after{display:none!important}
 .signal-card{padding:14px!important;overflow:hidden}.signal-card h3{font-size:17px!important}.count{margin-top:2px}.tags{display:none!important}.card .pill{display:none!important}
-#resonance .eyebrow{display:none!important}.res-card{background:rgba(255,255,255,.94)!important}
+.eyebrow{display:none!important}.res-card{background:rgba(255,255,255,.94)!important}
 @media(max-width:620px){.hero{min-height:480px!important;background-position:center!important}.hero h1{font-size:42px!important;line-height:1.08!important}.signal-grid{display:flex!important;overflow-x:auto!important;scroll-snap-type:x mandatory;padding-bottom:8px}.signal-card{min-width:78vw!important;scroll-snap-align:start}.signal-visual{height:150px!important}.resonance-grid{display:grid!important;grid-template-columns:1fr!important}.card{padding:18px!important}}
 `;
 const style=document.createElement('style');style.dataset.humanSignalPresentation='v2';style.textContent=css;document.head.appendChild(style);
-const res=document.getElementById('resonance');if(res){const h=res.querySelector('h2');if(h)h.textContent='有些生活，你可能也熟悉';const p=res.querySelector('.lead');if(p)p.textContent='不一定相同，但有些時刻會讓人想起自己的日子。';}
-function photoFor(text=''){const s=String(text);if(/婚禮|結婚|婚姻/.test(s))return WEDDING;if(/睡|失眠|休息/.test(s))return SLEEP;if(/學習|教育|考試|學生/.test(s))return STUDY;return HERO;}
-function apply(root=document){root.querySelectorAll?.('.signal-card').forEach(card=>{const visual=card.querySelector('.signal-visual');if(!visual)return;const title=card.querySelector('h3')?.textContent||'';visual.style.backgroundImage=`linear-gradient(0deg,rgba(28,24,20,.12),rgba(28,24,20,.02)),url('${photoFor(title)}')`;});root.querySelectorAll?.('.tags').forEach(x=>x.remove());root.querySelectorAll?.('.card .pill').forEach(x=>x.remove());}
+function rewriteSection(id,title,lead){const el=document.getElementById(id);if(!el)return;const h=el.querySelector('h2');if(h&&title)h.textContent=title;const p=el.querySelector('.lead');if(p&&lead)p.textContent=lead;}
+rewriteSection('now','最近很多人在說…','有些日子，正在不同人的生活裡一再出現。');
+rewriteSection('resonance','有些生活，你可能也熟悉','不一定相同，但有些時刻會讓人想起自己的日子。');
+rewriteSection('person','今天，走進一個人的生活','先聽見大家都在說什麼，再走近一點，讀一段真實生活。想知道完整故事，再回到原始分享。');
+rewriteSection('explore','再逛逛，看見更多人的日子','有想看的就搜；沒有也沒關係，往下逛，看看今天會遇見誰的故事。');
+function photoFor(text='',index=0){
+  const s=String(text);
+  if(/婚禮|結婚|婚姻|伴侶|感情|戀愛/.test(s))return WEDDING;
+  if(/睡|失眠|休息|疲憊|累了|熬夜/.test(s))return SLEEP;
+  if(/學習|教育|考試|學生|學校|課業/.test(s))return STUDY;
+  if(/工作|職場|上班|加班|老闆|同事|離職|求職|面試|失業/.test(s))return WORK;
+  if(/錢|薪水|收入|存款|投資|房價|買房|租房|房租|貸款|經濟|物價/.test(s))return MONEY;
+  if(/家庭|家人|父母|媽媽|爸爸|孩子|育兒|小孩|照顧|回家/.test(s))return HOME;
+  const pool=[HERO,WORK,HOME,PAUSE,STUDY,SLEEP];
+  return pool[index%pool.length];
+}
+function apply(root=document){root.querySelectorAll?.('.signal-card').forEach((card,index)=>{const visual=card.querySelector('.signal-visual');if(!visual)return;const title=card.querySelector('h3')?.textContent||'';visual.style.backgroundImage=`linear-gradient(0deg,rgba(28,24,20,.12),rgba(28,24,20,.02)),url('${photoFor(title,index)}')`;});root.querySelectorAll?.('.tags').forEach(x=>x.remove());root.querySelectorAll?.('.card .pill').forEach(x=>x.remove());}
 const mo=new MutationObserver(ms=>{for(const m of ms)for(const n of m.addedNodes)if(n.nodeType===1)apply(n)});mo.observe(document.documentElement,{childList:true,subtree:true});apply();
 })();
 </script></body></html>
