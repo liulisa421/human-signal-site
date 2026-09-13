@@ -67,8 +67,8 @@ const recentButton=document.querySelector('.jump button[data-scope="today"]');if
 function rewriteSection(id,title,lead){const el=document.getElementById(id);if(!el)return;const h=el.querySelector('h2');if(h&&title)h.textContent=title;const p=el.querySelector('.lead');if(p&&lead)p.textContent=lead;}
 rewriteSection('now','最近很多人在說…','有些日子，正在不同人的生活裡一再出現。');
 rewriteSection('resonance','有些生活，你可能也熟悉','不一定相同，但有些時刻會讓人想起自己的日子。');
-rewriteSection('person','今天，走進一個人的生活','先聽見大家都在說什麼，再走近一點，讀一段真實生活。想知道完整故事，再回到原始分享。');
-rewriteSection('explore','再逛逛，看見更多人的日子','有想看的就搜；沒有也沒關係，往下逛，看看今天會遇見誰的故事。');
+rewriteSection('person','走進一個人的生活','先聽見大家都在說什麼，再走近一點，讀一段真實生活。想知道完整故事，再回到原始分享。');
+rewriteSection('explore','再逛逛，看見更多人的日子','有想看的就搜；沒有也沒關係，往下逛，看看會遇見誰的故事。');
 function humanTitle(value=''){
   const raw=String(value).trim().replace(/覺得覺得/g,'覺得');
   let m=raw.match(/^(.+?)這件事，為什麼最後讓我覺得(.+?)[？?]?$/);
