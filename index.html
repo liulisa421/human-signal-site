@@ -58,7 +58,7 @@ const css=`
 .hero{background-image:linear-gradient(90deg,rgba(19,24,24,.72),rgba(19,24,24,.28)),url('${HERO}')!important;background-size:cover!important;background-position:center 48%!important;}
 .hero:before{display:none!important}.hero-copy{max-width:720px}.hero p{max-width:650px}.hero-search{backdrop-filter:blur(8px)}
 .signal-visual{height:122px!important;background-size:cover!important;background-position:center!important}.signal-visual:after{display:none!important}
-.signal-card{padding:14px!important;overflow:hidden}.signal-card h3{font-size:17px!important}.count{margin-top:2px}.tags{display:none!important}.card .pill{display:none!important}
+.signal-card{padding:14px!important;overflow:hidden}.signal-card h3{font-size:17px!important}.count{margin-top:2px}.tags,.story-meta,.mini-meta{display:none!important}.card .pill{display:none!important}
 .eyebrow{display:none!important}.res-card{background:rgba(255,255,255,.94)!important}
 @media(max-width:620px){.hero{min-height:480px!important;background-position:center!important}.hero h1{font-size:42px!important;line-height:1.08!important}.signal-grid{display:flex!important;overflow-x:auto!important;scroll-snap-type:x mandatory;padding-bottom:8px}.signal-card{min-width:78vw!important;scroll-snap-align:start}.signal-visual{height:150px!important}.resonance-grid{display:grid!important;grid-template-columns:1fr!important}.card{padding:18px!important}}
 `;
@@ -91,7 +91,7 @@ function matching(root,selector){const out=[];if(root?.matches?.(selector))out.p
 function apply(root=document){
   matching(root,'.signal-card').forEach((card,index)=>{const visual=card.querySelector('.signal-visual');if(!visual)return;const title=card.querySelector('h3')?.textContent||'';visual.style.backgroundImage=`linear-gradient(0deg,rgba(28,24,20,.12),rgba(28,24,20,.02)),url('${photoFor(title,index)}')`;});
   matching(root,'.signal-card h3,.res-card blockquote,#story h3,.card h3').forEach(el=>{const next=humanTitle(el.textContent||'');if(next&&next!==el.textContent)el.textContent=next;});
-  matching(root,'.tags').forEach(x=>x.remove());
+  matching(root,'.tags,.story-meta,.mini-meta').forEach(x=>x.remove());
   matching(root,'.card .pill').forEach(x=>x.remove());
 }
 const mo=new MutationObserver(ms=>{for(const m of ms)for(const n of m.addedNodes)if(n.nodeType===1)apply(n)});mo.observe(document.documentElement,{childList:true,subtree:true});apply();
