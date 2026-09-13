@@ -1,6 +1,6 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-13T21:10:22.493944+00:00",
+  "generated_at": "2026-09-13T23:32:19.217608+00:00",
   "items": [
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788783720.A.299.html",
@@ -6505,33 +6505,6 @@
       "created_at_source": "2024-02-09T02:49:51+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1751245787.A.8FA.html",
-      "title": "家庭／育兒碰上寵物／陪伴時，我真的覺得焦慮",
-      "human_voice": "這段分享談到家庭／育兒、寵物／陪伴，也直接提到自己感到焦慮。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "生活議題",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-06-30T01:09:45+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1773008902.A.21C.html",
-      "title": "居住／房產和家庭／育兒，我剛好都遇上了",
-      "human_voice": "這段分享同時談到居住／房產、家庭／育兒、失落／告別經歷。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "日常生活／人際",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2026-03-08T22:28:20+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1773045042.A.E49.html",
       "title": "遇到讓我不舒服的騷擾，接下來可以怎麼做？",
       "human_voice": "這次真正想處理的具體情境同時牽涉朋友／社交和騷擾／人身安全。 也明確提到自己感到焦慮。",
@@ -6547,34 +6520,6 @@
       "created_at_source": "2026-03-09T08:30:40+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1755063167.A.B91.html",
-      "title": "居住／房產碰上伴侶／婚姻互動時，我真的覺得開心",
-      "human_voice": "這段分享談到居住／房產、伴侶／婚姻互動、旅行／移動經歷，也直接提到自己感到開心。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "感情／關係",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-08-13T05:32:45+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1755063774.A.B16.html",
-      "title": "居住／房產碰上伴侶／婚姻互動時，我真的覺得焦慮",
-      "human_voice": "這段分享談到居住／房產、伴侶／婚姻互動、朋友／社交，也直接提到自己感到焦慮。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "感情／關係",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-08-13T05:42:52+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1750816877.A.27A.html",
       "title": "最近睡不好，我可以從哪裡開始調整？",
       "human_voice": "這次真正想處理的具體情境同時牽涉家庭／育兒、睡眠／身心狀態和旅行／移動經歷。",
@@ -6586,73 +6531,6 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2025-06-25T02:01:15+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1754920791.A.3DF.html",
-      "title": "職場相處／工作條件碰上朋友／社交時，我真的覺得開心",
-      "human_voice": "這段分享談到職場相處／工作條件、朋友／社交、學習／教育，也直接提到自己感到開心。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "感情／關係",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-08-11T13:59:49+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1754970389.A.5D4.html",
-      "title": "旅行／移動經歷和認識新對象／聯絡變化，我剛好都遇上了",
-      "human_voice": "這段分享同時談到旅行／移動經歷、認識新對象／聯絡變化。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "感情／關係",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-08-12T03:46:27+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1614252142.A.937.html",
-      "title": "換工作／職涯轉換碰上求職／面試時，我真的覺得挫折",
-      "human_voice": "這段分享談到換工作／職涯轉換、求職／面試、消費／服務體驗，也直接提到自己感到挫折。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "求職／職涯",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2021-02-25T11:22:20+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1772784217.A.963.html",
-      "title": "伴侶／婚姻互動和睡眠／身心狀態，我剛好都遇上了",
-      "human_voice": "這段分享同時談到伴侶／婚姻互動、睡眠／身心狀態。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "睡眠／身心",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2026-03-06T08:03:35+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1613996034.A.4A3.html",
-      "title": "健康／生活條件和學習／教育，我剛好都遇上了",
-      "human_voice": "這段分享同時談到健康／生活條件、學習／教育、旅行／移動經歷。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "工作／職涯",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2021-02-22T12:13:52+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1750219064.A.9FD.html",
@@ -6696,32 +6574,6 @@
       "created_at_source": "2026-03-05T09:06:46+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1611736544.A.105.html",
-      "title": "換工作／職涯轉換和財務／退休規劃，我剛好都遇上了",
-      "human_voice": "這段分享同時談到換工作／職涯轉換、財務／退休規劃、朋友／社交。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "財務／退休",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2021-01-27T08:35:42+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1612014979.A.DC3.html",
-      "title": "求職／面試和家庭／育兒，我剛好都遇上了",
-      "human_voice": "這段分享同時談到求職／面試、家庭／育兒、學習／教育。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "工作／職涯",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2021-01-30T13:56:17+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1705422071.A.F14.html",
       "title": "有件事一直放在心上，也讓我感到害怕",
       "human_voice": "正在說一件放在心上的事，也直接提到自己感到害怕。",
@@ -6749,47 +6601,6 @@
       "created_at_source": "2024-01-17T15:30:12+00:00"
     },
     {
-      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1749707177.A.56A.html",
-      "title": "家庭／育兒碰上朋友／社交時，我真的覺得壓力",
-      "human_voice": "這段分享談到家庭／育兒、朋友／社交、健康／生活條件，也直接提到自己感到壓力。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "生活議題",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-06-12T05:46:15+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1754399519.A.DAD.html",
-      "title": "職場相處／工作條件和關係中的金錢分擔，我剛好都遇上了",
-      "human_voice": "這段分享同時談到職場相處／工作條件、關係中的金錢分擔、伴侶／婚姻互動。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "關係／金錢",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-08-05T13:11:57+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/CareerPlan/M.1611320278.A.A3C.html",
-      "title": "換工作／職涯轉換碰上求職／面試時，我真的覺得挫折",
-      "human_voice": "這段分享談到換工作／職涯轉換、求職／面試、婚禮／結婚經歷，也直接提到自己感到挫折。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "隱私／資料安全",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2021-01-22T12:57:57+00:00"
-    },
-    {
       "source_url": "https://www.ptt.cc/bbs/Salary/M.1704758905.A.B6F.html",
       "title": "我想找到做得久、也適合自己的工作，有哪些可能？",
       "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、財務／退休規劃和健康／生活條件。",
@@ -6801,73 +6612,6 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2024-01-09T00:08:23+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1789291210.A.31F.html",
-      "title": "家庭／育兒碰上消費／服務體驗時，我真的覺得挫折",
-      "human_voice": "這段分享談到家庭／育兒、消費／服務體驗、旅行／移動經歷，也直接提到自己感到挫折。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "生活議題",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2026-09-13T09:20:08+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1772597164.A.739.html",
-      "title": "騷擾／人身安全和寵物／陪伴，我剛好都遇上了",
-      "human_voice": "這段分享同時談到騷擾／人身安全、寵物／陪伴。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "日常生活／人際",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2026-03-04T04:06:02+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1772511324.A.91C.html",
-      "title": "居住／房產和家庭／育兒，我剛好都遇上了",
-      "human_voice": "這段分享同時談到居住／房產、家庭／育兒、朋友／社交。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "日常生活／人際",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2026-03-03T04:15:22+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/Boy-Girl/M.1753943795.A.6B1.html",
-      "title": "居住／房產碰上伴侶／婚姻互動時，我真的覺得焦慮",
-      "human_voice": "這段分享談到居住／房產、伴侶／婚姻互動、騷擾／人身安全，也直接提到自己感到焦慮。",
-      "classification_axes": [
-        "emotion",
-        "topic"
-      ],
-      "topic_label": "感情／關係",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2025-07-31T06:36:33+00:00"
-    },
-    {
-      "source_url": "https://www.ptt.cc/bbs/Salary/M.1702992910.A.015.html",
-      "title": "求職／面試和失落／告別經歷，我剛好都遇上了",
-      "human_voice": "這段分享同時談到求職／面試、失落／告別經歷。",
-      "classification_axes": [
-        "topic"
-      ],
-      "topic_label": "求職／職涯",
-      "age": "未知",
-      "market": "台灣",
-      "region": "亞洲",
-      "created_at_source": "2023-12-19T13:35:08+00:00"
     },
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1772370318.A.6A4.html",
@@ -6894,6 +6638,20 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2025-07-28T16:26:42+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/BabyMother/M.1748246392.A.FF2.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、財務／退休規劃和家庭／育兒。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2025-05-26T07:59:50+00:00"
     }
   ]
 }
