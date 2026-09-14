@@ -1,0 +1,41 @@
+name: Human Signal Layout Hotfix
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/hotfix-layout.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Patch frontend layout safely
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('facet_policy.js')
+          s=p.read_text(encoding='utf-8')
+          old1='.recommend,.method,.bottom-ad{display:none!important}'
+          new1='.recommend{display:block!important}.method,.bottom-ad{display:none!important}'
+          old2="#story{grid-template-columns:112px minmax(0,1fr)!important;gap:12px!important}.hs17-story-photo{min-height:205px!important}.hs17-story-copy{padding:8px 2px!important}.hs17-story-copy h3{font-size:19px!important}"
+          new2="#story{grid-template-columns:1fr!important;gap:12px!important}.hs17-story-photo{min-height:220px!important;width:100%!important}.hs17-story-copy{padding:10px 4px!important}.hs17-story-copy h3{font-size:21px!important}"
+          if old1 not in s:
+              raise SystemExit('expected recommendation hide rule not found')
+          if old2 not in s:
+              raise SystemExit('expected mobile story rule not found')
+          s=s.replace(old1,new1,1).replace(old2,new2,1)
+          s=s.replace("v17-visual-stories","v18-mobile-story-fix",1)
+          p.write_text(s,encoding='utf-8')
+          PY
+      - name: Commit hotfix
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add facet_policy.js
+          git commit -m 'fix: restore recommendations and stack mobile story card'
+          git push
