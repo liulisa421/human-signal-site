@@ -1,6 +1,6 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-15T22:34:55.803618+00:00",
+  "generated_at": "2026-09-15T23:02:19.905518+00:00",
   "items": [
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788820458.A.B4C.html",
@@ -5528,6 +5528,19 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2023-11-20T03:54:59+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1771234554.A.85A.html",
+      "title": "有件事一直放在心上，也讓我感到孤單",
+      "human_voice": "正在說一件放在心上的事，也直接提到自己感到孤單。",
+      "classification_axes": [
+        "emotion"
+      ],
+      "topic_label": "日常生活／人際",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2026-02-16T09:35:52+00:00"
     }
   ]
 }
