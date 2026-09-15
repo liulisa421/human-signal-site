@@ -1,6 +1,6 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-14T22:04:56.038884+00:00",
+  "generated_at": "2026-09-15T00:44:53.512674+00:00",
   "items": [
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788820458.A.B4C.html",
@@ -5499,6 +5499,35 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2025-05-26T07:59:50+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1701255362.A.173.html",
+      "title": "面對財務與退休，我怎麼安排才比較安心？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件、財務／退休規劃和朋友／社交。 也明確提到自己感到壓力。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "財務／退休",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-11-29T10:56:00+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1700452501.A.E71.html",
+      "title": "工作條件不太對勁，我的權益該怎麼顧？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉職場相處／工作條件和家庭／育兒。",
+      "classification_axes": [
+        "pain",
+        "topic"
+      ],
+      "topic_label": "職場條件／權益",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-11-20T03:54:59+00:00"
     }
   ]
 }
