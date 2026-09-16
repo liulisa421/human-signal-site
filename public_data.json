@@ -1,6 +1,6 @@
 {
   "schema": "human-signal-public-site-v1",
-  "generated_at": "2026-09-16T00:33:51.264013+00:00",
+  "generated_at": "2026-09-16T05:28:53.076510+00:00",
   "items": [
     {
       "source_url": "https://www.ptt.cc/bbs/WomenTalk/M.1788820458.A.B4C.html",
@@ -5541,6 +5541,21 @@
       "market": "台灣",
       "region": "亞洲",
       "created_at_source": "2026-02-16T09:35:52+00:00"
+    },
+    {
+      "source_url": "https://www.ptt.cc/bbs/Salary/M.1698162795.A.AA9.html",
+      "title": "我想換工作，又怕選錯：該怎麼判斷？",
+      "human_voice": "這次真正想處理的具體情境同時牽涉換工作／職涯轉換、伴侶／婚姻互動和婚禮／結婚經歷。 也明確提到自己感到壓力。",
+      "classification_axes": [
+        "pain",
+        "emotion",
+        "topic"
+      ],
+      "topic_label": "求職／職涯",
+      "age": "未知",
+      "market": "台灣",
+      "region": "亞洲",
+      "created_at_source": "2023-10-24T15:53:13+00:00"
     }
   ]
 }
